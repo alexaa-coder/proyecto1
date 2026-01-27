@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  documentacion:
+    build: .
+    container_name: docs-proyecto1
+    ports:
+      - "8080:80"
+    restart: always
+    environment:
+      NODE_ENV: production
