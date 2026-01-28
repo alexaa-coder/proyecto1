@@ -1,489 +1,432 @@
-# 📚 Proyecto 1: Gestor Documental de Compliance "AI-Ready"
+# 📚 Portal de Cumplimiento Normativo
 
-**Duración**: 10-12 Semanas (2-3 meses)  
-**Perfil**: Estudiantes de Grado Superior en Sistemas (ASIR/DAM)  
-**Tecnologías**: Docusaurus, Docker, Nginx, Linux, NotebookLM
+Plataforma centralizada para gestionar documentación normativa **ISO-13485** (Calidad en Productos Sanitarios) e **ISO-27001** (Seguridad de la Información).
 
----
-
-## 🎯 Objetivo del Proyecto
-
-Crear una plataforma centralizada y segura que aloje normativa ISO-13485 (Calidad Productos Sanitarios) e ISO-27001 (Seguridad de la Información), con versionado de documentos y estructurada semánticamente para que agentes de IA puedan indexarla y consultarla de manera autónoma.
+**Estado:** Semanas 1-2 completadas. Infraestructura lista para migración de contenido.
 
 ---
 
-## 📋 Requisitos Previos
+## 📋 Tabla de Contenidos
 
-Para ejecutar este proyecto necesitas tener instalado:
+- [Descripción](#descripción)
+- [Tecnologías](#-tecnologías)
+- [Requisitos](#-requisitos)
+- [Instalación](#-instalación-y-uso)
+- [Estructura del Proyecto](#-estructura-del-proyecto)
+- [Comandos Útiles](#-comandos-útiles)
+- [Mejoras Implementadas](#-mejoras-implementadas)
+- [Semanas de Desarrollo](#-semanas-de-desarrollo)
+- [Troubleshooting](#-troubleshooting)
+- [Notas Técnicas](#-notas-técnicas)
 
-- **Docker** (versión 20.x o superior)
-- **Docker Compose** (versión 2.x o superior)
-- **Git**
-- **Node.js 16+** (solo si vas a desarrollar localmente sin Docker)
+---
 
-### Verificar instalación:
+## 📖 Descripción
 
+Este proyecto crea un **portal web moderno** de documentación normativa usando tecnologías de **contenedorización** y **automatización**.
+
+### Objetivos
+
+✅ **Centralizar:** Normativa ISO-13485 e ISO-27001 en un único portal
+✅ **Estructurar:** Documentación semánticamente organizada
+✅ **Facilitar:** Consulta rápida y búsqueda integrada
+✅ **Mantener:** Versionado con Git para control de cambios
+✅ **Desplegar:** Infraestructura reproducible con Docker
+
+---
+
+## 🛠️ Tecnologías
+
+| Tecnología | Versión | Propósito |
+|-----------|---------|----------|
+| **Docusaurus** | 2.x | Generador de documentación (React) |
+| **Node.js** | 20 LTS | Runtime para build |
+| **Nginx** | Alpine | Servidor web (multi-stage build) |
+| **Docker** | 20.10+ | Conteinerización |
+| **Docker Compose** | v2 | Orquestación |
+| **Git** | 2.x | Control de versiones |
+| **Markdown** | CommonMark | Formato de documentación |
+
+---
+
+## 📦 Requisitos
+
+### Para ejecutar localmente
+```
+✓ Docker Engine 20.10+
+✓ Docker Compose v2 (recomendado) o v1.29+
+✓ Git 2.x
+✓ Navegador moderno (Chrome, Firefox, Edge)
+```
+
+**NO necesitas:**
+- ❌ Node.js local (está en el contenedor)
+- ❌ npm local (está en el contenedor)
+- ❌ Nginx local (está en el contenedor)
+
+### Configuración Inicial
+
+Agregar tu usuario al grupo docker (solo primera vez):
 ```bash
-docker --version
-docker-compose --version
-git --version
+sudo usermod -aG docker $USER
+exit
+# Abre nueva terminal o reconéctate
+```
+
+Verifica que funciona:
+```bash
+docker ps
 ```
 
 ---
 
-## 🚀 Instalación y Despliegue Rápido
+## 🚀 Instalación y Uso
 
 ### 1. Clonar el repositorio
-
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/aleexa-coder/documentacion-proyecto1.git
 cd documentacion-proyecto1
 ```
 
-### 2. Levantar el contenedor
-
+### 2. Levantar el servicio
 ```bash
 docker-compose up -d
 ```
 
-### 3. Verificar que está corriendo
+**Output esperado:**
+```
+Creating docs-proyecto1 ... done
+```
 
+### 3. Acceder al portal
+
+Abre tu navegador:
+```
+http://localhost:8080
+```
+
+Deberías ver el portal con menú lateral y documentación de ejemplo.
+
+### 4. Detener el servicio
 ```bash
-docker-compose ps
-```
-
-Deberías ver algo como:
-```
-     Name                   Command               State                  Ports                
-----------------------------------------------------------------------------------------------
-docs-proyecto1   /docker-entrypoint.sh ngin ...   Up      0.0.0.0:8080->80/tcp,:::8080->80/tcp
-```
-
-### 4. Acceder a la aplicación
-
-Abre tu navegador en: **http://localhost:8080**
-
----
-
-## 🛠️ Comandos Útiles
-
-### Gestión del contenedor:
-
-```bash
-# Ver logs en tiempo real
-docker-compose logs -f
-
-# Parar el contenedor
 docker-compose down
-
-# Reiniciar el contenedor
-docker-compose restart
-
-# Reconstruir la imagen (después de cambios en código)
-docker-compose up -d --build
-
-# Ver estado de los contenedores
-docker-compose ps
-
-# Ver uso de recursos
-docker stats docs-proyecto1
-```
-
-### Gestión de Docker:
-
-```bash
-# Ver todas las imágenes
-docker images
-
-# Ver todos los contenedores (incluso parados)
-docker ps -a
-
-# Limpiar recursos no utilizados
-docker system prune -a
-
-# Ver espacio utilizado
-docker system df
 ```
 
 ---
 
 ## 📁 Estructura del Proyecto
-
 ```
 documentacion-proyecto1/
-├── docs/                      # Contenido de la documentación (Markdown)
-│   ├── intro.md
-│   └── ...
-├── src/                       # Configuración y componentes de Docusaurus
+├── docs/                          # 📝 Documentación en Markdown
+│   ├── intro.md                   # Página de inicio
+│   ├── iso13485/                  # ISO-13485: Calidad
+│   │   ├── intro.md
+│   │   ├── requisitos-generales/
+│   │   ├── documentacion/
+│   │   ├── responsabilidad-direccion/
+│   │   ├── gestion-recursos/
+│   │   ├── realizacion-producto/
+│   │   └── medicion-mejora/
+│   └── iso27001/                  # ISO-27001: Seguridad
+│       ├── intro.md
+│       ├── control-acceso/
+│       ├── criptografia/
+│       ├── seguridad-fisica/
+│       ├── operaciones-comunicaciones/
+│       ├── gestion-incidentes/
+│       └── cumplimiento/
+│
+├── src/                           # 🎨 Código custom de Docusaurus
 │   ├── css/
+│   ├── components/
 │   └── pages/
-├── static/                    # Archivos estáticos (imágenes, PDFs)
-│   └── img/
-├── Dockerfile                 # Configuración multi-stage build
-├── docker-compose.yml         # Orquestación de servicios
-├── nginx.conf                 # Configuración del servidor Nginx
-├── package.json               # Dependencias de Node.js
-├── package-lock.json          # Lock file de dependencias
-├── docusaurus.config.js       # Configuración principal de Docusaurus
-├── sidebars.js                # Configuración de la barra lateral
-├── babel.config.js            # Configuración de Babel
-├── .gitignore                 # Archivos ignorados por Git
-└── README.md                  # Este archivo
+│
+├── static/                        # 📦 Archivos estáticos (imágenes, etc)
+│
+├── Dockerfile                     # 🐳 Multi-stage build
+├── docker-compose.yml             # 🎼 Orquestación
+├── nginx.conf                     # ⚙️ Configuración Nginx (seguridad, gzip)
+├── docusaurus.config.js           # ⚙️ Configuración de Docusaurus
+├── sidebars.js                    # 📋 Estructura del menú lateral
+├── package.json                   # 📦 Dependencias de Node.js
+├── .dockerignore                  # 🚫 Archivos que Docker ignora
+├── .gitignore                     # 🚫 Archivos que Git ignora
+├── README.md                      # 📖 Este archivo
+└── .github/                       # (Futuro: CI/CD workflows)
 ```
 
 ---
 
-## 🏗️ Arquitectura Técnica
+## 🐳 Comandos Útiles
 
-### Multi-Stage Build
-
-El proyecto utiliza **Docker Multi-Stage Build** para optimizar el tamaño de la imagen final:
-
-#### ¿Qué es Multi-Stage Build?
-
-Es dividir el Dockerfile en **múltiples etapas (stages)**, donde cada una puede usar una imagen base diferente. Esto permite:
-- Usar herramientas pesadas solo durante la compilación
-- Copiar únicamente los archivos necesarios a producción
-- Reducir drásticamente el tamaño de la imagen final
-
-#### Nuestro Dockerfile explicado:
-
-```dockerfile
-# ============================================
-# STAGE 1: BUILD (Compilación)
-# ============================================
-FROM node:16-alpine AS builder
-# Imagen base: Node.js 16 en Alpine Linux (ligera)
-# Alias: "builder" para referenciarla después
-
-WORKDIR /app
-# Directorio de trabajo dentro del contenedor
-
-COPY package*.json ./
-# Copia solo package.json y package-lock.json primero
-# (Aprovecha la caché de Docker si no cambian las dependencias)
-
-RUN npm install
-# Instala todas las dependencias de Node.js
-
-COPY . .
-# Copia el resto del código fuente
-
-RUN npm run build
-# Ejecuta el comando de build de Docusaurus
-# Genera archivos HTML/CSS/JS estáticos en /app/build
-
-# ============================================
-# STAGE 2: PRODUCTION (Servidor web)
-# ============================================
-FROM nginx:alpine
-# Nueva imagen base: Nginx en Alpine (mucho más ligera)
-# NO incluye Node.js ni herramientas de desarrollo
-
-COPY --from=builder /app/build /usr/share/nginx/html
-# Copia SOLO los archivos compilados desde el stage anterior
-# Los archivos van al directorio que Nginx usa para servir contenido
-
-COPY nginx.conf /etc/nginx/conf.d/default.conf
-# Copia nuestra configuración personalizada de Nginx
-
-EXPOSE 80
-# Expone el puerto 80 (HTTP)
-
-CMD ["nginx", "-g", "daemon off;"]
-# Comando para iniciar Nginx en primer plano
-```
-
-#### Ventajas del Multi-Stage Build:
-
-| Aspecto | Sin Multi-Stage | Con Multi-Stage |
-|---------|----------------|-----------------|
-| **Tamaño de imagen** | ~900 MB | ~40 MB |
-| **Tiempo de descarga** | Lento | Rápido |
-| **Seguridad** | Incluye herramientas dev | Solo archivos necesarios |
-| **Rendimiento** | Node.js sirviendo estáticos | Nginx optimizado |
-
----
-
-## 🐳 Docker Compose
-
-El archivo `docker-compose.yml` orquesta el despliegue:
-
-```yaml
-version: '3.8'
-
-services:
-  documentacion:
-    build: .                          # Construye desde el Dockerfile local
-    container_name: docs-proyecto1    # Nombre del contenedor
-    ports:
-      - "8080:80"                     # Puerto host:contenedor
-    restart: always                   # Reinicia automáticamente si falla
-    environment:
-      NODE_ENV: production            # Variable de entorno
-```
-
-**Explicación:**
-- `build: .` → Construye la imagen usando el Dockerfile en el directorio actual
-- `ports: "8080:80"` → Mapea el puerto 80 del contenedor al 8080 del host
-- `restart: always` → Si el contenedor se detiene, Docker lo reinicia automáticamente
-
----
-
-## 🔧 Configuración de Nginx
-
-El archivo `nginx.conf` configura cómo Nginx sirve los archivos:
-
-```nginx
-server {
-    listen 80;
-    server_name localhost;
-
-    root /usr/share/nginx/html;
-    index index.html;
-
-    location / {
-        try_files $uri $uri/ /index.html;
-    }
-
-    # Configuración adicional para Docusaurus
-    location ~* \.(?:css|js|jpg|jpeg|gif|png|ico|svg|woff|woff2|ttf|eot)$ {
-        expires 1y;
-        add_header Cache-Control "public, immutable";
-    }
-}
-```
-
-**Funciones clave:**
-- Sirve archivos desde `/usr/share/nginx/html`
-- Redirige todas las rutas a `index.html` (para SPA - Single Page Application)
-- Configura caché para archivos estáticos (mejora rendimiento)
-
----
-
-## 🧠 ¿Por qué Node.js en el Proyecto?
-
-### Node.js es OBLIGATORIO para Docusaurus porque:
-
-1. **Docusaurus está construido con Node.js**
-   - Es un framework JavaScript/React
-   - Necesita Node.js como runtime de ejecución
-
-2. **Gestión de dependencias**
-   - NPM descarga e instala +1000 paquetes necesarios
-   - Gestiona versiones y compatibilidad
-
-3. **Proceso de compilación (Build)**
-   - Transforma Markdown → HTML
-   - Compila componentes React → JavaScript optimizado
-   - Optimiza CSS, imágenes y assets
-   - Genera archivos estáticos para producción
-
-4. **Servidor de desarrollo**
-   - `npm start` levanta servidor local con hot-reload
-   - Permite desarrollo en tiempo real
-
-### ¿Por qué NO usamos Node.js en producción?
-
-```
-┌─────────────────────────────────────────────────────┐
-│  DESARROLLO LOCAL (Node.js)                         │
-│  npm start → localhost:3000                         │
-│  - Hot reload                                       │
-│  - Modo desarrollo                                  │
-│  - Archivos sin optimizar                           │
-└─────────────────────────────────────────────────────┘
-                      ↓
-                npm run build
-                      ↓
-┌─────────────────────────────────────────────────────┐
-│  PRODUCCIÓN (Nginx)                                 │
-│  Archivos estáticos HTML/CSS/JS                     │
-│  - Optimizados y minificados                        │
-│  - Sin dependencias de Node.js                      │
-│  - Imagen 20x más pequeña                           │
-│  - Mayor rendimiento                                │
-└─────────────────────────────────────────────────────┘
-```
-
-**Nginx es superior a Node.js para servir archivos estáticos:**
-- Consume menos memoria
-- Maneja más conexiones simultáneas
-- Mayor velocidad de respuesta
-- Mejor para caché y compresión
-
----
-
-## ✅ Checklist de Progreso
-
-### FASE 1: Infraestructura y Despliegue Base ✅
-
-- [x] **Semana 1: Configuración del entorno local**
-  - [x] Instalación de Node.js
-  - [x] Generación del esqueleto base de Docusaurus
-  - [x] Inicialización del repositorio Git
-  - [x] Configuración de ramas (main, dev)
-  - [x] Personalización de docusaurus.config.js
-
-- [x] **Semana 2: Containerización**
-  - [x] Creación de Dockerfile con multi-stage build
-  - [x] Configuración de docker-compose.yml
-  - [x] Verificación de persistencia
-  - [x] Pruebas en localhost:8080
-
-- [ ] **Semana 3: Despliegue en VPS** (No requerido para evaluación)
-  - Se omite en este proyecto ya que el tutor evaluará clonando el repositorio
-
-### FASE 2: Migración de Contenido ⏳
-
-- [ ] **Semana 4: Arquitectura de la Información**
-- [ ] **Semana 5-6: Migración Asistida con IA (NotebookLM)**
-- [ ] **Semana 7: Metadatos (Frontmatter)**
-
-### FASE 3: Seguridad y Producción ⏳
-
-- [ ] **Semana 8: Seguridad de Acceso**
-- [ ] **Semana 9: Motor de Búsqueda Local**
-- [ ] **Semana 10: Integración y Test con Agentes**
-
-### FASE 4: Documentación y Cierre ⏳
-
-- [ ] **Semana 11: Automatización de Mantenimiento**
-- [ ] **Semana 12: Manual de Operaciones**
-
----
-
-## 🐛 Solución de Problemas
-
-### El contenedor no inicia
-
+### Levantar el servicio
 ```bash
-# Ver logs detallados
-docker-compose logs
-
-# Ver logs en tiempo real
-docker-compose logs -f
-
-# Reconstruir la imagen
-docker-compose down
-docker-compose up -d --build
-```
-
-### Puerto 8080 ya en uso
-
-```bash
-# Ver qué está usando el puerto
-sudo lsof -i :8080
-
-# O cambiar el puerto en docker-compose.yml
-ports:
-  - "9090:80"  # Usa el puerto 9090 en lugar de 8080
-```
-
-### Error "Container name already in use"
-
-```bash
-# Listar todos los contenedores
-docker ps -a
-
-# Eliminar el contenedor existente
-docker rm -f nombre-del-contenedor
-
-# O usa docker-compose down primero
-docker-compose down
 docker-compose up -d
 ```
 
-### Cambios en el código no se reflejan
-
+### Ver logs en tiempo real
 ```bash
-# Reconstruir la imagen forzando
-docker-compose up -d --build --force-recreate
+docker-compose logs -f
+```
+
+**Salir:** `Ctrl+C`
+
+### Ver contenedores corriendo
+```bash
+docker ps
+```
+
+### Detener el servicio
+```bash
+docker-compose down
+```
+
+### Reconstruir la imagen (cambios en Dockerfile/package.json)
+```bash
+docker-compose build --no-cache
+docker-compose up -d
+```
+
+### Entrar en el contenedor (debugging)
+```bash
+docker-compose exec documentacion sh
+```
+
+### Ver la imagen construida
+```bash
+docker images | grep documentacion
+```
+
+### Eliminar la imagen (si necesitas clean)
+```bash
+docker rmi documentacion-proyecto1:latest
 ```
 
 ---
 
-## 📚 Recursos y Referencias
+## ✨ Mejoras Implementadas
 
-### Documentación oficial:
-- [Docusaurus](https://docusaurus.io/)
-- [Docker](https://docs.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
-- [Nginx](https://nginx.org/en/docs/)
+### Semana 1: Scaffold Base
 
-### Tecnologías utilizadas:
-- **Docusaurus 3.x**: Generador de sitios estáticos
-- **Node.js 16**: Runtime de JavaScript
-- **React 18**: Biblioteca de UI
-- **Nginx Alpine**: Servidor web ligero
-- **Docker**: Containerización
-- **Docker Compose**: Orquestación de contenedores
+✅ Instalación de Node.js 20 LTS
+✅ Generación de esqueleto Docusaurus
+✅ Inicialización de Git con ramas main/dev
+✅ Configuración básica de Docusaurus
+✅ Primera estructura de directorios (ISO-13485, ISO-27001)
+
+### Semana 2: Conteinerización
+
+✅ **Dockerfile multi-stage build:**
+- Etapa 1: Node.js para compilar
+- Etapa 2: Nginx para servir (imagen final ~50MB)
+
+✅ **docker-compose.yml:**
+- Orquestación automática
+- Reinicio automático si falla
+- Mapeo de puertos
+
+✅ **nginx.conf optimizado:**
+- Headers de seguridad (nosniff, SAMEORIGIN, XSS Protection)
+- Compresión gzip para assets
+- Caché inteligente (1 año para archivos estáticos)
+- Routing SPA (redirige a index.html)
+- Logs limpios (sin favicon/robots.txt)
+
+✅ **Seguridad:**
+- Node.js 20 (LTS, sin vulnerabilidades)
+- Alpine Linux (imagen pequeña y segura)
+- .dockerignore para no copiar archivos innecesarios
+
+### Otras Mejoras
+
+✅ **README.md completo** con instrucciones claras
+✅ **Configuración de permisos Docker** documentada
+✅ **.dockerignore** para reducir tamaño de build
+✅ **Commits descriptivos** en Git
+✅ **Verificación de headers HTTP** (curl)
 
 ---
 
-## 👨‍💻 Desarrollo Local (sin Docker)
+## 📅 Semanas de Desarrollo
 
-Si prefieres desarrollar sin Docker:
-
-```bash
-# Instalar dependencias
-npm install
-
-# Iniciar servidor de desarrollo
-npm start
-# Abre http://localhost:3000
-
-# Compilar para producción
-npm run build
-
-# Previsualizar build de producción
-npm run serve
-```
+| Semana | Estado | Tareas |
+|--------|--------|--------|
+| **1** | ✅ COMPLETA | Scaffold Docusaurus, Git, estructura base |
+| **2** | ✅ COMPLETA | Docker, Nginx, optimizaciones |
+| **3** | ⏳ A ESPERA | VPS (actualmente: docker-compose local) |
+| **4** | ⏳ PENDIENTE | Arquitectura de información (requiere PDFs) |
+| **5-7** | ⏳ PENDIENTE | Migración de contenido con IA |
+| **8-10** | ⏳ PENDIENTE | Seguridad, búsqueda, integración IA |
+| **11-12** | ⏳ PENDIENTE | Documentación final y cierre |
 
 ---
 
 ## 🔐 Seguridad
 
-**Nota**: Este proyecto incluirá en fases posteriores:
-- Autenticación con Basic Auth en Nginx
-- Certificados SSL/TLS con Let's Encrypt
-- Restricciones por IP/VPN
-- Firewall UFW configurado
+### Headers HTTP
+```nginx
+X-Content-Type-Options: nosniff          # Evita MIME sniffing
+X-Frame-Options: SAMEORIGIN              # Previene clickjacking
+X-XSS-Protection: 1; mode=block          # Protección XSS
+```
+
+### Compresión
+```nginx
+gzip on                                  # Ahorra ancho de banda
+Content-Encoding: gzip                   # Transparente para usuario
+```
+
+### Imágenes
+
+- **Node.js 20 LTS:** Sin vulnerabilidades críticas
+- **Nginx Alpine:** Imagen mínima, menos superficie de ataque
+- **No corre como root:** Contenedor usa usuario no privilegiado
+
+### Versionado
+
+- Git con ramas main (producción) / dev (desarrollo)
+- Commits descriptivos para auditoría
+- Historial completo de cambios
+
+---
+
+## 🐛 Troubleshooting
+
+### Puerto 8080 ya está en uso
+```bash
+# Opción 1: Cambiar puerto en docker-compose.yml
+ports:
+  - "9090:80"  # Ahora usa puerto 9090
+
+# Opción 2: Matar el proceso que usa puerto 8080
+sudo lsof -i :8080
+sudo kill -9 <PID>
+```
+
+### Cambios en docs no se reflejan
+```bash
+docker-compose down
+docker-compose build --no-cache
+docker-compose up -d
+```
+
+### Ver errores dentro del contenedor
+```bash
+docker-compose logs -f documentacion
+```
+
+### Nginx da error "add-header unknown directive"
+
+Verifica que escribiste `add_header` (con guion bajo, no guion):
+```nginx
+✅ add_header X-Content-Type-Options nosniff;
+❌ add-header X-Content-Type-Options nosniff;
+```
+
+### Docker no tiene permisos
+```bash
+sudo usermod -aG docker $USER
+exit
+# Reconéctate
+```
+
+### Imagen muy grande
+
+Verifica `.dockerignore` contiene:
+```
+node_modules
+.docusaurus
+build
+.git
+```
 
 ---
 
 ## 📝 Notas Técnicas
 
-### ¿Por qué Alpine Linux?
+### Multi-stage Build
 
-Alpine es una distribución Linux ultra-ligera:
-- Imagen base: ~5 MB (vs Ubuntu: ~70 MB)
-- Menor superficie de ataque (seguridad)
-- Menos dependencias
-- Ideal para contenedores
+La imagen final **solo contiene Nginx** (no Node.js):
 
-### ¿Por qué puerto 8080?
+1. **Builder stage:** Node.js instala dependencias y compila `build/`
+2. **Runtime stage:** Nginx sirve solo los archivos precompilados
 
-- Puerto 80 requiere privilegios de root en el host
-- 8080 es un puerto común para desarrollo
-- Fácilmente configurable en docker-compose.yml
+**Ventaja:** Imagen final ~50MB vs 1GB con Node.js incluido.
+
+### SPA Routing
+```nginx
+location / {
+    try_files $uri $uri/ /index.html;
+}
+```
+
+Permite que Docusaurus (Single Page Application) funcione correctamente. Si una ruta no existe, sirve `index.html` y deja que React maneje el routing.
+
+### Caché de Archivos Estáticos
+```nginx
+location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg)$ {
+    expires 1y;
+}
+```
+
+Archivos con hash (generados por Docusaurus) se cachean 1 año. El navegador NO los descarga de nuevo si ya los tiene.
+
+### Variables de Entorno
+```yaml
+environment:
+  NODE_ENV: production
+```
+
+**Nota:** Se quitó porque Nginx no lo necesita (Node.js solo se usa en build).
 
 ---
 
-## 📞 Soporte
+## 🔗 Referencias
 
-Para problemas o dudas sobre el proyecto, contacta con:
-- **Tutor del proyecto**: [nombre]
-- **Repositorio**: [URL del repositorio Git]
+- [Docusaurus](https://docusaurus.io/)
+- [Docker Documentation](https://docs.docker.com/)
+- [Nginx Documentation](https://nginx.org/)
+- [ISO-13485](https://www.iso.org/standard/59752.html)
+- [ISO-27001](https://www.iso.org/standard/27001)
+
+---
+
+## 👤 Autor
+
+Proyecto realizado como prácticas en empresa.
+
+**Tecnologías aprendidas:** Docker, Docker Compose, Nginx, Docusaurus, Git, Linux, Markdown, Seguridad Web
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto es parte de un trabajo académico para el IES Cañaveral.
+Interno - VRCardio
 
 ---
 
-**Última actualización**: Enero 2026  
-**Versión**: 1.0  
-**Estado**: Fase 1 completada ✅
+## ✅ Checklist de Verificación
+
+Antes de entregar:
+
+- [x] `docker-compose up -d` funciona sin errores
+- [x] Portal accesible en http://localhost:8080
+- [x] Menú lateral muestra ISO-13485 e ISO-27001
+- [x] Headers de seguridad presentes (`curl -I`)
+- [x] Nginx comprime con gzip
+- [x] Git tiene commits descriptivos
+- [x] README.md completo y actualizado
+- [x] `.dockerignore` configurado
+- [ ] PDFs normativos migrados (Semana 4+)
+
+---
+
+## 📞 Soporte
+
+En caso de problemas:
+
+1. Revisa la sección **Troubleshooting**
+2. Verifica `docker-compose logs -f`
+3. Asegúrate de tener permisos Docker (`docker ps`)
+4. Reconstruye con `docker-compose build --no-cache`
+
