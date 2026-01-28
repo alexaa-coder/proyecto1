@@ -7,5 +7,4 @@ services:
     ports:
       - "8080:80"
     restart: always
-    environment:
-      NODE_ENV: production
+#Quito la variable porque nginx ya no lo necesita
