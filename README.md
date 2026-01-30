@@ -3,7 +3,7 @@
 Portal web para la gestión y visualización de documentación normativa **ISO-13485** (Calidad en Productos Sanitarios) e **ISO-27001** (Seguridad de la Información).
 
 **Estado del proyecto:**  
-✅ Semanas 1 y 2 completadas (estructura base y contenedorización).
+Semanas 1 y 2 completadas (estructura base y contenedorización).
 
 ---
 
