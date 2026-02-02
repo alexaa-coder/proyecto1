@@ -27,14 +27,9 @@ const config = {
       onBrokenMarkdownLinks: 'warn',
     },
   },
-
-  i18n: {
-    defaultLocale: 'es',
-    locales: ['es'],
-  },
-
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang.
+
   i18n: {
     defaultLocale: 'es',
     locales: ['es'],
@@ -74,10 +69,36 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} VRCardio.`,
-      },
+
+footer: {
+  style: 'dark',
+  links: [
+    {
+      title: 'Normativas',
+      items: [
+        {
+          label: 'ISO-13485',
+          to: '/docs/iso13485/intro',
+        },
+        {
+          label: 'ISO-27001',
+          to: '/docs/iso27001/intro',
+        },
+      ],
+    },
+    {
+      title: 'Recursos',
+      items: [
+        {
+          label: 'VRCardio',
+          href: 'https://vrcardio.com',
+        },
+      ],
+    },
+  ],
+  copyright: `Copyright © ${new Date().getFullYear()} VRCardio. Todos los derechos reservados.`,
+},
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
