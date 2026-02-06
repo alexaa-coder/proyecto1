@@ -1,9 +1,4 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -12,23 +7,19 @@ const config = {
   tagline: 'ISO-13485 e ISO-27001',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/',
 
-  // GitHub pages deployment config.
   organizationName: 'VRCardio',
   projectName: 'documentacion-proyecto1',
 
   onBrokenLinks: 'throw',
-    markdown: {
+
+  markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'warn',
     },
   },
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang.
 
   i18n: {
     defaultLocale: 'es',
@@ -38,72 +29,76 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'Portal de Cumplimiento',
-        logo: {
-          alt: 'Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentación',
-          },
-        ],
-      },
-
-footer: {
-  style: 'dark',
-  links: [
-    {
-      title: 'Normativas',
+  themeConfig: {
+    navbar: {
+      title: 'Portal de Cumplimiento Normativo',
       items: [
         {
-          label: 'ISO-13485',
-          to: '/docs/iso13485/intro',
+          type: 'docSidebar',
+          sidebarId: 'iso13485',
+          position: 'left',
+          label: 'ISO 13485 - Calidad',
         },
         {
-          label: 'ISO-27001',
-          to: '/docs/iso27001/intro',
+          type: 'docSidebar',
+          sidebarId: 'iso27001',
+          position: 'left',
+          label: 'ISO 27001 - Seguridad',
+        },
+        {
+          href: 'https://github.com/aleexa-coder/documentacion-proyecto1',
+          label: 'Repositorio',
+          position: 'right',
         },
       ],
     },
-    {
-      title: 'Recursos',
-      items: [
+
+    footer: {
+      style: 'dark',
+      links: [
         {
-          label: 'VRCardio',
-          href: 'https://vrcardio.com',
+          title: 'Normativas',
+          items: [
+            {
+              label: 'ISO-13485',
+              to: '/docs/calidad-iso13485/introduccion',
+            },
+            {
+              label: 'ISO-27001',
+              to: '/docs/seguridad-iso27001/introduccion',
+            },
+          ],
+        },
+        {
+          title: 'Recursos',
+          items: [
+            {
+              label: 'VRCardio',
+              href: 'https://vrcardio.com',
+            },
+          ],
         },
       ],
+      copyright: `Copyright © ${new Date().getFullYear()} VRCardio. Todos los derechos reservados.`,
     },
-  ],
-  copyright: `Copyright © ${new Date().getFullYear()} VRCardio. Todos los derechos reservados.`,
-},
 
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-    }),
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  },
 };
 
 export default config;
