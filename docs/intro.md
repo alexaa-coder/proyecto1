@@ -1,35 +1,58 @@
 ---
-sidebar_position: 1
+title: Portal de Cumplimiento Normativo
+slug: /
+sidebar_position: 0  # ← AÑADIR ESTA LÍNEA
 ---
 
-# Tutorial Intro
+# Portal de Cumplimiento Normativo VRCardio
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bienvenido al portal centralizado de documentación normativa.
 
-## Getting Started
+## 📋 Normativas Implementadas
 
-Get started by **creating a new site**.
+### ISO-13485: Calidad en Productos Sanitarios
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Sistema de gestión de calidad para dispositivos médicos.
 
-## Generate a new site
+**Capítulos principales:**
+- Contexto de la organización
+- Liderazgo y compromiso
+- Planificación del SGC
+- Soporte y recursos
+- Operación y producción
+- Evaluación del desempeño
+- Mejora continua
 
-Generate a new Docusaurus site using the **classic template**:
+[Acceder a ISO-13485 →](./calidad-iso13485/00-introduccion.md)
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+---
 
-## Start your site
+### ISO-27001: Seguridad de la Información
 
-Run the development server:
+Sistema de gestión de seguridad de la información (SGSI).
 
-```shell
-cd my-website
+**Capítulos principales:**
+- Contexto de la organización
+- Liderazgo y política de seguridad
+- Planificación de riesgos
+- Soporte y competencias
+- Controles de seguridad
+- Evaluación y auditoría
+- Mejora continua
 
-npx docusaurus start
-```
+[Acceder a ISO-27001 →](./seguridad-iso27001/00-introduccion.md)
 
-Your site starts at `http://localhost:3000`.
+---
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+## 🔍 Búsqueda
+
+Utiliza el buscador superior para encontrar contenido específico.
+
+## 📚 Recursos Adicionales
+
+- [Repositorio GitHub](https://github.com/aleexa-coder/documentacion-proyecto1)
+- [VRCardio](https://vrcardio.com)
+
+---
+
+**Última actualización:** Febrero 2025
