@@ -26,7 +26,7 @@ El proyecto establece la **infraestructura técnica inicial** para un portal de 
 ## Tecnologías Utilizadas
 
 - **Docusaurus v3** – Generador de documentación
-- **Node.js 20 LTS** – Entorno de build
+- **Node.js 24 LTS** – Entorno de build
 - **Docker & Docker Compose** – Contenedorización
 - **Nginx (Alpine)** – Servidor web
 - **Git** – Control de versiones
@@ -46,3 +46,4 @@ El proyecto establece la **infraestructura técnica inicial** para un portal de 
 git clone https://github.com/aleexa-coder/documentacion-proyecto1.git
 cd documentacion-proyecto1
 docker-compose up -d
+
