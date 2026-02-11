@@ -26,7 +26,11 @@ El proyecto establece la **infraestructura técnica inicial** para un portal de 
 ## Tecnologías Utilizadas
 
 - **Docusaurus v3** – Generador de documentación
+<<<<<<< HEAD
 - **Node.js 24 LTS** – Entorno de build
+=======
+- **Node.js 20 LTS** – Entorno de build
+>>>>>>> 05742ec (semana 4, primera version)
 - **Docker & Docker Compose** – Contenedorización
 - **Nginx (Alpine)** – Servidor web
 - **Git** – Control de versiones

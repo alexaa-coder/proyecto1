@@ -1,5 +1,5 @@
 // @ts-check
-import {themes as prismThemes} from 'prism-react-renderer';
+const prismThemes = require('prism-react-renderer').themes;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -15,12 +15,6 @@ const config = {
 
   onBrokenLinks: 'throw',
 
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: 'warn',
-    },
-  },
-
   i18n: {
     defaultLocale: 'es',
     locales: ['es'],
@@ -29,6 +23,7 @@ const config = {
   presets: [
     [
       'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -41,21 +36,15 @@ const config = {
     ],
   ],
 
-  themeConfig: {
+  themeConfig: /** @type {import('@docusaurus/preset-classic').ThemeConfig} */ ({
     navbar: {
       title: 'Portal de Cumplimiento Normativo',
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'iso13485',
+          sidebarId: 'tutorialSidebar', // tu sidebar único generado automáticamente
           position: 'left',
-          label: 'ISO 13485 - Calidad',
-        },
-        {
-          type: 'docSidebar',
-          sidebarId: 'iso27001',
-          position: 'left',
-          label: 'ISO 27001 - Seguridad',
+          label: 'Normativas',
         },
         {
           href: 'https://github.com/aleexa-coder/documentacion-proyecto1',
@@ -64,41 +53,8 @@ const config = {
         },
       ],
     },
-
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Normativas',
-          items: [
-            {
-              label: 'ISO-13485',
-              to: '/docs/calidad-iso13485/introduccion',
-            },
-            {
-              label: 'ISO-27001',
-              to: '/docs/seguridad-iso27001/introduccion',
-            },
-          ],
-        },
-        {
-          title: 'Recursos',
-          items: [
-            {
-              label: 'VRCardio',
-              href: 'https://vrcardio.com',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} VRCardio. Todos los derechos reservados.`,
-    },
-
-    prism: {
-      theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
-    },
-  },
+  }),
 };
 
-export default config;
+module.exports = config;
+
