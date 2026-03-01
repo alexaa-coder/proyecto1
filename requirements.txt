@@ -1,0 +1,9 @@
+pymupdf
+pymupdf4llm
+python-docx
+pandas
+python-pptx
+Pillow
+pytesseract
+openpyxl
+tabulate
