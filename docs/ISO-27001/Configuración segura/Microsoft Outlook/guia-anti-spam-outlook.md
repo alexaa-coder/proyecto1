@@ -1,0 +1,14 @@
+---
+id: guia-anti-spam-outlook
+title: "Guía Anti Spam Outlook"
+sidebar_label: "Guía Anti Spam Outlook"
+---
+
+# **GUÍA ANTI-SPAM OUTLOOK**
+Para poner una capa más de seguridad en el correo electrónico es necesario asegurarse de que algunas configuraciones están correctamente aplicadas.
+1- Dirígete al apartado de configuración desde la aplicación de Outlook 2- Entra en el apartado “Correo”
+3- Entra en el apartado “Correo electrónico no deseado” 4- Dentro de este apartado debe estar marcada la opción “Estándar” debido a que
+recibimos correos de empresas externas como por ejemplo en los EDFs. En caso de que tengáis muy controlados los remitentes, podéis activar la opción
+“Estrícta”.
+5- Por último, debéis añadir en la lista “Remitentes y dominios seguros”, los remitentes y dominios (empresas) que sabéis con certeza que son de confianza.
+Por otro lado, de forma similar, debéis añadir a la lista “Dominios y remitentes

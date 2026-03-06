@@ -6,12 +6,15 @@ sidebar_label: "Risk Management Plan"
 
 # **G3. RISK MANAGEMENT PLAN** **Version 02**
 
+
 |Function:|Produced by:|Reviewed by:|Approved by:|
 |---|---|---|---|
 |Department:|Quality Assurance|Investigation<br />and<br />development|Executive Director|
 |Name:|Iván Pérez|Paula Gallego|Fernando Pozo|
 |Signature:||||
 |Date:|29/05/2025|29/05/2025|29/05/2025|
+
+
 
 ## **Content**
 
@@ -53,17 +56,20 @@ and/or product failure.
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 Define the methodology to ensure that risks and opportunities are identified and managed.
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 These analyses must be updated when device risks and technologies change. The main methods and procedures selected are focused on ISO 14971:2019 and ISO/TR 24971:2020.
 
 </div>
+
 
 ## **2. Acronyms and definitions**
 
@@ -119,6 +125,7 @@ risk evaluation according to their specific knowledge.
 
 ## **3. Responsibilities**
 
+
 |Department|Responsibilities|
 |---|---|
 |Executive Director|Assess potential risks from the perspective of usage and customer<br />complaints, such as feedback.|
@@ -126,12 +133,18 @@ risk evaluation according to their specific knowledge.
 |IT & Robotics|Assess potential risks from a hardware implementation<br />perspective.<br />Evaluate potential risks from a software implementation<br />perspective.<br />Assess possible risks from a production point of view and “control<br />procedures for non-conforming products” and implementation of<br />the “corrective and preventive action control strategy” in the<br />production process.|
 |Investigation and<br />development|Assess potential risks from a hardware and software<br />implementation perspective.|
 
+
+
+
 |Col1|Assist in the creation, review and approval of risk management<br />activities.|
 |---|---|
 |Sales|Responsible for providing information, as needed, regarding<br />marketing, usage, customer feedback, and new risks.|
 |Healthcare<br />professionals|Assess potential risks from the perspective of the clinical<br />environment and clinical practices and provide this information to<br />the manufacturer.|
 
+
+
 ## **4. Assignment of activities**
+
 
 |Risk<br />management<br />activities|Frequency or<br />trigger|Responsible<br />(Participants)|Notes|
 |---|---|---|---|
@@ -140,11 +153,14 @@ risk evaluation according to their specific knowledge.
 |Collect and<br />analyze<br />production and<br />post-production<br />information|Annually|Quality<br />Director and<br />Compliance<br />Manager|In accordance with:<br />- Information provided from the<br />production activity.<br />- Post-market surveillance plan|
 |Internal audit of<br />the risk<br />management<br />process|Annually|Auditor|--------|
 
+
+
 <div style={{textAlign: "justify"}}>
 
 ![](/img/risk-management-plan/Risk-Management-Plan.pdf-5-0.png)
 
 </div>
+
 
 ## **5. Review of Risk Management activities**
 
@@ -155,12 +171,14 @@ However, this list cannot be considered exhaustive, as there are risks that are 
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 It is crucial to regularly review and update the risk assessment. This review must be carried out at least once a year and recorded in the risk matrix. Additionally, it should be
 updated when necessary, such as in the event of changes to the medical device or when post-sales surveillance data indicates the need for re-evaluation.
 
 </div>
+
 
 <div style={{textAlign: "justify"}}>
 
@@ -169,6 +187,7 @@ sources, such as customer complaints, satisfaction surveys, customer and user op
 surveillance and clinical follow-up, technical updates and regulations, expert opinions, usability tests, published standards and incident reports available.
 
 </div>
+
 
 ## **6. Risk Management**
 
@@ -180,6 +199,7 @@ the application of ISO 14971 (as described in PNT-002 Risk Management Procedure)
 
 </div>
 
+
 ## **6.1. Risk assessment**
 
 <div style={{textAlign: "justify"}}>
@@ -188,6 +208,7 @@ For this evaluation, all possible effects of the risks will be identified and wi
 Number) has been calculated for each type of failure/danger.
 
 </div>
+
 
 The risk analysis will be developed as follows:
 
@@ -203,6 +224,7 @@ The risk analysis will be developed as follows:
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 Probability of the harm Description Score Improbable ≥ 1 in 1 000000 (&lt;10 [−6] ) 1
@@ -211,11 +233,13 @@ Probable ≥ 1 in 1000 (&lt;10 [−3] and ≥10 [−4] ) 4 Frequent ≥ 1 in 100
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 `o` Severity (S): severity of the identified risk occurring, assesses the level of
 
 </div>
+
 
 consequences.
 
@@ -226,11 +250,13 @@ discomfort
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 Serious / Major Results in injury or impairment requiring medical or surgical intervention
 
 </div>
+
 
 Catastrophic / Fatal Results in death 5
 
@@ -242,6 +268,7 @@ Once the evaluation of each risk has been made, the RPN (Risk Priority Number) i
 
 </div>
 
+
 **RPN = P x S**
 
 <div style={{textAlign: "justify"}}>
@@ -251,18 +278,23 @@ Therefore, even if the risk is acceptable is necessary to implement measures to 
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 The acceptability of the resulting RPN is based on pre-established cut-off values, such as:
 
 </div>
 
+
 Note:
+
 
 |RPN &lt;4|Acceptable risk|
 |---|---|
 |RPN≥ 4 but &lt; 15|Tolerable risk|
 |RPN≥ 15|Unacceptable risk|
+
+
 
 <div style={{textAlign: "justify"}}>
 
@@ -270,17 +302,20 @@ Acceptable Risks - Additional controls can be considered, but are not required.
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 Tolerable Risks – Risks should be reduced as far as possible (AFAP).
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 Unacceptable Risks - Design changes are needed to mitigate risk, or a benefit-risk analysis is needed to further assess benefit-risk.
 
 </div>
+
 
 ## **6.3. Review of the potential hazard plan**
 
@@ -290,6 +325,7 @@ The Risk Analysis is reviewed at least annually, taking into account the post-pr
 at least the following:
 
 </div>
+
 
  - Non-effective control measures: occurrence of danger;
 
@@ -314,6 +350,7 @@ data and/or studies carried out on other products.
 
 </div>
 
+
 ## **6.5. Production and post-production information**
 
 <div style={{textAlign: "justify"}}>
@@ -323,6 +360,7 @@ identified.
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 The collection of information related to the device in the post-production phase aims to obtain information related to the use, safety of the product and other relevant aspects.
@@ -330,6 +368,7 @@ This information can be obtained from different sources such as users, complaint
 in a change to the list of harms initially identified.
 
 </div>
+
 
 ## **6.6. Usability**
 
@@ -340,17 +379,20 @@ Application of usability engineering to medical devices series.
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 This process starts with the product conception and finishes in the end of the product use, passing through the different phases of development, labelling, distribution, and use.
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 It’s focused on the product security and try to understand the professional and the factors that can have some influence in the risk increase.
 
 </div>
+
 
 In this scope, the following parameters must be analyzed:
 
@@ -375,12 +417,14 @@ risk. However, it is also essential to ensure that risks are assessed based on w
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 Assessing residual risk may involve collecting and reviewing data on similar medical devices available on the market. If the residual risk is considered acceptable, users should
 be informed of significant residual risks.
 
 </div>
+
 
 ## **6.8. Results presentation and data review**
 
@@ -390,16 +434,19 @@ The risk analysis is reviewed at least once a year or whenever:
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 I. there is the intention to introduce changes in the device, product or process, either by internal initiative or in response to market information
 
 </div>
 
+
 <div style={{textAlign: "justify"}}>
 
 II. post-marketing surveillance data, including user feedback, reveals new risk, harm or hazard
 
 </div>
+
 
 III. changes in the state of the art

@@ -1,0 +1,28 @@
+---
+id: listado_proveedores_aprobados
+title: "Listado Proveedores Aprobados"
+sidebar_label: "Listado Proveedores Aprobados"
+---
+
+## Portada
+
+|   Unnamed: 0 | Unnamed: 1   |   Unnamed: 2 |   Unnamed: 3 | Unnamed: 4                       |
+|-------------:|:-------------|-------------:|-------------:|:---------------------------------|
+|          nan | nan          |          nan |          nan | Listado de proveedores aprovados |
+|          nan | nan          |          nan |          nan | nan                              |
+|          nan | nan          |          nan |          nan | nan                              |
+|          nan | nan          |          nan |          nan | nan                              |
+|          nan | nan          |          nan |          nan | nan                              |
+|          nan | nan          |          nan |          nan | nan                              |
+|          nan | Approved by: |          nan |          nan | Iván Pérez                       |
+|          nan | Date:        |          nan |          nan | 2025-07-10 00:00:00              |
+
+## Hoja1
+
+|   Nº | Nombre del proveedor   | Tipo de proveedor   | Producto / servicio                                                     | Evaluación final   | Fecha aprobación    | Responsable   | Observaciones                                                                                                                                                                                                                                                       |
+|-----:|:-----------------------|:--------------------|:------------------------------------------------------------------------|:-------------------|:--------------------|:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    3 | Google                 | No crítico          | Almacenamiento y procesamiento en la nube                               | Aprobado           | 2025-07-11 00:00:00 | Iván Pérez    | Google es un proveedor ampliamente reconocido, con términos de servicio públicos y disponibles. Proporciona servicios estándar no personalizados (correo, almacenamiento, colaboración), que pueden ser sustituidos por otros similares (Microsoft 365, Zoho, etc.) |
+|    4 | Atlasian               | No crítico          | Herramientas de gestión de proyectos y documentación (Jira, Confluence) | Aprobado           | 2025-07-11 00:00:00 | Iván Pérez    | Atlassian proporciona herramientas SaaS ampliamente utilizadas en el sector. La relación es estándar, bajo términos públicos sin personalización. El uso se limita a la gestión interna de proyectos, sin impacto directo en la conformidad del producto.           |
+|    5 | HTCert                 | No crítico          | Organismo notificado para evaluación de la conformidad según MDR        | Aprobado           | 2025-07-11 00:00:00 | Iván Pérez    | HTCert es un organismo notificado acreditado bajo el Reglamento (UE) 2017/745 (MDR). Su participación es puntual y basada en cumplimiento normativo obligatorio, sin relación contractual de largo plazo.                                                           |
+|    6 | SmartMDR               | No crítico          | nan                                                                     | Aprobado           | 2025-07-11 00:00:00 | Iván Pérez    | SmartMDR presta servicios de consultoría en cumplimiento con el MDR, como apoyo externo para la preparación documental.                                                                                                                                             |
+|    7 | Microsoft              | No crítico          | Suite ofimática, almacenamiento y comunicaciones (Microsoft 365)        | Aprobado           | 2025-07-11 00:00:00 | Iván Pérez    | Proveedor con amplia presencia global. Proporciona servicios no críticos usados para funciones administrativas y de soporte. Alternativas disponibles en el mercado.                                                                                                |
