@@ -8,24 +8,18 @@ sidebar_label: "Adr 001.02 Informe De Análisis De Riesgos 2024"
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
 
-
-
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-0-0.png)
 
 </div>
 
-
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-0-1.png)
 # **INFORME DE ANÁLISIS Y GESTIÓN DE** **RIESGOS**
-
 
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -33,16 +27,11 @@ sidebar_label: "Adr 001.02 Informe De Análisis De Riesgos 2024"
 
 </div>
 
-
-
 |HISTORIAL DEL DOCUMENTO|Col2|Col3|Col4|
 |---|---|---|---|
 |**Versión**|**Resumen de modificaciones**|**Fecha de**<br />**entrada**|**Sustituye a**<br />**(Código,**<br />**revisión)**|
 |01|Primera versión del documento.|11/03/2025|N/A|
 |02|Añadida la fórmula que se usa para calcular el<br />nivel de riesgo.|10/04/2025|01|
-
-
-
 
 |REGISTRO DE FIRMAS|Col2|Col3|Col4|
 |---|---|---|---|
@@ -52,14 +41,9 @@ sidebar_label: "Adr 001.02 Informe De Análisis De Riesgos 2024"
 |Firma:|<br />[DIGITAL SIGNATURE]<br />`SANCHEZ DAVID -`<br />` el día`<br />`10/04/2025`<br /> <br /> <br /><br /> <br />|<br /> <br /> <br /> <br /> <br /> <br />`Firmado por`<br />`RODRIGO RIVERO,`<br />`CARLOS`<br />`(AUTENTICACIÓN) el`<br />~~`ía 10/04/2025 con`~~|<br />`Firmado por`<br />` CARLOS`<br />`ZUÑIGA (R:`<br />`****8690*) el día`<br />~~`10/04/2025 con un`~~|
 |Fecha:|10/04/2025<br />|10/04/2025<br /> <br />|10/04/2025<br />|
 
-
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-2-0.png)
 ## **CONTENIDO**
@@ -92,12 +76,9 @@ sidebar_label: "Adr 001.02 Informe De Análisis De Riesgos 2024"
 
 6 PLAN DE TRATAMIENTO DE RIESGOS
 
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-3-0.png)
 ## **1 INTRODUCCIÓN**
@@ -108,13 +89,11 @@ Se ha realizado un análisis formal de riesgos del Sistema de Información de SP
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 conforme a los requisitos de la norma **ISO/IEC 27001** :2022, específicamente en lo relacionado
 
 </div>
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -122,20 +101,17 @@ con la **evaluación y tratamiento de riesgos** (Cláusula 6.1.2 y Anexo A). Est
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 las mejores prácticas reconocidas en el ámbito de la seguridad de la información.
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 La metodología utilizada para el análisis y la gestión de riesgos ha sido **MAGERIT**
 
 </div>
-
 
 **(Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información) v3.0**,
 
@@ -145,13 +121,11 @@ que es plenamente compatible con los principios de la ISO/IEC 27001.
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 Los niveles de riesgos tomados en consideración para la realización del análisis de riesgos se
 
 </div>
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -159,13 +133,11 @@ calculan multiplicando la probabilidad de que suceda el riesgo por el impacto qu
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 el caso de que suceda. Primero se establecen valores del 1 al 4 para la probabilidad y el
 
 </div>
-
 
 impacto, para posteriormente multiplicar esos valores.
 
@@ -175,7 +147,6 @@ Con estos valores, los niveles de riesgo son los siguientes:
 
 </div>
 
-
  - **Riesgo CRITICAL (de 12 a 16)** : Los activos con esta combinación de impacto y
 
 <div style={{textAlign: "justify"}}>
@@ -184,13 +155,11 @@ probabilidad son altamente críticos y deben ser tratados con urgencia para redu
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 impacto potencial de las amenazas. Este nivel se genera cuando el **Impacto** es **"A"**
 
 </div>
-
 
 (severamente alto) y la **probabilidad** es alta.
 
@@ -202,13 +171,11 @@ tener un impacto negativo significativo en la seguridad o la operación, aunque 
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 grave como los riesgos críticos. Generalmente, estos niveles ocurren cuando el
 
 </div>
-
 
 **Impacto** es **"M"** (alto) con una probabilidad también considerable.
 
@@ -220,13 +187,11 @@ inmediata a las operaciones. A menudo, el **Impacto** en estos casos es **"B"** 
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 el **Impacto** es **"M"** pero con una baja probabilidad de ocurrencia.
 
 </div>
-
 
  - **Riesgo LIMITED (de 1 a 3)** : Los riesgos limitados son aquellos con **Impacto** bajo y
 
@@ -234,12 +199,9 @@ el **Impacto** es **"M"** pero con una baja probabilidad de ocurrencia.
 
 sistema, pero aun así deben ser monitoreados.
 
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -247,17 +209,13 @@ sistema, pero aun así deben ser monitoreados.
 
 </div>
 
-
 Impact
-
 
 |4|Col2|12|Col4|
 |---|---|---|---|
 |**3 **|**6 **|**9 **||
 |**2 **|**4 **|**6 **|**8 **|
 |**1 **|**2 **|**3 **|**4 **|
-
-
 
 1 2 3 4
 
@@ -271,7 +229,6 @@ El presente análisis afecta a todos los activos que quedan bajo el alcance del 
 
 </div>
 
-
 Información de SPIKA TECH.
 
 ## **3 NORMATIVA APLICABLE**
@@ -281,7 +238,6 @@ Información de SPIKA TECH.
 Es aplicable toda la normativa establecida en el documento de **RGS_1 NORMATIVA**
 
 </div>
-
 
 **APLICABLE**, que se actualizara de forma periódica Las Políticas, Normas y Procedimientos
 
@@ -297,20 +253,15 @@ Se ha realizado un inventario pormenorizado de los activos, y posteriormente, es
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 clasificados y agrupados bajo una categoría específica denominada 'asset type'.
 
 </div>
 
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -318,30 +269,23 @@ clasificados y agrupados bajo una categoría específica denominada 'asset type'
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-5-1.png)
 
 </div>
 
-
 **4.2** **LISTADO DE AMENAZAS**
-
 
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-6-0.png)
 
 </div>
-
-
 
 |ID|Threats<br />[Desastre] Fuego, agua o desastres naturales<br />[Actividad malintencionada / abuso] Fuga de información<br />[Actividad malintencionada / abuso] Introducción de falsa información<br />[Actividad malintencionada / abuso] Alteración de la información<br />[Actividad malintencionada / abuso] Destrucción de información<br />[Actividad malintencionada / abuso] Interceptación de información (escucha)<br />[Malfuncionamiento] Corte del suministro eléctrico<br />[Desastre] Condiciones inadecuadas de temperatura o humedad<br />[Malfuncionamiento] Fallo de servicios de comunicaciones|
 |---|---|
@@ -371,8 +315,6 @@ clasificados y agrupados bajo una categoría específica denominada 'asset type'
 |TH24|TH24|
 |TH25|[Actividad malintencionada / abuso] Ingeniería social|
 
-
-
 **4.3** **NIVEL DE MADUREZ**
 
 <div style={{textAlign: "justify"}}>
@@ -381,13 +323,11 @@ Se han implementado los controles establecidos por la norma ISO 27001, asegurand
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 cumplimiento en todos los aspectos relevantes. Además, se ha llevado a cabo una evaluación
 
 </div>
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -395,13 +335,11 @@ del nivel de madurez para cada uno de estos controles, con el fin de medir su ef
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 determinar las áreas de mejora necesarias para optimizar el sistema de gestión de la
 
 </div>
-
 
 seguridad de la información.
 
@@ -411,13 +349,9 @@ Para ello, se ha tenido en cuenta la siguiente tabla de equivalencias:
 
 </div>
 
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -425,14 +359,11 @@ Para ello, se ha tenido en cuenta la siguiente tabla de equivalencias:
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-7-1.png)
 
 </div>
-
-
 
 |Eficacia de la Salvaguarda|Col2|Descripción|
 |---|---|---|
@@ -441,14 +372,9 @@ Para ello, se ha tenido en cuenta la siguiente tabla de equivalencias:
 |**L1 -**<br />**Inicial/ad-**<br />**hoc**|**10%**|<br />En el nivel L1 de madurez, el proceso existe, pero no se gestiona. Cuando la<br />organización no proporciona un entorno estable.<br />El éxito o fracaso del proceso depende de la competencia y buena voluntad<br />de las personas y es difícil prever la reacción ante una situación de emergencia.<br />En este caso, las organizaciones exceden con frecuencia presupuestos y<br />tiempos de respuesta. El éxito del nivel L1 depende de tener personal de alta<br />calidad.|
 |**L2 -**<br />**Reproducibl**<br />**e, pero**<br />**intuitivo**|**50%**|<br />En el nivel L2 de madurez, la eficacia del proceso depende de la buena suerte<br />y de la buena voluntad de las personas.<br />Existe un mínimo de planificación que proporciona una pauta a seguir<br />cuando se repiten las mismas circunstancias.<br />Es impredecible el resultado si se dan circunstancias nuevas.<br />Todavía hay un riesgo significativo de exceder las estimaciones de coste y<br />riesgo.|
 
-
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -456,15 +382,10 @@ Para ello, se ha tenido en cuenta la siguiente tabla de equivalencias:
 
 </div>
 
-
-
 |L3 -<br />Proceso<br />definido|80%|Se dispone un catálogo de procesos que se mantiene actualizado. Estos<br />procesos garantizan la consistencia de las actuaciones entre las diferentes<br />partes de la organización, que adaptan sus procesos particulares al proceso<br />general. Hay normativa establecida y procedimientos para garantizar la<br />reacción profesional ante los incidentes.<br />Se ejerce un mantenimiento regular. Las oportunidades de sobrevivir son<br />altas, aunque siempre queda el factor de lo desconocido (o no planificado). El<br />éxito es algo más que buena suerte: se merece.<br />Una diferencia importante entre el nivel 2 y el nivel 3 es la coordinación entre<br />departamentos y proyectos, coordinación que no existe en el nivel 2, y que se<br />gestiona en el nivel 3.|
 |---|---|---|
 |**L4 -**<br />**Gestionado**<br />**y Medible**|**90%**|<br />Cuando se dispone de un sistema de medidas y métricas para conocer el<br />desempeño (eficacia y eficiencia) de los procesos.<br />La Dirección es capaz de establecer objetivos cualitativos a alcanzar y<br />dispone de medios para valorar si se han alcanzado los objetivos y en qué<br />medida. En el nivel L4 de madurez, el funcionamiento de los procesos está bajo<br />control con técnicas estadísticas y cuantitativas.<br />La confianza es cuantitativa, mientras que en el nivel L3, la confianza era<br />solamente cualitativa.|
 |**L5 -**<br />**Optimizado**|**100%**|**Optimizado.** <br />El nivel L5 de madurez se centra en la mejora continua de los procesos con<br />mejoras tecnológicas incrementales e innovadoras.<br />Se establecen objetivos cuantitativos de mejora. Y se revisan<br />continuamente para reflejar los cambios en los objetivos de negocio,<br />utilizándose como indicadores en la gestión de la mejora de los procesos.<br />En este nivel la organización es capaz de mejorar el desempeño de los<br />sistemas a base de una mejora continua de los procesos basada en los<br />resultados de las medidas e indicadores.|
-
-
-
 
 |ID|Controls|Assessment Maturity<br />2024|
 |---|---|---|
@@ -473,22 +394,15 @@ Para ello, se ha tenido en cuenta la siguiente tabla de equivalencias:
 |C003|Contacto con las autoridades y grupos de interés|2|
 |C004|Inteligencia de amenazas|2|
 
-
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-9-0.png)
 
 </div>
-
-
 
 |C005|Seguridad de la información en la gestión de proyectos|3|
 |---|---|---|
@@ -543,22 +457,15 @@ Para ello, se ha tenido en cuenta la siguiente tabla de equivalencias:
 |C055|Gestión de capacidades|3|
 |C056|Protección contra el malware|2,5|
 
-
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-10-0.png)
 
 </div>
-
-
 
 |C057|Gestión de vulerabilidades técnicas|3|
 |---|---|---|
@@ -588,8 +495,6 @@ Para ello, se ha tenido en cuenta la siguiente tabla de equivalencias:
 |C081|Test information|3|
 |C082|Protección de los sistemas de información durante las auditorías|3|
 
-
-
 ## **5 RESULTADOS**
 
 **5.1** **AMENAZAS CON NIVEL DE IMPACTO Y PROBABILIDAD ELEVADA**
@@ -600,13 +505,11 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 (3,0 – 4,0) e impacto **alto** (3,0-4,0), son las que siguen:
 
 </div>
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -614,20 +517,15 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 
 </div>
 
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-11-0.png)
 
 </div>
-
 
 **5.2** **AMENANZAS CON PROBABILIDAD BAJA Y NIVEL DE IMPACTO ELEVADO**
 
@@ -637,13 +535,11 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 (1,0 – 2,0) e impacto **alto** (3,0-4,0), son las que siguen:
 
 </div>
-
 
 **5.3** **AMENANZAS CON PROBABILIDAD BAJA Y NIVEL DE IMPACTO BAJO**
 
@@ -653,13 +549,11 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 (1,0 – 2,0) e impacto **bajo** (1,0-2,0), son las que siguen:
 
 </div>
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -667,28 +561,21 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-11-2.png)
 
 </div>
 
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-12-0.png)
 
 </div>
-
-
 
 |5.4 ACTIVOS CON NIVEL DE RIESGO MAJOR (9-12)|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|
 |---|---|---|---|---|---|---|---|---|
@@ -717,22 +604,15 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 ||AS13|Laptop|TH14|[Daños accidentales] Errores de configuración|2,0|3,0|6,0|MAJOR|
 ||AS13|Laptop|TH17|[Daños accidentales] Errores de mantenimiento / actualización de programas<br />(software)|2,0|3,0|6,0|MAJOR|
 
-
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-13-0.png)
 
 </div>
-
-
 
 |Col1|AS13|Laptop|TH19|[Daños accidentales] Pérdida de equipos|2,0|4,0|8,0|MAJOR|
 |---|---|---|---|---|---|---|---|---|
@@ -762,14 +642,9 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 ||AS26|Datos de carácter personal|TH03|[Actividad malintencionada / abuso] Introducción de falsa información|2,0|3,0|6,0|MAJOR|
 ||AS26|Datos de carácter personal|TH15|[Daños accidentales] Degradación de los soportes de almacenamiento de la<br />información|2,0|4,0|8,0|MAJOR|
 
-
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -777,16 +652,11 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 
 </div>
 
-
-
 |Col1|AS27|Copias de seguridad|TH03|[Actividad malintencionada / abuso] Introducción de falsa información|2,0|3,0|6,0|MAJOR|
 |---|---|---|---|---|---|---|---|---|
 ||AS27|Copias de seguridad|TH15|[Daños accidentales] Degradación de los soportes de almacenamiento de la<br />información|2,0|4,0|8,0|MAJOR|
 ||AS28|Registros de actividad (logs)|TH04|[Actividad malintencionada / abuso] Alteración de la información|2,5|2,5|6,3|MAJOR|
 ||AS28|Registros de actividad (logs)|TH05|[Actividad malintencionada / abuso Destrucción de información|2,5|2,5|6,3|MAJOR|
-
-
-
 
 |5.5 ACTIVOS CON NIVEL DE RIESGO CRITICAL (12-16)|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
 |---|---|---|---|---|---|---|---|
@@ -814,22 +684,15 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 |AS19|Magallanes|TH22|[Actividad malintencionada / abuso] Acceso no autorizado|4,0|4,0|16,0|CRITICAL|
 |AS20|Plataforma comercial|TH16|[Actividad malintencionada / abuso] Instalación de software dañino|4,0|3,0|12,0|CRITICAL|
 
-
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 <div style={{textAlign: "justify"}}>
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-15-0.png)
 
 </div>
-
-
 
 |AS20|Plataforma comercial|TH21|[Actividad malintencionada / abuso] Abuso de privilegios de acceso|3,0|4,0|12,0|CRITICAL|
 |---|---|---|---|---|---|---|---|
@@ -849,14 +712,9 @@ Las **amenazas** del sistema de información de SPIKA TECH identificadas con Pro
 |AS27|Copias de seguridad|TH05|[Actividad malintencionada / abuso Destrucción de información|4,0|4,0|16,0|CRITICAL|
 |AS27|Copias de seguridad|TH06|[Actividad malintencionada / abuso] Interceptación de información (escucha)|3,0|4,0|12,0|CRITICAL|
 
-
-
-
 |Col1|INFORME DE ANÁLISIS Y<br />GESTIÓN DE RIESGOS|Código: ADR-001.02|
 |---|---|---|
 ||USO OFICIAL<br />INTERNO RESTRINGIDO|<br />Fecha de vigor: 10/04/2025<br />|
-
-
 
 ![](/img/adr-001-02_informe-de-análisis-de-riesgos-2024/ADR-001.02_INFORME-DE-ANÁLISIS-DE-RIESGOS-2024.pdf-16-0.png)
 ## **6 PLAN DE TRATAMIENTO DE RIESGOS**
@@ -867,13 +725,11 @@ Se procederá a la elaboración de un plan de tratamiento de riesgos, centrado e
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 prioritariamente aquellos riesgos clasificados como 'Major' o 'Critical'. Este enfoque permitirá
 
 </div>
-
 
 <div style={{textAlign: "justify"}}>
 
@@ -881,19 +737,16 @@ dirigir los recursos y esfuerzos hacia la mitigación de los riesgos más signif
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 asegurando que se implementen medidas efectivas para reducir su impacto y probabilidad. El
 
 </div>
 
-
 <div style={{textAlign: "justify"}}>
 
 plan estará alineado con los objetivos estratégicos de la organización, garantizando una
 
 </div>
-
 
 gestión proactiva y eficiente de los riesgos más críticos.
