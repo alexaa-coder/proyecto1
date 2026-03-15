@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-qa-ivan-perez/Ingeniero_de_QA_Ivan_Perez.pdf-0-full.png)

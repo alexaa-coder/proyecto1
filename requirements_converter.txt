@@ -1,6 +1,4 @@
 pymupdf4llm
 pandas
-openpyxl
 tabulate
-pathlib
-argparse
+openpyxl

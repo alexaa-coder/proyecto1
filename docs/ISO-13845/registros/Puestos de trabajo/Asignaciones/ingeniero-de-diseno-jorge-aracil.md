@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-diseno-jorge-aracil/Ingeniero_de_diseño_Jorge_Aracil.pdf-0-full.png)

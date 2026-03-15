@@ -1,0 +1,7 @@
+![](/img/base-datos-planes-capa/Base_datos_planes_capa.pdf-0-full.png)
+![](/img/base-datos-planes-capa/Base_datos_planes_capa.pdf-1-full.png)
+![](/img/base-datos-planes-capa/Base_datos_planes_capa.pdf-2-full.png)
+![](/img/base-datos-planes-capa/Base_datos_planes_capa.pdf-3-full.png)
+![](/img/base-datos-planes-capa/Base_datos_planes_capa.pdf-4-full.png)
+![](/img/base-datos-planes-capa/Base_datos_planes_capa.pdf-5-full.png)
+![](/img/base-datos-planes-capa/Base_datos_planes_capa.pdf-6-full.png)

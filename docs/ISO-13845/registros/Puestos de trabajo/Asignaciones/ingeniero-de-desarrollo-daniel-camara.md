@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-desarrollo-daniel-camara/Ingeniero_de_desarrollo_Daniel_Camara.pdf-0-full.png)

@@ -1,0 +1,1 @@
+![](/img/martac1/MARTAC~1.PDF-0-full.png)

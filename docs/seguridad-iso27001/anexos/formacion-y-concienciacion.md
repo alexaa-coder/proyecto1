@@ -1,0 +1,41 @@
+## Control
+
+| Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 |
+|-------------:|:-----------------------------|:----------------------------------------------------|:--------------------|
+| nan | nan | nan | nan |
+| nan | nan | nan | nan |
+| nan | RESPONSABLE DE MANTENIMIENTO | ACCIONES | FECHA DE REVISIÓN |
+| nan | Responsable del SGSI | Creación y rellenado del plan de formación del 2025 | 2025-03-16 00:00:00 |
+
+## Plan formación ciber 2025
+
+| Formación 2025 | Enero | Febrero | Marzo | Unnamed: 4 | Abril | Mayo | Unnamed: 7 | Junio | Julio | Unnamed: 10 | Agosto | Septiembre | Octubre | Noviembre | Diciembre |
+|:-----------------------------|:----------------|:-----------------|:------------------------------|:------------------------------------------|:------------------------------|:---------------------------------|:--------------------------------------------------|--------:|:---------------------------------|:-------------------------------------|---------:|:-----------------------|----------:|:----------------------------------------|------------:|
+| nan | Infografías 1-6 | Infografías 7-12 | Curso CCN - Básico (15 horas) | Curso CCN - Correo electrónico (15 horas) | Curso de gestión de proyectos | Sesión de formación - Ransomware | Curso AENOR - Ciberseguridad en pymes (150 horas) | nan | Curso CCN - Ramsoware (15 horas) | Curso CCN - Windows/Linux (15 horas) | nan | Simulación de Phishing | nan | Sesión de formación - Ingeniería social | nan |
+| Alfonso Martinez | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Álvaro Gutierrez García | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Carlos Rodrigo Rivero | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Carlos Zúñiga Arnau | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Daniel Cámara Núñez | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| David Pozo Sánchez | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Fernando Pozo | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Ioana Cretu Andrei | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Iván Pérez Ciruelos | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Jaime De Castro | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Javier Vico Gallego | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Jorge Aracil | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Jose Martín Rodríguez | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Julián Sánchez Sánchez | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Luis Daniel Clemente Garrido | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Marta Celia Arnaiz | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Pablo Rubio Donezar | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Paloma Carretero Santos | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Raúl Cordón | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Roxana Nicoleta Aanei | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Sotiris Rekoumis | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Vicente Gallego | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Completado | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| No aplica | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| A la espera | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| No realizado | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |

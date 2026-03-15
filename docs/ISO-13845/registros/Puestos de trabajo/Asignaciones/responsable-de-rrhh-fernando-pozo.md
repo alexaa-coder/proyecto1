@@ -1,0 +1,1 @@
+![](/img/responsable-de-rrhh-fernando-pozo/Responsable_de_RRHH_Fernando_Pozo.pdf-0-full.png)

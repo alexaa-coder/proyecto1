@@ -1,0 +1,2 @@
+![](/img/jefe-de-seguridad-suplente-david-pozo/Jefe_de_seguridad_suplente_David_Pozo.pdf-0-full.png)
+![](/img/jefe-de-seguridad-suplente-david-pozo/Jefe_de_seguridad_suplente_David_Pozo.pdf-1-full.png)

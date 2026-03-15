@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-desarrollo-ioana-cretu/Ingeniero_de_desarrollo_Ioana_Cretu.pdf-0-full.png)

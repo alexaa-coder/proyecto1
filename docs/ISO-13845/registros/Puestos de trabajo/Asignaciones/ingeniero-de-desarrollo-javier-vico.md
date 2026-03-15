@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-desarrollo-javier-vico/Ingeniero_de_desarrollo_Javier_Vico.pdf-0-full.png)
