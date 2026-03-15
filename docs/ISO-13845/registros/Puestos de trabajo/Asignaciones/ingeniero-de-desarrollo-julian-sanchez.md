@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-desarrollo-julian-sanchez/Ingeniero_de_desarrollo_Julian_Sanchez.pdf-0-full.png)

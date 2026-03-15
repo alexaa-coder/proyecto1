@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-desarrollo-ivan-perez/Ingeniero_de_desarrollo_Ivan_Perez.pdf-0-full.png)

@@ -1,0 +1,1 @@
+![](/img/responsable-comercial-carlos-zuniga/Responsable_comercial_Carlos_Zuñiga.pdf-0-full.png)

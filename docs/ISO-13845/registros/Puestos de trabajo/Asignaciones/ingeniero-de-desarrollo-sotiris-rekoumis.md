@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-desarrollo-sotiris-rekoumis/Ingeniero_de_desarrollo_Sotiris_Rekoumis.pdf-0-full.png)

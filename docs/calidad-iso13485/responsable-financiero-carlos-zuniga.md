@@ -1,0 +1,1 @@
+![](/img/responsable-financiero-carlos-zuniga/Responsable_financiero_Carlos_Zuñiga.pdf-0-full.png)

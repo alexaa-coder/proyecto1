@@ -1,0 +1,1 @@
+![](/img/solicitud-licencia-signed/SOLICITUD-LICENCIA_signed.pdf-0-full.png)

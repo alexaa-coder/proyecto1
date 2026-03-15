@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-diseno-paloma-carretero/Ingeniero_de_diseño_Paloma_Carretero.pdf-0-full.png)

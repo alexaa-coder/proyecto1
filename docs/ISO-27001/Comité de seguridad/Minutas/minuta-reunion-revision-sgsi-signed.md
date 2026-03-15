@@ -1,0 +1,191 @@
+16/4/25, 13:53 Microsoft Forms
+
+
+Ver resultados
+
+
+
+Encuestado
+
+
+42
+
+
+# David Pozo Sánchez 03:48
+
+Tiempo para
+
+
+
+completar
+
+
+Información básica de la reunión
+
+
+En esta sección se recopilan los datos generales y contextuales de la reunión, para identificarla y asociarla con proyectos específicos.
+
+
+1. Título de la reunión *
+
+Indica un título breve y descriptivo que resuma el propósito o tema principal de la reunión.
+
+
+Revisión SGSI
+
+
+2. Proyecto asociado *
+
+Selecciona el proyecto relacionado con la reunión. Esto ayuda a organizar y categorizar las reuniones dentro de un contexto de trabajo.
+
+
+Reunión general
+
+
+VR-CARDIO
+
+
+PRAS
+
+
+SESIOP
+
+
+REACT-II
+
+
+CASSATA
+
+
+EISNET
+
+
+La primera vuelta al mundo
+
+
+ISO 27001
+
+
+3. Fecha de la reunión *
+
+Indica la fecha en la que se realizó la reunión.
+
+
+16/4/2025
+
+
+4. Hora de la reunión *
+
+Indica la hora exacta en la que inició la reunión. Esto es útil para gestionar agendas y coordinar horarios futuros.
+
+
+11:30
+
+
+https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=XAuV2V0MNkShICyF7lJ8BSicBoJesrtNtJ3lurjq… 1/3
+
+
+16/4/25, 13:53 Microsoft Forms
+
+
+5. Especifica dónde se llevó a cabo la reunión, ya sea presencial o virtual. *
+
+Texto de una sola línea.
+
+
+Teams
+
+
+6. Asistentes a la reunión y roles *
+
+Indicar las personas/empresas que asistieron a la reunión
+
+
+Carlos Zúñiga: CEO
+Carlos Rodrigo: CIO
+Vicente Gallego: CSO
+Jaime de Castro: CTO
+David Pozo: Responsable del SGSI
+
+
+Resultados y acuerdos
+
+
+En esta sección se documentan los aspectos más relevantes de la reunión, incluyendo los temas tratados, las decisiones tomadas y los próxi‐
+mos pasos a seguir.
+
+
+7. Puntos clave discutidos *
+
+Resume los temas principales abordados durante la reunión. Estos pueden incluir ideas, problemas tratados, actualizaciones o propuestas.
+Ejemplo:
+
+
+Presentación de avances en el desarrollo del prototipo.
+Discusión sobre retos técnicos del hardware.
+Evaluación de opciones de financiamiento.
+
+
+Revisión del SGSI para aprobarlo
+Nuevo sistema de turnos
+
+
+8. Decisiones tomadas *
+
+Especifica las decisiones importantes acordadas durante la reunión, como aprobaciones, cambios en el plan de trabajo o asignaciones de tareas.
+Ejemplo:
+
+
+Aprobación del diseño preliminar.
+Confirmar pruebas de concepto en dos semanas.
+
+
+El comité de seguridad ha dado el visto bueno al SGSI
+
+
+9. Próximos pasos y responsables *
+
+Descripción: Enumera las tareas o actividades que se realizarán después de la reunión, indicando quién será responsable de cada una y las fechas
+límite asignadas.
+Ejemplo:
+
+
+Carlos Pérez: Enviar documentación técnica (30/01/2025).
+María López: Revisar presupuesto final (25/01/2025).
+
+
+David Pozo como secretario del comité de seguridad debe redactar el ACTA DE REVISIÓN POR EL COMITÉ DE SEGURIDAD.
+Carlos Rodrigo firmará el acta una vez revisada.
+
+
+10. Duración de la reunión (en minutos) *
+
+Registra el tiempo total que duró la reunión. Esto puede ser útil para evaluar la eficiencia de las reuniones en general.
+
+
+30
+
+
+Escriba un número mayor que 1.
+
+
+https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=XAuV2V0MNkShICyF7lJ8BSicBoJesrtNtJ3lurjq… 2/3
+
+
+16/4/25, 13:53 Microsoft Forms
+
+11. Notas adicionales
+
+Incluye cualquier observación, comentario o información relevante que no haya sido cubierta en las preguntas anteriores.
+
+|Col1|s compartidosivos que se compartieron o|utilizaron durante la reunión, como pre|sentaciones, actas, o documentos técnicos.Mínima longitud del PIN: 6 caracteresalfanuméricos.Máximo número de intentos fallidosde autenticación: entre 10 y 5|Col5|
+|---|---|---|---|---|
+||ha generado un resumen, in enerado por IA|clúyelo aquí.|||
+||||||
+||`mado por ROD``04/2025 con`|` RIGO RIVERO, CAR`` un certificado e`|`  LOS (AUTENTICACIÓN) el día``  mitido por AC DNIE 006`|`  LOS (AUTENTICACIÓN) el día``  mitido por AC DNIE 006`|
+||`mado por ROD``04/2025 con`||||
+||`mado por ROD``04/2025 con`||||
+
+
+
+https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=XAuV2V0MNkShICyF7lJ8BSicBoJesrtNtJ3lurjq… 3/3

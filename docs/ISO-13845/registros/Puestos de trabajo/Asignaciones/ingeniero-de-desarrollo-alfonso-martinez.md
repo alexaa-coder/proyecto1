@@ -1,0 +1,1 @@
+![](/img/ingeniero-de-desarrollo-alfonso-martinez/Ingeniero_de_desarrollo_Alfonso_Martinez.pdf-0-full.png)

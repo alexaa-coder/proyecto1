@@ -1,0 +1,1 @@
+![](/img/pdt---responsable-comercial/PdT---Responsable-comercial.pdf-0-full.png)

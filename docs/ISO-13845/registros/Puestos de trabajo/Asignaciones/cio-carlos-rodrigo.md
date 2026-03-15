@@ -1,0 +1,1 @@
+![](/img/cio-carlos-rodrigo/CIO_Carlos_Rodrigo.pdf-0-full.png)
