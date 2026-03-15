@@ -1,1 +1,0 @@
-![](/img/director-de-calidad-ivan-perez/Director_de_calidad_Ivan_Perez.pdf-0-full.png)

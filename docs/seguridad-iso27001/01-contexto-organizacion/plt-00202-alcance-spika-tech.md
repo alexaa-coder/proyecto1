@@ -1,4 +1,18 @@
-|Col1|POLÍTICA DE ALCANCEDEL SGSI SPIKA TECH|Código: PLT-002.02|
+---
+title: "**POLÍTICA DE ALCANCE DEL SGSI SPIKA TECH**"
+sidebar_label: "**POLÍTICA DE ALCANCE DEL SGSI SPIKA TECH**"
+responsable: "Responsable del SGSI"
+clasificacion: "USO INTERNO"
+fecha_revision: "2026-03-15"
+idioma: "es"
+tags:
+  - alcance
+  - contexto
+  - iso-27001
+  - seguridad
+---
+
+|Col1|POLÍTICA DECONTINUIDADDE NEGOCIO|Código: PLT-004.01|
 |---|---|---|
 ||USO INTERNORESTRINGIDO|Fecha de vigor: 15/04/2025|
 
@@ -10,7 +24,7 @@
 # **POLÍTICA DE ALCANCE DEL SGSI SPIKA TECH**
 
 
-|Col1|POLÍTICA DE SEGURIDADDE LA INFORMACIÓN|Código: PLT-001.01|
+|Col1|POLÍTICA DE ALCANCEDEL SGSI SPIKA TECH|Código: PLT-002.02|
 |---|---|---|
 ||USO INTERNORESTRINGIDO|Fecha de vigor: 15/04/2025|
 
@@ -29,7 +43,7 @@
 
 
 
-|10 SEGREGACIÓN DE FUNCIONES|Col2|Col3|Col4|
+|HISTORIAL DEL DOCUMENTO|Col2|Col3|Col4|
 |---|---|---|---|
 |**Versión**|**Resumen de modificaciones**|**Fecha de****entrada**|**Sustituye a****(Código,****revisión)**|
 |01|Primera versión del documento.|26/02/2025|N/A|
@@ -54,7 +68,7 @@
 
 
 
-|Col1|Col2|Col3|Col4|
+|REGISTRO DE FIRMAS|Col2|Col3|Col4|
 |---|---|---|---|
 |**Función:**|**Elaborado por:**|**Revisado por:**|**Aprobado por:**|
 |Departamento:|Responsable del SGSI|Dirección|Jefe de seguridad(o suplente)|

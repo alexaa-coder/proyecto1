@@ -1,1 +1,0 @@
-![](/img/ingeniero-de-desarrollo-david-pozo/Ingeniero_de_desarrollo_David_Pozo.pdf-0-full.png)

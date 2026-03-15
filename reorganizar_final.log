@@ -1,0 +1,230 @@
+INFO | ════════════════════════════════════════════════════════════
+INFO |   reorganizar_final.py — INICIO
+INFO | ════════════════════════════════════════════════════════════
+INFO | MVTREE docs/ISO-13845/certificado ISO 13485  →  docs/calidad-iso13485/01-contexto-organizacion/certificados
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/medios-disponibles-fabricacion.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/medios-disponibles-fabricacion.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/solicitud-licencia-signed.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/solicitud-licencia-signed.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/responsable-tecnico-signed.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/responsable-tecnico-signed.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/memoria.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/memoria.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/responsabilidades.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/responsabilidades.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/autorizacion-persona-contacto.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/autorizacion-persona-contacto.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/relacion-de-productos.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/relacion-de-productos.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/explicacion-contratos.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/explicacion-contratos.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/justificante-de-pago.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/justificante-de-pago.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/designaciontr-signed.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/designaciontr-signed.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/2024-06-20-oficio.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/2024-06-20-oficio.md
+INFO | MOV docs/ISO-13845/Licencia Previa de Funcionamiento/designacionrv.md  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/designacionrv.md
+INFO | MVTREE docs/ISO-13845/Licencia Previa de Funcionamiento/Notificaciones  →  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/notificaciones
+INFO | RMTREE docs/ISO-13845/Licencia Previa de Funcionamiento
+INFO | MVTREE docs/ISO-13845/registros/Normas  →  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia
+INFO | MOV docs/ISO-13845/guia-uso.md  →  docs/calidad-iso13485/anexos/guia-uso.md
+INFO | MVTREE docs/ISO-13845/Manual de Calidad/MQ_01.03_MANUAL DE CALIDAD  →  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.03_MANUAL DE CALIDAD
+INFO | MVTREE docs/ISO-13845/Manual de Calidad/MQ_01.04_MANUAL DE CALIDAD  →  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.04_MANUAL DE CALIDAD
+INFO | MVTREE docs/ISO-13845/Manual de Calidad/MQ_01.05_MANUAL DE CALIDAD  →  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.05_MANUAL DE CALIDAD
+INFO | MVTREE docs/ISO-13845/Manual de Calidad/MQ_01.06_MANUAL DE CALIDAD  →  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.06_MANUAL DE CALIDAD
+INFO | MVTREE docs/ISO-13845/Manual de Calidad/MQ_01.07_MANUAL DE CALIDAD  →  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.07_MANUAL DE CALIDAD
+INFO | MVTREE docs/ISO-13845/Manual de Calidad/MQ_01.08_MANUAL DE CALIDAD  →  docs/calidad-iso13485/02-liderazgo/manual-de-calidad
+INFO | RMTREE docs/ISO-13845/Manual de Calidad
+INFO | MVTREE docs/ISO-13845/registros/Compromiso calidad por la dirección  →  docs/calidad-iso13485/02-liderazgo/compromiso-direccion
+INFO | MVTREE docs/ISO-13845/registros/Puestos de trabajo/Asignaciones  →  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones
+INFO | MVTREE docs/ISO-13845/registros/Puestos de trabajo/Descripciones  →  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones
+INFO | RMTREE docs/ISO-13845/registros/Puestos de trabajo
+INFO | MVTREE docs/ISO-13845/registros/Objetivos  →  docs/calidad-iso13485/03-planificacion/objetivos
+INFO | MVTREE docs/ISO-13845/recursos documentación/Plantillas  →  docs/calidad-iso13485/03-planificacion/recursos/plantillas
+INFO | MVTREE docs/ISO-13845/registros/Formación  →  docs/calidad-iso13485/04-soporte/formacion
+INFO | MVTREE docs/ISO-13845/registros/Gestión de Pnts  →  docs/calidad-iso13485/04-soporte/gestion-pnts
+INFO | MOV docs/ISO-13845/listado-pnts.md  →  docs/calidad-iso13485/04-soporte/gestion-pnts/listado-pnts.md
+INFO | MVTREE docs/ISO-13845/procedimientos generales  →  docs/calidad-iso13485/05-operacion/procedimientos-generales
+INFO | MVTREE docs/ISO-13845/procedimientos específicos  →  docs/calidad-iso13485/05-operacion/procedimientos-especificos
+INFO | MVTREE docs/ISO-13845/registros/Gestión de Riesgos/Sistema de gestión de calidad  →  docs/calidad-iso13485/05-operacion/gestion-riesgos/sgc
+INFO | MVTREE docs/ISO-13845/registros/Gestión de Riesgos/Software VrCardio  →  docs/calidad-iso13485/05-operacion/gestion-riesgos/software-vrcardio
+INFO | RMTREE docs/ISO-13845/registros/Gestión de Riesgos
+INFO | MVTREE docs/ISO-13845/registros/Proveedores  →  docs/calidad-iso13485/05-operacion/proveedores
+INFO | MVTREE docs/ISO-13845/registros/Retirada de producto  →  docs/calidad-iso13485/05-operacion/retirada-de-producto
+INFO | MVTREE docs/ISO-13845/registros/Validación Software  →  docs/calidad-iso13485/05-operacion/validacion-software
+INFO | MVTREE docs/ISO-13845/registros/Auditorías  →  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias
+INFO | MVTREE docs/ISO-13845/registros/Análisis de datos  →  docs/calidad-iso13485/06-evaluacion-desempeno/analisis-de-datos
+INFO | MVTREE docs/ISO-13845/registros/Informes revisión por la dirección  →  docs/calidad-iso13485/06-evaluacion-desempeno/revision-por-la-direccion
+INFO | MVTREE docs/ISO-13845/registros/Medición de procesos  →  docs/calidad-iso13485/06-evaluacion-desempeno/medicion-procesos
+INFO | MVTREE docs/ISO-13845/registros/No conformidades  →  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades
+INFO | RMD docs/ISO-13845/registros
+INFO | RMD docs/ISO-13845/recursos documentación
+INFO | RMTREE docs/ISO-13845
+INFO | ✓ Calidad migrada
+WARNING | NO EXISTE  : docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO RESTRINGIDO/plt-00201-alcance-spika-tech.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO RESTRINGIDO/plt-00202-alcance-spika-tech.md  →  docs/seguridad-iso27001/01-contexto-organizacion/plt-00202-alcance-spika-tech.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO RESTRINGIDO/Versiones antiguas/plt-00201-alcance-spika-tech.md  →  docs/seguridad-iso27001/01-contexto-organizacion/versiones-historicas/plt-00201-alcance-spika-tech.md
+INFO | MOV docs/ISO-27001/Comité de seguridad/acta-constitucion-comite-seguridad.md  →  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/acta-constitucion-comite-seguridad.md
+INFO | MOV docs/ISO-27001/Comité de seguridad/acta-de-revision-por-el-comite-de-seguridad.md  →  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/acta-de-revision-por-el-comite-de-seguridad.md
+INFO | MVTREE docs/ISO-27001/Comité de seguridad/Minutas  →  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Reuniones/2025-03-25/minuta-reunion-25-03-2025-planificacion-iso-27001---fase-2.md  →  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas/minuta-reunion-25-03-2025-planificacion-iso-27001---fase-2.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO PÚBLICO/plt-00102-seguridad-de-la-informacion-signed.md  →  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00102-seguridad-de-la-informacion-signed.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO/plt-00302-liderazgo-y-compromiso.md  →  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00302-liderazgo-y-compromiso.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO/plt-00401-continuidad-de-negocio.md  →  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00401-continuidad-de-negocio.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO/plt-00501-desconexion-digital.md  →  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00501-desconexion-digital.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO/plt-00601-contrasenas.md  →  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00601-contrasenas.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO/Versiones antiguas/plt-00301-liderazgo-y-compromiso.md  →  docs/seguridad-iso27001/02-liderazgo/politicas/versiones-historicas/plt-00301-liderazgo-y-compromiso.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Políticas/USO PÚBLICO/Versiones antiguas/plt-00101-seguridad-de-la-informacion.md  →  docs/seguridad-iso27001/02-liderazgo/politicas/versiones-historicas/plt-00101-seguridad-de-la-informacion.md
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Gestión del personal/Estructura del personal/RPT  →  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones
+INFO | MOV docs/ISO-27001/Análisis de riesgos/adr-00201-plan-de-tratamiento-de-riesgos.md  →  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/adr-00201-plan-de-tratamiento-de-riesgos.md
+INFO | MOV docs/ISO-27001/Análisis de riesgos/adr-00201-anexo-a-plan-de-tratamiento-de-riesgos-2024.md  →  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/adr-00201-anexo-a-plan-de-tratamiento-de-riesgos-2024.md
+INFO | MVTREE docs/ISO-27001/Análisis de riesgos/Análisis de riesgos de componentes de Spika Tech  →  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/componentes
+INFO | MVTREE docs/ISO-27001/Análisis de riesgos/Versiones antiguas  →  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/versiones-historicas
+INFO | RMTREE docs/ISO-27001/Análisis de riesgos
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Normas/USO INTERNO/nrm-00401-registro-de-autorizaciones.md  →  docs/seguridad-iso27001/04-soporte/normas/nrm-00401-registro-de-autorizaciones.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Normas/USO INTERNO/nrm-00101-general-de-utilizacion-de-los-recursos-y-sistemas-de-informacion.md  →  docs/seguridad-iso27001/04-soporte/normas/nrm-00101-general-de-utilizacion-de-los-recursos-y-sistemas-de-informacion.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Normas/USO INTERNO RESTRINGIDO/nrm-00301-proteccion-frente-a-sotware-malicioso.md  →  docs/seguridad-iso27001/04-soporte/normas/nrm-00301-proteccion-frente-a-sotware-malicioso.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Normas/USO INTERNO RESTRINGIDO/nrm-00501-gestion-de-vulnerabilidades-tecnicas.md  →  docs/seguridad-iso27001/04-soporte/normas/nrm-00501-gestion-de-vulnerabilidades-tecnicas.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Normas/USO INTERNO RESTRINGIDO/nrm-00201-servicios-cloud.md  →  docs/seguridad-iso27001/04-soporte/normas/nrm-00201-servicios-cloud.md
+INFO | MVTREE docs/ISO-27001/Documentación ISO 27001/Transversales/USO INTERNO  →  docs/seguridad-iso27001/04-soporte/transversales
+INFO | MVTREE docs/ISO-27001/Formación/Documentos/USO INTERNO  →  docs/seguridad-iso27001/04-soporte/formacion/documentos
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Gestión del personal/Reporte formación  →  docs/seguridad-iso27001/04-soporte/formacion/certificados
+INFO | MOV docs/ISO-27001/Configuración segura/ccn-cert-bp-06-navegadores-web.md  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/ccn-cert-bp-06-navegadores-web.md
+INFO | MVTREE docs/ISO-27001/Configuración segura/Google Chrome  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/google-chrome
+INFO | MVTREE docs/ISO-27001/Configuración segura/Microsoft Edge  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-edge
+INFO | MVTREE docs/ISO-27001/Configuración segura/Microsoft Office 365  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-office-365
+INFO | MVTREE docs/ISO-27001/Configuración segura/Microsoft OneDrive  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-onedrive
+INFO | MVTREE docs/ISO-27001/Configuración segura/Microsoft Outlook  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-outlook
+INFO | MVTREE docs/ISO-27001/Configuración segura/Microsoft Sharepoint  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-sharepoint
+INFO | MVTREE docs/ISO-27001/Configuración segura/Microsoft Teams  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-teams
+INFO | MVTREE docs/ISO-27001/Configuración segura/Norton 360  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/norton-360
+INFO | MOV docs/ISO-27001/Configuración segura/Turnos/guia-de-instalacion-y-uso-de-turnos.md  →  docs/seguridad-iso27001/04-soporte/configuracion-segura/turnos/guia-de-instalacion-y-uso-de-turnos.md
+INFO | MVTREE docs/ISO-27001/Configuración segura/Turnos/NDA  →  docs/seguridad-iso27001/04-soporte/nda
+INFO | MVTREE docs/ISO-27001/Configuración segura/Turnos/Norma 1  →  docs/seguridad-iso27001/transversal/norma1-fat32
+INFO | RMTREE docs/ISO-27001/Configuración segura/Turnos
+INFO | RMTREE docs/ISO-27001/Configuración segura
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-01401-gestion-de-no-conformidades-y-acciones-correctivas.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01401-gestion-de-no-conformidades-y-acciones-correctivas.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-01801-proteccion-de-proyectos-it.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01801-proteccion-de-proyectos-it.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-02301-inteligencia-de-amenazas.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-02301-inteligencia-de-amenazas.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-01701-auditoria.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01701-auditoria.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-01302-copias-de-seguridad.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01302-copias-de-seguridad.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00203-roles-y-segregacion-de-funciones.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00203-roles-y-segregacion-de-funciones.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00401-etiquetado-y-clasificacion-de-la-informacion.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00401-etiquetado-y-clasificacion-de-la-informacion.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-01001-gestion-soportes-de-informacion.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01001-gestion-soportes-de-informacion.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00701-adquisicion-de-nuevos-componentes-ti.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00701-adquisicion-de-nuevos-componentes-ti.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00801-proteccion-de-la-infraestructura.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00801-proteccion-de-la-infraestructura.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-02201-gestion-de-identidades.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-02201-gestion-de-identidades.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00101-gestion-de-requisitos-legales.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00101-gestion-de-requisitos-legales.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00901-proteccion-de-equipos.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00901-proteccion-de-equipos.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-02101-accesos-remotos-y-conexiones-externas.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-02101-accesos-remotos-y-conexiones-externas.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00601-inventario-de-activos.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00601-inventario-de-activos.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-01601-proteccion-del-correo-electronico.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01601-proteccion-del-correo-electronico.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-01502-gestion-y-notificacion-de-incidentes-de-seguridad.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01502-gestion-y-notificacion-de-incidentes-de-seguridad.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00302-gestion-y-revision-de-la-documentacion.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00302-gestion-y-revision-de-la-documentacion.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-01101-control-de-acceso-de-usuarios.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01101-control-de-acceso-de-usuarios.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/pro-00501-gestion-y-analisis-de-riesgos.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00501-gestion-y-analisis-de-riesgos.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/Versiones antiguas/pro-00202-roles-y-segregacion-de-funciones.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-00202-roles-y-segregacion-de-funciones.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/Versiones antiguas/pro-00301-gestion-y-revision-de-la-documentacion.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-00301-gestion-y-revision-de-la-documentacion.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/Versiones antiguas/pro-01501-gestion-y-notificacion-de-incidentes-de-seguridad.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-01501-gestion-y-notificacion-de-incidentes-de-seguridad.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/Versiones antiguas/pro-01301-copias-de-seguridad.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-01301-copias-de-seguridad.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/Versiones antiguas/pro-00201-roles-y-segregacion-de-funciones.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-00201-roles-y-segregacion-de-funciones.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO RESTRINGIDO/pro-01201-desarrollo-seguro.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01201-desarrollo-seguro.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO RESTRINGIDO/pro-02001-segregacion-de-redes-y-flujos-de-informacion.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-02001-segregacion-de-redes-y-flujos-de-informacion.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO RESTRINGIDO/pro-01901-gestion-de-cambios-tic.md  →  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01901-gestion-de-cambios-tic.md
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Protocolos  →  docs/seguridad-iso27001/05-operacion/continuidad-del-negocio/protocolos
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/BIAs  →  docs/seguridad-iso27001/05-operacion/continuidad-del-negocio/bias
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Auditoría de código/plan-de-auditoria-de-codigo.md  →  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/auditoria-de-codigo/plan-de-auditoria-de-codigo.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Auditoría de código/guia-de-uso---controlador-de-codigo-seguro.md  →  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/auditoria-de-codigo/guia-de-uso---controlador-de-codigo-seguro.md
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Auditoría de código/Reportes Code Checker  →  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/auditoria-de-codigo/reportes
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Auditoría de código
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Pentesting/protocolo-de-pentesting.md  →  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/protocolo-de-pentesting.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Pentesting/hallazgos-pentesting.md  →  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/hallazgos-pentesting.md
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Pentesting/2025-04-15  →  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/2025-04-15
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Pentesting/2025-06-27  →  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/2025-06-27
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/Pentesting
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo/security-assessment-report.md  →  docs/seguridad-iso27001/anexos/security-assessment-report.md
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Seguridad del desarrollo
+INFO | MVTREE docs/ISO-27001/Inteligencia de amenazas  →  docs/seguridad-iso27001/05-operacion/inteligencia-de-amenazas
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Protección de proyectos IT/Clausula de protección de proyectos IT/clausulas-de-proteccion-de-proyectos-it-spika---martinez-echevarria-abogados.md  →  docs/seguridad-iso27001/05-operacion/proteccion-proyectos-it/clausulas-de-proteccion-de-proyectos-it-spika---martinez-echevarria-abogados.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Protección de proyectos IT/Clausula de protección de proyectos IT/clausulas-de-proteccion-de-proyectos-it-spika---tributae.md  →  docs/seguridad-iso27001/05-operacion/proteccion-proyectos-it/clausulas-de-proteccion-de-proyectos-it-spika---tributae.md
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Protección de proyectos IT/Clausula de protección de proyectos IT
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Protección de proyectos IT/SLA/plantilla-sla---spika-tech.md  →  docs/seguridad-iso27001/05-operacion/proteccion-proyectos-it/plantilla-sla---spika-tech.md
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Protección de proyectos IT/SLA
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Protección de proyectos IT
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/Fase 1  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-1
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/Fase 2  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-2
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/plan-de-acciones-correctivas-iso-27001.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/plan-de-acciones-correctivas-iso-27001.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/informe-fase-2-de-certificacion-iso27001-spikatech.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/informe-fase-2-de-certificacion-iso27001-spikatech.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/plan-de-acciones-correctivas-iso-27001-2025-11-27.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/plan-de-acciones-correctivas-iso-27001-2025-11-27.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/plan-de-acciones-correctivas-iso-27001-2025-04-25.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/plan-de-acciones-correctivas-iso-27001-2025-04-25.md
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/ANEXO H - NCm08  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO H - NCm08
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/ANEXO J - NCm10  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO J - NCm10
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/ANEXO D - NCm04  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO D - NCm04
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/ANEXO F - NCm06  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO F - NCm06
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/ANEXO A - NCm01  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO A - NCm01
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/ANEXO I - NCm09  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO I - NCm09
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/ANEXO C - NCm03  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO C - NCm03
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC/ANEXO G - NCm07  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO G - NCm07
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC/PAC
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/PAC
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/Recursos necesarios/Reporte auditoría interna/hallazgos-spika-tech-iso-27001.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/hallazgos-spika-tech-iso-27001.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/Recursos necesarios/Reporte auditoría interna/plan-de-acciones-correctivas-iso27001.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/plan-de-acciones-correctivas-iso27001.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/Recursos necesarios/Reporte auditoría interna/plan-auditoria-interna-iso-27001-spika-tech-v11-signed.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/plan-auditoria-interna-iso-27001-spika-tech-v11-signed.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/Recursos necesarios/Reporte auditoría interna/informe-auditoria-interna-iso-27001-spika-tech-v1-signed.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/informe-auditoria-interna-iso-27001-spika-tech-v1-signed.md
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025/Recursos necesarios
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Externa/AENOR - Marzo 2025
+WARNING | YA EXISTE  : docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/hallazgos-spika-tech-iso-27001.md  (saltado)
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Interna/2025 - Marzo (Cyberxia)/cv---carlos-gomez---auditor-jefe.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/cv---carlos-gomez---auditor-jefe.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Interna/2025 - Marzo (Cyberxia)/cv---carlos-castillo---auditor-junior.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/cv---carlos-castillo---auditor-junior.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Interna/2025 - Marzo (Cyberxia)/plan-auditoria-interna-iso-27001-spika-tech-v11.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/plan-auditoria-interna-iso-27001-spika-tech-v11.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/Interna/2025 - Marzo (Cyberxia)/informe-auditoria-interna-iso-27001-spika-tech-v1.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/informe-auditoria-interna-iso-27001-spika-tech-v1.md
+INFO | RMTREE docs/ISO-27001/Continuidad del negocio/Auditorías/Interna/2025 - Marzo (Cyberxia)
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Auditorías/plan-de-acciones-correctivas-iso27001.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/plan-de-acciones-correctivas-iso27001.md
+INFO | MVTREE docs/ISO-27001/Documentación ISO 27001/Control de documentos y evidencias  →  docs/seguridad-iso27001/06-evaluacion-desempeno/control-documentos
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO/rgs-00101-normativa-aplicable.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00101-normativa-aplicable.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO/rgs-00601-plan-de-comunicacion.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00601-plan-de-comunicacion.md
+INFO | MVTREE docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO/NORMATIVA APLICABLE  →  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO RESTRINGIDO/rgs-00202-inventario-de-activos.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00202-inventario-de-activos.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO RESTRINGIDO/rgs-00501-whitelist.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00501-whitelist.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO RESTRINGIDO/rgs-00302-indicadores-de-seguridad.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00302-indicadores-de-seguridad.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO RESTRINGIDO/rgs-00701-borrado.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00701-borrado.md
+INFO | MOV docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO RESTRINGIDO/rgs-00401-revisiones-periodicas.md  →  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00401-revisiones-periodicas.md
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Planificaciones/Plan de capacidad  →  docs/seguridad-iso27001/07-mejora/plan-de-capacidad
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Planificaciones/formacion-y-concienciacion.md  →  docs/seguridad-iso27001/07-mejora/planificaciones/formacion-y-concienciacion.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Planificaciones/gastos.md  →  docs/seguridad-iso27001/07-mejora/planificaciones/gastos.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Planificaciones/planificacion-recursos.md  →  docs/seguridad-iso27001/07-mejora/planificaciones/planificacion-recursos.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Gestión del personal/matriz-de-segregacion-de-funciones.md  →  docs/seguridad-iso27001/transversal/matriz-de-segregacion-de-funciones.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Gestión del personal/reporte-de-tareas.md  →  docs/seguridad-iso27001/transversal/reporte-de-tareas.md
+INFO | MOV docs/ISO-27001/Continuidad del negocio/Gestión del personal/Plan de revisiones/plan-de-revision-de-dispositivos.md  →  docs/seguridad-iso27001/transversal/plan-de-revision-de-dispositivos.md
+INFO | MVTREE docs/ISO-27001/Continuidad del negocio/Medio ambiente  →  docs/seguridad-iso27001/transversal/medio-ambiente
+INFO | MOV docs/ISO-27001/-all-errors.md  →  docs/seguridad-iso27001/transversal/-all-errors.md
+INFO | MVTREE docs/ISO-27001/__Continuidad del negocio  →  docs/seguridad-iso27001/transversal/basura
+INFO | MVTREE docs/ISO-27001/WORDS  →  docs/seguridad-iso27001/transversal/words-fuentes
+INFO | RMD docs/ISO-27001/Formación/Documentos
+INFO | RMD docs/ISO-27001/Formación
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Transversales
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO RESTRINGIDO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Registros/USO INTERNO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Registros
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO RESTRINGIDO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO/Versiones antiguas
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Procedimientos/USO INTERNO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Procedimientos
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Políticas/USO PÚBLICO/Versiones antiguas
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Políticas/USO PÚBLICO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO RESTRINGIDO/Versiones antiguas
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO RESTRINGIDO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO/Versiones antiguas
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Políticas/USO INTERNO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Políticas
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Normas/USO INTERNO RESTRINGIDO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Normas/USO INTERNO
+INFO | RMD docs/ISO-27001/Documentación ISO 27001/Normas
+INFO | RMD docs/ISO-27001/Documentación ISO 27001
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Reuniones/2025-03-25
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Reuniones
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Planificaciones
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Gestión del personal/Plan de revisiones
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Gestión del personal/Estructura del personal
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Gestión del personal
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Auditorías/Interna
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Auditorías/Externa
+INFO | RMD docs/ISO-27001/Continuidad del negocio/Auditorías
+INFO | RMD docs/ISO-27001/Continuidad del negocio
+INFO | RMD docs/ISO-27001/Comité de seguridad
+INFO | RMTREE docs/ISO-27001
+INFO | ✓ Seguridad migrada
+INFO | ── Limpieza de directorios vacíos ──
+INFO | ════════════════════════════════════════════════════════════
+INFO |   FIN — revisa reorganizar_final.log
+INFO | ════════════════════════════════════════════════════════════

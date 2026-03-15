@@ -1,1 +1,0 @@
-![](/img/ingeniero-de-desarrollo-roxana-nicoleta/Ingeniero_de_desarrollo_Roxana_Nicoleta.pdf-0-full.png)

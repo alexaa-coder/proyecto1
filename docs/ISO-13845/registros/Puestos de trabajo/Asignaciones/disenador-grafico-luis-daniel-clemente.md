@@ -1,1 +1,0 @@
-![](/img/disenador-grafico-luis-daniel-clemente/Diseñador_gráfico_Luis_Daniel_Clemente.pdf-0-full.png)

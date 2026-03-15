@@ -1,1 +1,0 @@
-![](/img/responsable-de-medioambiente-raul-cordon/Responsable_de_medioambiente_Raul_Cordon.pdf-0-full.png)

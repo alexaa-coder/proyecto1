@@ -1,1 +1,0 @@
-![](/img/ceo-carlos-zuniga/CEO_Carlos_Zuñiga.pdf-0-full.png)

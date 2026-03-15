@@ -1,6 +1,0 @@
-![](/img/registro-formacion-6/registro_formacion_6.pdf-0-full.png)
-![](/img/registro-formacion-6/registro_formacion_6.pdf-1-full.png)
-![](/img/registro-formacion-6/registro_formacion_6.pdf-2-full.png)
-![](/img/registro-formacion-6/registro_formacion_6.pdf-3-full.png)
-![](/img/registro-formacion-6/registro_formacion_6.pdf-4-full.png)
-![](/img/registro-formacion-6/registro_formacion_6.pdf-5-full.png)

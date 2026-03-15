@@ -1,1 +1,0 @@
-![](/img/cto-jaime-de-castro/CTO_Jaime_de_Castro.pdf-0-full.png)

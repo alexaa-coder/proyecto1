@@ -1,1 +1,0 @@
-![](/img/ingeniero-de-diseno-pablo-rubio/Ingeniero_de_diseño_Pablo_Rubio.pdf-0-full.png)

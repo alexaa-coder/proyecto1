@@ -1,7 +1,0 @@
-![](/img/objetivos-2025/objetivos-2025.pdf-0-full.png)
-![](/img/objetivos-2025/objetivos-2025.pdf-1-full.png)
-![](/img/objetivos-2025/objetivos-2025.pdf-2-full.png)
-![](/img/objetivos-2025/objetivos-2025.pdf-3-full.png)
-![](/img/objetivos-2025/objetivos-2025.pdf-4-full.png)
-![](/img/objetivos-2025/objetivos-2025.pdf-5-full.png)
-![](/img/objetivos-2025/objetivos-2025.pdf-6-full.png)

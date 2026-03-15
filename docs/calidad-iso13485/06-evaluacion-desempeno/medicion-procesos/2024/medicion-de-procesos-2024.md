@@ -1,0 +1,32 @@
+---
+title: "Medicion De Procesos 2024"
+sidebar_label: "Medicion De Procesos 2024"
+responsable: "Director de Calidad"
+clasificacion: "USO INTERNO"
+fecha_revision: "2026-03-15"
+idioma: "es"
+tags:
+  - auditoria
+  - calidad
+  - english
+  - evaluacion
+  - iso-13485
+  - kpi
+  - medicion
+  - registros
+---
+
+## Hoja1
+
+| Procesos                  | Indicador                                  | Medición                                                                                                      | Fórmula                                                          | Valor de referencia   | Marzo   | Junio   | Septiembre   | Diciembre   | Acción                                                                                        |
+|:--------------------------|:-------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|:----------------------|:--------|:--------|:-------------|:------------|:----------------------------------------------------------------------------------------------|
+| Evaluación de proveedores | Tasa de cumplimiento de entregas a tiempo  | Porcentaje de entregas realizadas por los proveedores dentro del plazo acordado                               | (Entregas a tiempo / Total de entregas) * 100                    | &gt;= 95%                | 1       | 1       | 1            | 1           | Realizar reuniones con proveedores que no cumplan el objetivo para analizar causas y mejoras. |
+| nan                       | Calidad de los materiales suministrados    | Número de rechazos o devoluciones debido a defectos                                                           | Número de devoluciones / Total de entregas                       | &lt;= 2%                 | 0       | 0       | 0            | 0           | Implementar controles de calidad adicionales o cambiar de proveedor si necesario.             |
+| Diseño del producto       | Cumplimiento de las especificaciones       | Porcentaje de diseños que cumplen con todas las especificaciones y requisitos técnicos en la primera revisión | (Diseños aprobados a la primera / Total de diseños) * 100        | &gt;= 90%                | 1       | 1       | 1            | 1           | Capacitar al equipo de diseño y mejorar la comunicación de los requisitos.                    |
+| nan                       | Número de iteraciones de diseño            | Cantidad de revisiones y cambios necesarios antes de la aprobación final del diseño                           | Número de iteraciones por diseño                                 | &lt;= 2                  | 1       | 0       | 0            | 0           | Implementar revisiones internas preliminares antes de la revisión final.                      |
+| Desarrollo del producto   | Número de iteraciones en el desarrollo     | Cantidad de versiones del realizadas antes de incorporar el desarrollo a la versión final                     | Número medio de iteraciones por desarrollo                       | &lt;= 3                  | 1       | 2       | 1            | 1           | Mejorar la planificación y pruebas preliminares para reducir iteraciones.                     |
+| nan                       | Cumplimiento de los estándares de calidad  | Porcentaje de productos que pasan las pruebas de calidad internas en la primera vez                           | (Productos aprobados a la primera / Total de productos) * 100    | &gt;= 95%                | 1       | 1       | 1            | 1           | Implementar controles de calidad más rigurosos durante el desarrollo.                         |
+| Liberación                | Tiempo de ciclo de liberación              | Duración promedio desde la finalización del desarrollo hasta la liberación del producto al mercado            | Suma de tiempos de liberación / Número de productos              | &lt;= 1 mes              | -       | -       | -            | -           | Optimizar el proceso de liberación y eliminar pasos innecesarios.                             |
+| nan                       | Tasa de defectos post-libración            | Número de defectos reportados por los clientes                                                                | Número de defectos reportados / Total de productos en el mercado | &lt;= 5%                 | -       | -       | -            | -           | Implementar un proceso de control de calidad final más estricto antes de la liberación.       |
+| Ventas                    | Tiempos de respuesta a pedidos de clientes | Tiempo promedio desde la recepción de un pedido hasta la confirmación del mismo                               | Suma de tiempos de respuesta / Número de pedidos                 | &lt;= 2 días             | -       | -       | -            | -           | Mejorar la comunicación interna y la eficiencia del proceso de confirmación de pedidos.       |
+| nan                       | Número de pedidos completados a tiempo     | Porcentaje de pedidos entregados dentro del plazo acordado                                                    | (Pedidos entregados a tiempo / Total de pedidos) * 100           | &gt;= 95%                | -       | -       | -            | -           | Analizar causas de retrasos y ajustar el proceso de entrega para asegurar cumplimiento.       |

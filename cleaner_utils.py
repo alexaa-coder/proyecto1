@@ -81,33 +81,90 @@ def process_markdown_tables(text: str, filename: str, logger) -> str:
     
     return "\n".join(processed_lines)
 
+def balance_markdown_asterisks(text: str) -> str:
+    """
+    Balances broken bold/italic markers (like **text without closing asterisks).
+    This prevents Docusaurus MDX parser from failing.
+    """
+    lines = text.split("\n")
+    balanced_lines = []
+    
+    for line in lines:
+        # Ignore lines that are headings or lists to prevent false positives
+        if re.match(r'^(#|\* |\+ |- |> )', line.strip()):
+            balanced_lines.append(line)
+            continue
+            
+        original_line = line
+        
+        # Count formatting markers
+        bold_count = len(re.findall(r'(?<!\*)\*\*(?!\*)', line))
+        italic_count = len(re.findall(r'(?<!\*)\*(?!\*)', line))
+        
+        # If there's an odd number of double asterisks, try to close it at the end
+        if bold_count % 2 != 0:
+            # If the line ends with a marker, it's probably a stray. Just remove it.
+            if line.rstrip().endswith("**"):
+                line = line.rstrip()[:-2]
+            else:
+                # Otherwise, close it at the end of the line
+                line = line + "**"
+                
+        # If there's an odd number of single asterisks, remove the stray one to be safe
+        # (Balancing single asterisks is very prone to error because of list bullets)
+        elif italic_count % 2 != 0:
+            # Safest approach for odd italics is to strip stray asterisks at word boundaries
+            if line.rstrip().endswith("*"):
+                line = line.rstrip()[:-1]
+                
+        balanced_lines.append(line)
+        
+    return "\n".join(balanced_lines)
+
 def mdx_safe_cleanup(text: str) -> str:
-    """Universal HTML Purge for Docusaurus MDX compatibility."""
+    """Universal HTML Purge for Docusaurus MDX compatibility with Macro protection."""
     if not text: return ""
 
-    # 1. Escape literal braces (MDX treats these as JS expressions)
+    # 1. MACRO PROTECTION: Detect and protect {{macros}}
+    # Find all {{...}} and replace them with a temporary alphanumeric placeholder
+    macros = re.findall(r'(\{\{.*?\}\})', text)
+    macro_map = {}
+    for i, macro in enumerate(macros):
+        placeholder = f"__PROTECTEDMACRO{i}__"
+        macro_map[placeholder] = macro
+        text = text.replace(macro, placeholder)
+
+    # 2. Escape literal braces (MDX treats these as JS expressions)
     text = text.replace("{", "&#123;").replace("}", "&#125;")
 
-    # 2. Fix corrupted URLs (URLs ending with a trailing HTML bracket)
-    # This fixes: http://rminv> -> http://rminv
+    # 3. Fix corrupted URLs (URLs ending with a trailing HTML bracket)
     text = re.sub(r'(https?://[^\s\>\)]+)\>', r'\1', text)
 
-    # 3. Convert Bold/Italic tags to Markdown BEFORE stripping
+    # 4. TRUNCATED HTML REMOVAL: Detect and erase tags missing closing >
+    # Example: <strong texto... -> (removed)
+    text = re.sub(r'<[a-zA-Z][^>\n]*$', '', text, flags=re.M)
+
+    # 5. Convert Bold/Italic HTML tags to Markdown BEFORE stripping
     text = re.sub(r'<(?:strong|b)(?:\s+[^>]*|/?)>', r'**', text, flags=re.I)
     text = re.sub(r'</(?:strong|b)>', r'**', text, flags=re.I)
     text = re.sub(r'<(?:em|i)(?:\s+[^>]*|/?)>', r'*', text, flags=re.I)
     text = re.sub(r'</(?:em|i)>', r'*', text, flags=re.I)
 
-    # 4. Universal Strip: Remove EVERY single tag starting with <
-    # We use a destructive regex that catches any tag structure.
+    # 6. Universal Strip: Remove EVERY single tag starting with <
     text = re.sub(r'</?[a-zA-Z!][^>]*>', '', text, flags=re.S)
 
-    # 4b. Remove stray JSX-like tags that don't close (Unexpected EOF fix)
+    # 7. Stray JSX Fixer
     text = re.sub(r'<[A-Za-z][^>]*$', '', text)
 
-    # 5. Escape ALL remaining angle brackets
-    # This is the fail-safe to ensure no raw < or > survives.
+    # 8. Escape ALL remaining angle brackets
     text = text.replace("<", "&lt;").replace(">", "&gt;")
+    
+    # 9. ASTERISK BALANCING: Fix broken markdown ** before restoring macros
+    text = balance_markdown_asterisks(text)
+    
+    # 10. RESTORE MACROS
+    for placeholder, original_macro in macro_map.items():
+        text = text.replace(placeholder, original_macro)
     
     return text
 

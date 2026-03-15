@@ -1,1 +1,0 @@
-![](/img/pdt---responsable-financiero/PdT---Responsable-financiero.pdf-0-full.png)

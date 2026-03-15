@@ -1,1 +1,0 @@
-![](/img/desarrollador-de-negocio-julio-ruiz/Desarrollador_de_negocio_Julio_Ruiz.pdf-0-full.png)

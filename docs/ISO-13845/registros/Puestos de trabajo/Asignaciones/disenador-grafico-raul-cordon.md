@@ -1,1 +1,0 @@
-![](/img/disenador-grafico-raul-cordon/Diseñador_gráfico_Raul_Cordon.pdf-0-full.png)

@@ -65,7 +65,7 @@ def handle_pdf(file_path: Path, img_root: Path) -> Optional[str]:
         return None
 
 def handle_docx(file_path: Path, img_root: Path) -> Optional[str]:
-    """Uses Pandoc for DOCX with GFM output and unsupported image filtering."""
+    """Uses Pandoc for DOCX with strictly compliant Markdown output."""
     doc_slug = slugify(file_path.stem)
     img_dir = img_root / doc_slug
     img_dir.mkdir(parents=True, exist_ok=True)
@@ -152,7 +152,7 @@ def process_file(file_path: Path, input_root: Path, output_root: Path, img_root:
     # MDX Adaptation
     content = mdx_safe_cleanup(content)
     
-    # Calculate target path preserving subfolders
+    # Calculate target path preserving subfolders from input_root
     rel_path = file_path.parent.relative_to(input_root)
     target_dir = output_root / rel_path
     target_dir.mkdir(parents=True, exist_ok=True)
@@ -185,8 +185,12 @@ def main():
 
     input_path = Path(args.input)
     output_path = Path(args.output)
-    project_root = output_path.parent
+    
+    # FIX: Correctly resolve the Docusaurus root folder to place images in /static/img globally
+    # By resolving the output path, we reliably find the parent directory (project_root)
+    project_root = output_path.resolve().parent
     img_root = project_root / "static" / "img"
+    
     img_root.mkdir(parents=True, exist_ok=True)
     output_path.mkdir(parents=True, exist_ok=True)
 
@@ -203,17 +207,9 @@ def main():
         for f in files: executor.submit(process_file, f, input_path, output_path, img_root)
     
     log.info(f"--- Finished Conversion in {time.time() - start_time:.2f}s ---")
-
-    # AUTOMATIC ORGANIZATION
-    try:
-        from organizer import organize_recursive
-        log.info("--- Starting Automatic Organization ---")
-        organize_recursive(output_path)
-        log.info("--- Organization Finished ---")
-    except ImportError:
-        log.warning("organizer.py not found. Skipping automatic organization.")
-    except Exception as e:
-        log.error(f"Organization failed: {e}")
+    
+    # NOTE: Automatic organizer step has been specifically removed to preserve 
+    # original folder structures and allow external organization scripts.
 
 if __name__ == "__main__":
-    main()
+    main()   

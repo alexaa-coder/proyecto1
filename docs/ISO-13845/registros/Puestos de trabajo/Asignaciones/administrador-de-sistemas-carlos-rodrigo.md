@@ -1,1 +1,0 @@
-![](/img/administrador-de-sistemas-carlos-rodrigo/Administrador_de_sistemas_Carlos_Rodrigo.pdf-0-full.png)

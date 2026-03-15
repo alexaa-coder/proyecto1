@@ -1,0 +1,732 @@
+INFO | ════════════════════════════════════════════════════════════
+INFO |   add_frontmatter.py — 726 archivos encontrados
+INFO | ════════════════════════════════════════════════════════════
+INFO | FM  docs/calidad-iso13485/00-introduccion.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/certificados/certificadogs-0017-2024-es-2024-07-12.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/certificados/iqnetes-gs-0017-2024-2024-07-12.md
+INFO | SKIP (ya tiene FM): docs/calidad-iso13485/01-contexto-organizacion/index.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/2024-06-20-oficio.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/autorizacion-persona-contacto.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/designacionrv.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/designaciontr-signed.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/explicacion-contratos.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/justificante-de-pago.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/medios-disponibles-fabricacion.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/memoria.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/notificaciones/2024-07-09-oficio.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/notificaciones/2024-08-07-oficio.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/notificaciones/2024-08-14-oficio.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/notificaciones/2024-09-19-subsanaciones-oficio.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/notificaciones/l00001-00175.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/notificaciones/notificacion-deficiencia-9170-ps.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/relacion-de-productos.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/responsabilidades.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/responsable-tecnico-signed.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/licencia-previa/solicitud-licencia-signed.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/iec-62304-2015.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/iec-62366-2015.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/instruccion-ps-2-2023.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/iso-13485-2018.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/iso-14971-2019.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/iso-15223-2016.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/iso-27001-2017.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/iso-9001-2015.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/mdr-eu-2017-745.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/real-decreto-192-2023.md
+INFO | FM  docs/calidad-iso13485/01-contexto-organizacion/normas-referencia/requisitos-reglamentarios-spika-tech-para-puesta-en-el-mercado-del-producto-sanitario-vr-cardio.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/compromiso-direccion/compromiso-calidad-direccion.md
+INFO | SKIP (ya tiene FM): docs/calidad-iso13485/02-liderazgo/index.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/manual-de-calidad/EN/mq-0108-quality-manual-en.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/manual-de-calidad/mq-0108-manual-de-calidad.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/administrador-de-sistemas-carlos-rodrigo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/cci-jose-martin.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ceo-carlos-zuniga.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/cio-carlos-rodrigo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/coo-fernando-pozo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/cso-vicente-gallego.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/cto-jaime-de-castro.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/desarrollador-de-negocio-julio-ruiz.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/director-de-calidad-ivan-perez.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/disenador-grafico-luis-daniel-clemente.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/disenador-grafico-raul-cordon.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-alfonso-martinez.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-alvaro-gutierrez.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-daniel-camara.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-david-pozo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-ioana-cretu.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-ivan-perez.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-javier-vico.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-julian-sanchez.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-roxana-nicoleta.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-desarrollo-sotiris-rekoumis.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-diseno-jorge-aracil.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-diseno-pablo-rubio.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-diseno-paloma-carretero.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/ingeniero-de-qa-ivan-perez.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/jefe-de-proyecto-carlos-rodrigo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/jefe-de-proyecto-daniel-camara.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/jefe-de-proyecto-david-pozo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/jefe-de-proyecto-javier-vico.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/jefe-de-seguridad-carlos-zuniga.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/jefe-de-seguridad-suplente-david-pozo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/responsable-comercial-carlos-zuniga.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/responsable-de-medioambiente-raul-cordon.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/responsable-de-rrhh-fernando-pozo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/responsable-del-sgsi-david-pozo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/responsable-financiero-carlos-zuniga.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/asignaciones/responsable-tecnico-fernando-pozo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/administrador-de-sistemas.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/cci.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/cio.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/coo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/cso.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/cto.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/desarrollador-de-negocio.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/director-de-calidad.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/director-de-marketing.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/disenador-grafico.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/ingeniero-de-desarrollo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/ingeniero-de-diseno.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/ingeniero-de-qa.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/jefe-de-proyecto.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/jefe-de-seguridad-suplente.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/jefe-de-seguridad.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/responsable-comercial.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/responsable-cumplimiento-normativo.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/responsable-de-medio-ambiente.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/responsable-de-rrhh.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/responsable-financiero.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/responsable-sgsi.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/responsable-tecnico.md
+INFO | FM  docs/calidad-iso13485/02-liderazgo/puestos-de-trabajo/descripciones/tecnico-de-calidad.md
+INFO | SKIP (ya tiene FM): docs/calidad-iso13485/03-planificacion/index.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/objetivos/2024/medicion-objetivos-2024.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/objetivos/2024/objetivos-2024-02.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/objetivos/2024/objetivos-2024-03.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/objetivos/2024/objetivos-2024.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/objetivos/2024/objetivos-de-calidad-2024-02.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/objetivos/2024/objetivos-de-calidad-2024.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/objetivos/2025/EN/objetives-2025-en.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/objetivos/2025/objetivos-2025.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/recursos/plantillas/plantilla-capa.md
+INFO | FM  docs/calidad-iso13485/03-planificacion/recursos/plantillas/plantilla-matriz-de-riesgos.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/plan-formacion-2024.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/registro-formacion-1.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/registro-formacion-2.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/registro-formacion-3.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/registro-formacion-4.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/registro-formacion-5.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/registro-formacion-6.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/registro-formacion-7.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2024/registro-formacion-8.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2025/EN/training-2025.md
+INFO | FM  docs/calidad-iso13485/04-soporte/formacion/2025/formacion-2025.md
+INFO | FM  docs/calidad-iso13485/04-soporte/gestion-pnts/cuaderno-registro-distribucion-retirada-documentos.md
+INFO | FM  docs/calidad-iso13485/04-soporte/gestion-pnts/cuaderno-revision-oficio.md
+INFO | FM  docs/calidad-iso13485/04-soporte/gestion-pnts/listado-pnts.md
+INFO | SKIP (ya tiene FM): docs/calidad-iso13485/04-soporte/index.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/sgc/ar-00101-24.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/sgc/mr-00101-24.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/software-vrcardio/v1/ar-00201-24.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/software-vrcardio/v1/mr-00201-24.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/software-vrcardio/v1/plan-de-gestion-de-riesgos-01.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/software-vrcardio/v1/plan-de-gestion-de-riesgos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/software-vrcardio/v2/risk-analysis.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/software-vrcardio/v2/risk-management-plan.md
+INFO | FM  docs/calidad-iso13485/05-operacion/gestion-riesgos/software-vrcardio/v2/risk-management-report.md
+INFO | SKIP (ya tiene FM): docs/calidad-iso13485/05-operacion/index.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-especificos/ESP-005_análisis_riesgos_productos_sanitarios/ESP-005_01_análisis_riesgos_productos_sanitarios/EN/esp-005-01-risk-analysis-of-health-productsprocess-measurement-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-especificos/ESP-005_análisis_riesgos_productos_sanitarios/ESP-005_01_análisis_riesgos_productos_sanitarios/esp-005-01-analisis-riesgos-productos-sanitarios.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-especificos/ESP-006_medición_de_procesos/ESP-006_01_medición_de_procesos/esp-006-01-medicion-de-procesos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-especificos/ESP-006_medición_de_procesos/ESP-006_02_medición_de_procesos/EN/esp-006-02-process-measurement-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-especificos/ESP-006_medición_de_procesos/ESP-006_02_medición_de_procesos/esp-006-02-medicion-de-procesos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_01_gestion_de_los_documentos_y_archivo/pnt-001-01-gestion-documento-archivo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_02_gestion_de_los_documentos_y_archivo/pnt-001-02-gestion-documento-archivo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_03_gestion_de_los_documentos_y_archivo/pnt-001-03-gestion-documento-archivo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_04_gestion_de_los_documentos_y_archivo/pnt-001-04-gestion-documento-archivo-.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_05_gestion_de_los_documentos_y_archivo/pnt-001-05-gestion-documento-archivo-.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_05_gestion_de_los_documentos_y_archivo/pnt-001-05-gestion-documento-archivo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_06_gestion_de_los_documentos_y_archivo/EN/pnt-001-06-document-file-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_06_gestion_de_los_documentos_y_archivo/pnt-001-06-gestion-documento-archivo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_07_gestion_de_los_documentos_y_archivo/EN/pnt-001-07-archive-document-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_001_gestion_de_los_documentos_y_archivo/PNT_001_07_gestion_de_los_documentos_y_archivo/pnt-001-07-gestion-documento-archivo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_002_gestion_de_riesgos/PNT_002_01_gestion_de_riesgos/pnt-002-01-gestion-de-riesgos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_002_gestion_de_riesgos/PNT_002_02_gestion_de_riesgos/pnt-002-02-gestion-de-riesgos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_002_gestion_de_riesgos/PNT_002_03_gestion_de_riesgos/pnt-002-03-gestion-de-riesgos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_002_gestion_de_riesgos/PNT_002_04_gestion_de_riesgos/EN/pnt-002-04-risk-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_002_gestion_de_riesgos/PNT_002_04_gestion_de_riesgos/pnt-002-04-gestion-de-riesgos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_002_gestion_de_riesgos/PNT_002_05_gestion_de_riesgos/pnt-002-05-gestion-de-riesgos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_003_formacion_del_personal/PNT_003_01_formacion_del_personal/pnt-003-01-formacion-del-personal.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_003_formacion_del_personal/PNT_003_02_formacion_del_personal/EN/pnt-003-02-staff-training-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_003_formacion_del_personal/PNT_003_02_formacion_del_personal/pnt-003-02-formacion-del-personal.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_004_gestion_de_no_conformidades/PNT_004_01_gestion_de_no_conformidades/pnt-004-01-gestion-de-no-conformidades.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_004_gestion_de_no_conformidades/PNT_004_02_gestion_de_no_conformidades/EN/pnt-004-02-non-conformity-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_004_gestion_de_no_conformidades/PNT_004_02_gestion_de_no_conformidades/pnt-004-02-gestion-de-no-conformidades.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_005_gestion_de_control_de_cambios/PNT_005_01_gestion_de_controles_de_cambios/pnt-00501-gestion-de-controles-de-cambio.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_005_gestion_de_control_de_cambios/PNT_005_02_gestion_de_controles_de_cambios/EN/pnt-005-02-change-control-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_005_gestion_de_control_de_cambios/PNT_005_02_gestion_de_controles_de_cambios/pnt-005-02-gestion-de-controles-de-cambio.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_005_gestion_de_control_de_cambios/PNT_005_03_gestion_de_controles_de_cambios/pnt-005-03-gestion-de-controles-de-cambio.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_006_gestion_de_acciones_correctivas_y_preventivas/PNT_006_01_gestion_de_acciones_correctivas_y_preventivas/pnt-006-01-gestion-de-acciones-correctivas-y-preventivas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_006_gestion_de_acciones_correctivas_y_preventivas/PNT_006_02_gestion_de_acciones_correctivas_y_preventivas/pnt-006-02-gestion-de-acciones-correctivas-y-preventivas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_006_gestion_de_acciones_correctivas_y_preventivas/PNT_006_03_gestion_de_acciones_correctivas_y_preventivas/pnt-006-03-gestion-de-acciones-correctivas-y-preventivas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_006_gestion_de_acciones_correctivas_y_preventivas/PNT_006_04_gestion_de_acciones_correctivas_y_preventivas/EN/pnt-006-04-management-of-corrective-and-preventive-actions-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_006_gestion_de_acciones_correctivas_y_preventivas/PNT_006_04_gestion_de_acciones_correctivas_y_preventivas/pnt-006-04-gestion-de-acciones-correctivas-y-preventivas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_006_gestion_de_acciones_correctivas_y_preventivas/PNT_006_05_gestion_de_acciones_correctivas_y_preventivas/EN/pnt-006-05-corrective-and-preventive-actions-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_006_gestion_de_acciones_correctivas_y_preventivas/PNT_006_05_gestion_de_acciones_correctivas_y_preventivas/pnt-006-05-gestion-de-acciones-correctivas-y-preventivas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_007_gestion_de_reclamaciones/PNT_007_01_gestion_de_reclamaciones/pnt-007-01-gestion-de-reclamaciones.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_007_gestion_de_reclamaciones/PNT_007_02_gestion_de_reclamaciones/EN/pnt-007-02-complaint-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_007_gestion_de_reclamaciones/PNT_007_02_gestion_de_reclamaciones/pnt-007-02-gestion-de-reclamaciones.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_008_retirada_de_productos_del_mercado/PNT_008_01_retirada_de_productos_del_mercado/pnt-008-01-retirada-de-productos-del-mercado.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_008_retirada_de_productos_del_mercado/PNT_008_02_retirada_de_productos_del_mercado/pnt-008-02-retirada-de-productos-del-mercado.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_008_retirada_de_productos_del_mercado/PNT_008_03_retirada_de_productos_del_mercado/EN/pnt-008-03-withdrawal-of-products-from-the-market-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_008_retirada_de_productos_del_mercado/PNT_008_03_retirada_de_productos_del_mercado/pnt-008-03-retirada-de-productos-del-mercado.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_009_medidas_de_satisfaccion_del_cliente/PNT_009_01_medidas_de_satisfaccion_del_cliente/pnt-009-01-medida-satisfaccion-del-cliente.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_009_medidas_de_satisfaccion_del_cliente/PNT_009_02_medidas_de_satisfaccion_del_cliente/pnt-009-02-medida-satisfaccion-del-cliente.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_009_medidas_de_satisfaccion_del_cliente/PNT_009_03_medidas_de_satisfaccion_del_cliente/EN/pnt-009-03-customer-satisfaction-measurement-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_009_medidas_de_satisfaccion_del_cliente/PNT_009_03_medidas_de_satisfaccion_del_cliente/pnt-009-03-medida-satisfaccion-del-cliente.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_010_revision_de_la_eficacia_SGC/PNT_010_01_revision_de_la_eficacia_SGC/pnt-010-01-revision-de-la-eficacia-sgc.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_010_revision_de_la_eficacia_SGC/PNT_010_02_revision_de_la_eficacia_SGC/pnt-010-02-revision-de-la-eficacia-sgc.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_010_revision_de_la_eficacia_SGC/PNT_010_03_revision_de_la_eficacia_SGC/EN/pnt-010-03-review-of-effectiveness-sgc-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_010_revision_de_la_eficacia_SGC/PNT_010_03_revision_de_la_eficacia_SGC/pnt-010-03-revision-de-la-eficacia-sgc.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_011_descripcion_de_los_puestos_de_trabajo/PNT_011_01_descripcion_de_los_puestos_de_trabajo/pnt-011-01-descripcion-de-los-puestos-de-trabajo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_011_descripcion_de_los_puestos_de_trabajo/PNT_011_02_descripcion_de_los_puestos_de_trabajo/pnt-011-02-descripcion-de-los-puestos-d.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_011_descripcion_de_los_puestos_de_trabajo/PNT_011_02_descripcion_de_los_puestos_de_trabajo/pnt-011-02-descripcion-de-los-puestos-de-trabajo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_011_descripcion_de_los_puestos_de_trabajo/PNT_011_03_descripcion_de_los_puestos_de_trabajo/EN/pnt-011-03-job-description-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_011_descripcion_de_los_puestos_de_trabajo/PNT_011_03_descripcion_de_los_puestos_de_trabajo/pnt-011-03-descripcion-de-los-puestos-de-trabajo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_012_seleccion_evaluacion_de_proveedores/PNT_012_01_seleccion_evaluacion_de_proveedores/pnt-012-01-seleccion-evaluacion-aprobacion-proveedores.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_012_seleccion_evaluacion_de_proveedores/PNT_012_02_seleccion_evaluacion_de_proveedores/EN/pnt-012-02-selection-evaluation-approval-suppliers-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_012_seleccion_evaluacion_de_proveedores/PNT_012_02_seleccion_evaluacion_de_proveedores/pnt-012-02-seleccion-evaluacion-aprobacion-proveedores.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_012_seleccion_evaluacion_de_proveedores/PNT_012_03_seleccion_evaluacion_de_proveedores/EN/pnt-012-03-selection-evaluation-approval-of-suppliers-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_012_seleccion_evaluacion_de_proveedores/PNT_012_03_seleccion_evaluacion_de_proveedores/pnt-012-03-seleccion-evaluacion-aprobacion-proveedores.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_012_seleccion_evaluacion_de_proveedores/PNT_012_04_seleccion_evaluacion_de_proveedores/pnt-012-04-seleccion-evaluacion-aprobacion-proveedores.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_013_auditorias_internas_y_externas/PNT_013_01_auditorias_internas_y_externas/pnt-013-01-auditorias-internas-externas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_013_auditorias_internas_y_externas/PNT_013_02_auditorias_internas_y_externas/pnt-013-02-auditorias-internas-externas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_013_auditorias_internas_y_externas/PNT_013_03_auditorias_internas_y_externas/pnt-013-03-auditorias-internas-externas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_013_auditorias_internas_y_externas/PNT_013_04_auditorias_internas_y_externas/EN/pnt-013-04-internal-external-audits-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_013_auditorias_internas_y_externas/PNT_013_04_auditorias_internas_y_externas/pnt-013-04-auditorias-internas-externas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_013_auditorias_internas_y_externas/PNT_013_05_auditorias_internas_y_externas/pnt-013-05-auditorias-internas-externas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_014_seguimiento_post_comercializacion_de_productos/PNT_014_01_seguimiento_post_comercializacion_de_productos/pnt-014-01-seguimiento-postcomercializacion-de-productos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_014_seguimiento_post_comercializacion_de_productos/PNT_014_02_seguimiento_post_comercializacion_de_productos/pnt-014-02-seguimiento-postcomercializacion-de-productos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_014_seguimiento_post_comercializacion_de_productos/PNT_014_03_seguimiento_post_comercializacion_de_productos/EN/pnt-014-03-post-marketing-surveillance-of-products-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_014_seguimiento_post_comercializacion_de_productos/PNT_014_03_seguimiento_post_comercializacion_de_productos/pnt-014-03-seguimiento-postcomercializacion-de-productos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_015_trazabilidad_e_identificacion_de_productos_y_procesos/PNT_015_01_trazabilidad_e_identificacion_de_productos_y_procesos/pnt-015-01-razabilidad-identificacion-productos-procesos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_015_trazabilidad_e_identificacion_de_productos_y_procesos/PNT_015_02_trazabilidad_e_identificacion_de_productos_y_procesos/pnt-015-02-razabilidad-identificacion-productos-procesos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_015_trazabilidad_e_identificacion_de_productos_y_procesos/PNT_015_03_trazabilidad_e_identificacion_de_productos_y_procesos/pnt-015-03-razabilidad-identificacion-productos-procesos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_015_trazabilidad_e_identificacion_de_productos_y_procesos/PNT_015_04_trazabilidad_e_identificacion_de_productos_y_procesos/pnt-015-04-razabilidad-identificacion-productos-procesos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_015_trazabilidad_e_identificacion_de_productos_y_procesos/PNT_015_05_trazabilidad_e_identificacion_de_productos_y_procesos/EN/pnt-015-05-traceability-identification-products-processes-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_015_trazabilidad_e_identificacion_de_productos_y_procesos/PNT_015_05_trazabilidad_e_identificacion_de_productos_y_procesos/pnt-015-05-trazabilidad-identificacion-productos-procesos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_016_aprobacion_rechazo_y_liberacion_de_productos/PNT_016_01_aprobacion_rechazo_y_liberacion_de_productos/pnt-016-01-aprobacion-rechazo-y-liberacion-de-producto.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_016_aprobacion_rechazo_y_liberacion_de_productos/PNT_016_02_aprobacion_rechazo_y_liberacion_de_productos/pnt-016-02-aprobacion-rechazo-y-liberacion-de-producto.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_016_aprobacion_rechazo_y_liberacion_de_productos/PNT_016_03_aprobacion_rechazo_y_liberacion_de_productos/pnt-016-03-aprobacion-rechazo-y-liberacion-de-producto.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_016_aprobacion_rechazo_y_liberacion_de_productos/PNT_016_04_aprobacion_rechazo_y_liberacion_de_productos/EN/pnt-016-04-approval-rejection-and-release-of-product-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_016_aprobacion_rechazo_y_liberacion_de_productos/PNT_016_04_aprobacion_rechazo_y_liberacion_de_productos/pnt-016-04-aprobacion-rechazo-y-liberacion-de-producto.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_017_registro_de_firmas/PNT_017_01_registro_de_firmas/pnt-017-01-registro-de-firmas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_017_registro_de_firmas/PNT_017_02_registro_de_firmas/EN/pnt-017-02-signature-register-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_017_registro_de_firmas/PNT_017_02_registro_de_firmas/pnt-017-02-registro-de-firmas.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_018_validacion-de_procesos_servicios_o_productos/PNT_018_01_validacion-de_procesos_servicios_o_productos/pnt-018-01-validacion-procesos-servicios-productos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_018_validacion-de_procesos_servicios_o_productos/PNT_018_02_validacion-de_procesos_servicios_o_productos/pnt-018-02-validacion-procesos-servicios-productos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_018_validacion-de_procesos_servicios_o_productos/PNT_018_03_validacion-de_procesos_servicios_o_productos/EN/pnt-018-03-validation-processes-services-products-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_018_validacion-de_procesos_servicios_o_productos/PNT_018_03_validacion-de_procesos_servicios_o_productos/pnt-018-03-validacion-procesos-servicios-productos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_019_gestion_del_etiquetado/PNT_019_01_gestion_del_etiquetado/pnt-019-01-gestion-del-etiquetado.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_019_gestion_del_etiquetado/PNT_019_02_gestion_del_etiquetado/pnt-019-02-gestion-del-etiquetado.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_019_gestion_del_etiquetado/PNT_019_03_gestion_del_etiquetado/EN/pnt-019-03-labeling-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_019_gestion_del_etiquetado/PNT_019_03_gestion_del_etiquetado/pnt-019-03-gestion-del-etiquetado.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_019_gestion_del_etiquetado/PNT_019_04_gestion_del_etiquetado/pnt-019-04-gestion-del-etiquetado.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_020_gestion_de_compras/PNT_020_01_gestion_de_compras/pnt-020-01-gestion-de-compras.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_020_gestion_de_compras/PNT_020_02_gestion_de_compras/EN/pnt-020-02-purchasing-management-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_020_gestion_de_compras/PNT_020_02_gestion_de_compras/pnt-020-02-gestion-de-compras.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_021_gestion_de_clientes_y_pedidos/PNT_021_01_gestion_de_clientes_y_pedidos/pnt-021-01-gestion-de-clientes-pedidos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_021_gestion_de_clientes_y_pedidos/PNT_021_02_gestion_de_clientes_y_pedidos/EN/pnt-021-02-customer-management-orders-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_021_gestion_de_clientes_y_pedidos/PNT_021_02_gestion_de_clientes_y_pedidos/pnt-021-02-gestion-de-clientes-pedidos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_022_infraestructura/PNT_022_01_infraestructura/pnt-022-01-infraestructura.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_022_infraestructura/PNT_022_02_infraestructura/EN/pnt-022-02-infrastructure-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_022_infraestructura/PNT_022_02_infraestructura/pnt-022-02-infraestructura.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_023_bpds/PNT_023_01_bpds/pnt-023-01-buenas-practicas-documentacion-e-integridad-de-datos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_023_bpds/PNT_023_02_bpds/EN/pnt-023-02-good-practice-documentation-and-data-integrity-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_023_bpds/PNT_023_02_bpds/pnt-023-02-buenas-practicas-documentacion-e-integridad-de-datos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_024_preparacion_de_la_documentacion_tecnica/PNT_024_01_preparacion_de_la_documentacion_tecnica/pnt-024-01-preparacion-de-la-documentacion-tecnica.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_024_preparacion_de_la_documentacion_tecnica/PNT_024_02_preparacion_de_la_documentacion_tecnica/EN/pnt-024-02-preparation-of-technical-documentation-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_024_preparacion_de_la_documentacion_tecnica/PNT_024_02_preparacion_de_la_documentacion_tecnica/pnt-024-02-preparacion-de-la-documentacion-tecnica.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_025_sistema_de_vigilancia/PNT_025_01_sistema_de_vigilancia/pnt-025-01-sistema-de-vigilancia.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_025_sistema_de_vigilancia/PNT_025_02_sistema_de_vigilancia/pnt-025-02-sistema-de-vigilancia.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_025_sistema_de_vigilancia/PNT_025_03_sistema_de_vigilancia/pnt-025-03-sistema-de-vigilancia.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_025_sistema_de_vigilancia/PNT_025_04_sistema_de_vigilancia/pnt-025-04-sistema-de-vigilancia.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_025_sistema_de_vigilancia/PNT_025_05_sistema_de_vigilancia/pnt-025-05-sistema-de-vigilancia.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_025_sistema_de_vigilancia/PNT_025_06_sistema_de_vigilancia/pnt-025-06-sistema-de-vigilancia.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_025_sistema_de_vigilancia/PNT_025_07_sistema_de_vigilancia/EN/pnt-025-07-surveillance-system-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_025_sistema_de_vigilancia/PNT_025_07_sistema_de_vigilancia/pnt-025-07-sistema-de-vigilancia.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_026_diseno_y_desarrollo/PNT_026_01_diseno_y_desarrollo/pnt-026-01-diseno-y-desarrollo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_026_diseno_y_desarrollo/PNT_026_02_diseno_y_desarrollo/pnt-026-02-diseno-y-desarrollo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_026_diseno_y_desarrollo/PNT_026_03_diseno_y_desarrollo/pnt-026-03-diseno-y-desarrollo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_026_diseno_y_desarrollo/PNT_026_04_diseno_y_desarrollo/EN/pnt-026-04-design-and-development-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_026_diseno_y_desarrollo/PNT_026_04_diseno_y_desarrollo/pnt-026-04-diseno-y-desarrollo.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_027_ciclo_de_vida_de_sistemas_informatizados/PNT_027_01_ciclo_de_vida_de_sistemas_informatizados/pnt-027-01-ciclo-de-vida-de-sistemas-informatizados.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_027_ciclo_de_vida_de_sistemas_informatizados/PNT_027_02_ciclo_de_vida_de_sistemas_informatizados/EN/pnt-027-02-life-cycle-of-computerised-systems-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_027_ciclo_de_vida_de_sistemas_informatizados/PNT_027_02_ciclo_de_vida_de_sistemas_informatizados/pnt-027-02-ciclo-de-vida-de-sistemas-informatizados.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_028_evaluación_clínica/EN/pnt-028-01-clinical-evaluation-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_028_evaluación_clínica/pnt-028-01-evaluacion-clinica.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_029_Analisis_de_datos/EN/pnt-029-01-data-analysis-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_029_Analisis_de_datos/pnt-029-01-analisis-de-datos.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_030_Seguimiento_regulatorio/pnt_030_01_Seguimiento_regulatorio/EN/pnt-030-01-regulatory-monitoring-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_030_Seguimiento_regulatorio/pnt_030_01_Seguimiento_regulatorio/EN/pnt-030-01-regulatory-monitoring.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_030_Seguimiento_regulatorio/pnt_030_01_Seguimiento_regulatorio/pnt-030-01-seguimiento-regulatorio.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_030_Seguimiento_regulatorio/pnt_030_02_Seguimiento_regulatorio/EN/pnt-030-02-regulatory-monitoring.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_030_Seguimiento_regulatorio/pnt_030_02_Seguimiento_regulatorio/pnt-030-02-seguimiento-regulatorio.md
+INFO | FM  docs/calidad-iso13485/05-operacion/procedimientos-generales/PNT_030_Seguimiento_regulatorio/pnt_030_03_Seguimiento_regulatorio/pnt-030-03-seguimiento-regulatorio.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Atlasian/evaluacion-atlasian-2025.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Born/20240220-qualitymanual-born-gmbh.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Born/20241210-quality-service-agreement-v12-signed.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Born/20250218-born-supplier-agreement-v1-2-signed-all.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Born/born-gmbh-iso9001-certificate-06-24---06-27-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Born/list-of-documents-provided.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Born/requierement-specification.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Google/evaluacion-google-2025.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/HTCert/2024-04-23-quotation-mdr-t-16024-24-03-01.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/HTCert/contract-mdr-16024-24-03-02-spika.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/HTCert/evaluacion-htcert-2025.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Konexio/acuerdo-konexio.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Konexio/anexo-1-modelo-de-acuerdo-de-calidad.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Konexio/anexo-2-registro-de-aprovacion-de-proveedores.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Konexio/anexo-3-registro-del-listado-de-proveedores-aprobados.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Konexio/anexo-4-cadena-de-suministro.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Konexio/datos-solicitados-aprovacion-de-proveedor.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Microsoft/evaluacion-microsoft-2025.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/SmartMDR/2024-03-25-spikatech-easyprrc-ep2024011.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/SmartMDR/evaluacion-smartmdr-2025.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Unity/anexo-aprobacion-proveedor.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/Unity/documentacion-obtenida-unity.md
+INFO | FM  docs/calidad-iso13485/05-operacion/proveedores/listado-proveedores-aprobados.md
+INFO | FM  docs/calidad-iso13485/05-operacion/retirada-de-producto/EN/sim-rp-001-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/retirada-de-producto/sim-rp-001.md
+INFO | FM  docs/calidad-iso13485/05-operacion/validacion-software/EN/software-validation-report-en.md
+INFO | FM  docs/calidad-iso13485/05-operacion/validacion-software/informe-de-validacion-software-unity.md
+INFO | FM  docs/calidad-iso13485/05-operacion/validacion-software/informe-de-validacion-software-vrcardio-02.md
+INFO | FM  docs/calidad-iso13485/05-operacion/validacion-software/protocolo-de-validacion-software.md
+INFO | FM  docs/calidad-iso13485/05-operacion/validacion-software/requerimientos-de-usuario.md
+INFO | FM  docs/calidad-iso13485/05-operacion/validacion-software/verificacion-del-diseno.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/analisis-de-datos/2025/analisis-de-datos-2025.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Extraordinaria/2024-12-17-informe-auditoria-spika-tech-aex.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Extraordinaria/plan-auditoria-spika-tech-aex.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase I/informebase-spika-tech-fase-1.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase I/plan-auditoria-spika-tech-fase-i.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/capas.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-1.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-10.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-11.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-12.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-2.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-3.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-4.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-5.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-6.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-7.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-8.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/NCs/nc-9.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/informe-auditoria-spika-tech-fase-ii.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Fase II/plan-auditoria-spika-tech-fase-ii.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Empleados, Clientes y Proveedores/garantia-del-compromiso-de-la-alta-direccion-de-spika-tech.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Empleados, Clientes y Proveedores/plan-de-igualdad-de-genero-en-spika-tech.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Estrategia, Ética y transparencia y Resultados/20240402-advisor-iia.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Estrategia, Ética y transparencia y Resultados/appendix-a-application-form.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Estrategia, Ética y transparencia y Resultados/appendix-c-declaration-of-honour-firmar.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Estrategia, Ética y transparencia y Resultados/enterprise-transition-plan-2024.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Estrategia, Ética y transparencia y Resultados/incentives-plan-call-documentation-set-guide-for-applicants-20240318-1-3.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Estrategia, Ética y transparencia y Resultados/plan-estrategico-spikatech-2024--2030.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Estrategia, Ética y transparencia y Resultados/sustainable-implementation-plan---technology-directory-2023-12-12-1.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Estrategia, Ética y transparencia y Resultados/waste-rationale.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Gestión y transformación e Innovación/cuestionario-ine.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Gestión y transformación e Innovación/syllabus-programa-de-formacion-directivos.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Medioambiente y Sociedad/carbon-footprint-assessment-20230824.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/Medioambiente y Sociedad/enterprise-transition-plan-2024.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/cuestionario-peticion-sello-de-excelencia.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/Madrid Excelente/plan-de-visita-de-evaluacion-v1-spika-tech.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2024/hojadatos.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2025/f1211-016024-2025.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2025/f1212-016024-2025.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Externas/2025/f213-016024-2025.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Internas/Febrero 2024/agenda-auditoria.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Internas/Febrero 2024/auditoria-spikatech-v1-signed-kb.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Internas/Junio 2025/2025-06-24-infome-auditoria-spikatech-kb-signed.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/auditorias/Internas/Junio 2025/agenda-auditoria.md
+INFO | SKIP (ya tiene FM): docs/calidad-iso13485/06-evaluacion-desempeno/index.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/medicion-procesos/2024/EN/process-measurement-2024-en.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/medicion-procesos/2024/medicion-de-procesos-2024.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/medicion-procesos/2025/medicion-de-procesos-2025.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-001-25-en.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-001-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-002-25-en.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-002-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-003-25-en.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-003-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-004-25-en.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-004-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-005-25-en.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-005-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-006-25-en.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/EN/ac-006-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/ac-001-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/ac-002-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/ac-003-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/ac-004-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/ac-005-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Capas/ac-006-25.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Escaner versión físico/ac-037-242.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Escaner versión físico/ac-044-24.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/Escaner versión físico/base-datos-planes-capa.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/base-datos-planes-capa.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/no-conformidades/listado-no-conformidades.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/revision-por-la-direccion/2024/EN/irsgcd2024.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/revision-por-la-direccion/2024/attendance-list.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/revision-por-la-direccion/2024/irsgcd2024-02.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/revision-por-la-direccion/2024/irsgcd2024-03.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/revision-por-la-direccion/2024/irsgcd2024.md
+INFO | FM  docs/calidad-iso13485/06-evaluacion-desempeno/revision-por-la-direccion/2025/irsgcd2025.md
+INFO | SKIP (ya tiene FM): docs/calidad-iso13485/07-mejora/index.md
+INFO | FM  docs/calidad-iso13485/anexos/guia-uso.md
+INFO | SKIP (ya tiene FM): docs/calidad-iso13485/anexos/index.md
+INFO | FM  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.03_MANUAL DE CALIDAD/mq-0103-manual-de-calidad.md
+INFO | FM  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.04_MANUAL DE CALIDAD/mq-0104-manual-de-calidad.md
+INFO | FM  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.05_MANUAL DE CALIDAD/mq-0105-manual-de-calidad.md
+INFO | FM  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.06_MANUAL DE CALIDAD/mq-0106-manual-de-calidad.md
+INFO | FM  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.07_MANUAL DE CALIDAD/EN/mq-0107-quality-manual-en.md
+INFO | FM  docs/calidad-iso13485/anexos/versiones-historicas/MQ_01.07_MANUAL DE CALIDAD/mq-0107-manual-de-calidad.md
+INFO | FM  docs/intro.md
+INFO | FM  docs/seguridad-iso27001/00-introduccion.md
+INFO | SKIP (ya tiene FM): docs/seguridad-iso27001/01-contexto-organizacion/index.md
+INFO | FM  docs/seguridad-iso27001/01-contexto-organizacion/plt-00202-alcance-spika-tech.md
+INFO | FM  docs/seguridad-iso27001/01-contexto-organizacion/versiones-historicas/plt-00201-alcance-spika-tech.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/acta-constitucion-comite-seguridad.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/acta-de-revision-por-el-comite-de-seguridad.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas/minuta-reunion-25-03-2025-planificacion-iso-27001---fase-2.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas/minuta-reunion-iso-27001---plan-de-capacidad-y-rrhh-signed.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas/minuta-reunion-pentesting-y-auditoria-de-codigo-signed.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas/minuta-reunion-planificacion-iso-27001---fase-2-signed.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas/minuta-reunion-revision-fase-1-de-la-auditoria-externa-de-la-iso-27001-signed.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas/minuta-reunion-revision-fase-2-de-la-iso-27001-signed.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/comite-de-seguridad/minutas/minuta-reunion-revision-sgsi-signed.md
+INFO | SKIP (ya tiene FM): docs/seguridad-iso27001/02-liderazgo/index.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00102-seguridad-de-la-informacion-signed.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00302-liderazgo-y-compromiso.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00401-continuidad-de-negocio.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00501-desconexion-digital.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/politicas/plt-00601-contrasenas.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/politicas/versiones-historicas/plt-00101-seguridad-de-la-informacion.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/politicas/versiones-historicas/plt-00301-liderazgo-y-compromiso.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/pdt.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---cci.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---ceo.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---cio.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---coo.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---cso.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---cto.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---desarrollador-de-negocio.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---director-de-calidad.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---director-de-marketing.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---disenador-grafico.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---ingeniero-de-desarrollo.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---ingeniero-de-diseno.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---ingeniero-de-qa.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---jefe-de-proyecto.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---jefe-de-seguridad-suplente.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---jefe-de-seguridad.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---responsable-comercial.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---responsable-cumplimiento-normativo.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---responsable-de-medio-ambiente.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---responsable-de-rrhh.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---responsable-de-sistemas.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---responsable-financiero.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---responsable-sgsi.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---responsable-tecnico.md
+INFO | FM  docs/seguridad-iso27001/02-liderazgo/puestos-de-trabajo/asignaciones/rpt---tecnico-de-calidad.md
+INFO | FM  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/adr-00201-anexo-a-plan-de-tratamiento-de-riesgos-2024.md
+INFO | FM  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/adr-00201-plan-de-tratamiento-de-riesgos.md
+INFO | FM  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/componentes/analisis-de-riesgos---vrcardio-explore.md
+INFO | FM  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/componentes/analisis-de-riesgos---vrcardio.md
+INFO | FM  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/componentes/plantilla---analisis-de-riesgos.md
+INFO | FM  docs/seguridad-iso27001/03-planificacion/analisis-de-riesgos/versiones-historicas/adr-00101-informe-de-aarr-spika-tech-2024.md
+INFO | SKIP (ya tiene FM): docs/seguridad-iso27001/03-planificacion/index.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/ccn-cert-bp-06-navegadores-web.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/google-chrome/ccn-cert-bp-19-recomendaciones-de-seguridad-en-google-chrome.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-edge/ccn-cert-bp-19-recomendaciones-de-seguridad-en-microsoft-edge.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-office-365/ccn-stic-885a---guia-de-configuracion-segura-para-office-365.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-onedrive/guia-sincronizacion-onedrive.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-outlook/guia-anti-spam-outlook.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-sharepoint/ccn-stic-885b---guia-de-configuracion-segura-para-sharepoint-online.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/microsoft-teams/ccn-stic-885d-guia-de-configuracion-segura-para-microsoft-teams.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/norton-360/n360-help.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/configuracion-segura/turnos/guia-de-instalacion-y-uso-de-turnos.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---alfonso-martinez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---alvaro-gutierrez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---carlos-rodrigo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---carlos-zuniga.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---celia-serrano.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---daniel-camara.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---david-pozo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---fernando-pozo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---ioana-cretu.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---ivan-perez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---jaime-de-castro.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---javier-vico.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---jorge-aracil.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---jose-martin.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---julian-sanchez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---luis-daniel-clemente.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---marta-celia-arnaiz.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---pablo-rubio.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---paloma-carretero.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---raul-cordon.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---roxana-nicoleta-aanei.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso básico de ciberseguridad/angeles---certificado-de-superacion---curso-basico-de-ciberseguridad---vicente-gallego.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de ransomware/angeles---certificado-de-superacion---curso-de-ransomware---carlos-zuniga.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---alfonso-martinez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---carlos-rodrigo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---carlos-zuniga.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---celia-serrano.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---daniel-camara.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---david-pozo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---fernando-pozo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---ivan-perez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---jaime-de-castro.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---javier-vico.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---jorge-aracil.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---jose-martin.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---luis-daniel-clemente.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---pablo-rubio.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---paloma-carretero.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---roxana-nicoleta-aanei.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CCN/Curso de seguridad en correo electrónico/angeles---certificado-de-superacion---curso-de-seguridad-en-correo-electronico---vicente-gallego.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CEA - Curso de transformación digital/cea---certificado-de-superacion---transformacion-digital---ioana-cretu-andrei.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/CEA - Curso de transformación digital/cea---certificado-de-superacion---transformacion-digital---raul-cordon-torres.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/PMI - Curso Project Managment Ready/pmi---certificado-de-superacion---project-managment-ready---ioana-cretu-andrei.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/PMI - Curso Project Managment Ready/pmi---certificado-de-superacion---project-managment-ready---raul-cordon-torres.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/certificados/registro-de-reportes-de-formacion.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/formacion/documentos/for-00101-plan-de-formacion-y-concienciacion-en-seguridad-de-la-informacion.md
+INFO | SKIP (ya tiene FM): docs/seguridad-iso27001/04-soporte/index.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---alfonso-martinez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---alvaro-gutierrez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---carlos-rodrigo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---carlos-zuniga.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---daniel-camara.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---david-pozo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---fernando-pozo.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---ioana-cretu.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---ivan-perez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---jaime-de-castro.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---javier-vico.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---jorge-aracil.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---jose-martin.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---julian-sanchez.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---luis-daniel-clemente.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---marta-celia-arnaiz.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---pablo-rubio.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---paloma-carretero.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---raul-cordon.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---roxana-nicoleta-aanei.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/nda/nda---sotiris-rekoumis.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/normas/nrm-00101-general-de-utilizacion-de-los-recursos-y-sistemas-de-informacion.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/normas/nrm-00201-servicios-cloud.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/normas/nrm-00301-proteccion-frente-a-sotware-malicioso.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/normas/nrm-00401-registro-de-autorizaciones.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/normas/nrm-00501-gestion-de-vulnerabilidades-tecnicas.md
+INFO | FM  docs/seguridad-iso27001/04-soporte/transversales/tra-00101-manual-de-definiciones-y-terminologia.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/continuidad-del-negocio/bias/Plantilla/bia-plantilla.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/continuidad-del-negocio/bias/bia---marzo-de-2025.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/continuidad-del-negocio/protocolos/cdn-00101---plan-de-continuidad-y-recuperacion-ante-desastres.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/continuidad-del-negocio/protocolos/cdn-00201---procedimiento-de-copias-de-seguridad-y-pruebas-de-restauracion.md
+INFO | SKIP (ya tiene FM): docs/seguridad-iso27001/05-operacion/index.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/inteligencia-de-amenazas/807-criptologia-de-empleo-ens.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/inteligencia-de-amenazas/811-interconexion-en-el-ens.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/inteligencia-de-amenazas/guia-de-seguridad-ccn-stic-425-ciclo-de-inteligencia-y-analisis-de-intrusiones.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00101-gestion-de-requisitos-legales.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00203-roles-y-segregacion-de-funciones.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00302-gestion-y-revision-de-la-documentacion.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00401-etiquetado-y-clasificacion-de-la-informacion.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00501-gestion-y-analisis-de-riesgos.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00601-inventario-de-activos.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00701-adquisicion-de-nuevos-componentes-ti.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00801-proteccion-de-la-infraestructura.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-00901-proteccion-de-equipos.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01001-gestion-soportes-de-informacion.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01101-control-de-acceso-de-usuarios.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01201-desarrollo-seguro.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01302-copias-de-seguridad.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01401-gestion-de-no-conformidades-y-acciones-correctivas.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01502-gestion-y-notificacion-de-incidentes-de-seguridad.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01601-proteccion-del-correo-electronico.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01701-auditoria.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01801-proteccion-de-proyectos-it.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-01901-gestion-de-cambios-tic.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-02001-segregacion-de-redes-y-flujos-de-informacion.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-02101-accesos-remotos-y-conexiones-externas.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-02201-gestion-de-identidades.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/pro-02301-inteligencia-de-amenazas.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-00201-roles-y-segregacion-de-funciones.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-00202-roles-y-segregacion-de-funciones.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-00301-gestion-y-revision-de-la-documentacion.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-01301-copias-de-seguridad.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/procedimientos/versiones-historicas/pro-01501-gestion-y-notificacion-de-incidentes-de-seguridad.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/proteccion-proyectos-it/clausulas-de-proteccion-de-proyectos-it-spika---martinez-echevarria-abogados.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/proteccion-proyectos-it/clausulas-de-proteccion-de-proyectos-it-spika---tributae.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/proteccion-proyectos-it/plantilla-sla---spika-tech.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/auditoria-de-codigo/guia-de-uso---controlador-de-codigo-seguro.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/auditoria-de-codigo/plan-de-auditoria-de-codigo.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/auditoria-de-codigo/reportes/mqtt-2025-03-19---security-audit-report.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/2025-04-15/anexo-i---zap.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/2025-04-15/anexo-ii---openvas.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/2025-04-15/hallazgos-pentesting-15-04-2025.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/2025-06-27/anexo-i---owasp-zap.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/2025-06-27/anexo-ii---owasp-zap.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/2025-06-27/hallazgos-pentesting-27-06-2025.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/hallazgos-pentesting.md
+INFO | FM  docs/seguridad-iso27001/05-operacion/seguridad-del-desarrollo/pentesting/protocolo-de-pentesting.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-1/datos-adicionales-iso-27001-003.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-1/informe-fase-1-iso-27001---spika-tech.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-1/plan-de-auditoria-fase-1-iso-27001--spika-tech.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-2/controles-iso-27001-evidencias-soa.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-2/guia-elaboracion-pac---1242-d-dtc-01-00.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-2/nc.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/fase-2/plan-de-auditoria-fase-2-iso-27001--spika-tech.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO A - NCm01/pdt---responsable-comercial.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO A - NCm01/pdt---responsable-financiero.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO A - NCm01/rpt---responsable-comercial.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO A - NCm01/rpt---responsable-financiero.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO C - NCm03/rgs-6-plan-de-comunicacion.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO D - NCm04/pro-00501-gestion-y-analisis-de-riesgos.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO F - NCm06/plantilla-revision-de-proveedores---tipo-c.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO G - NCm07/cdn-00101---plan-de-continuidad-y-recuperacion-ante-desastres.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO G - NCm07/plt-00401-continuidad-de-negocio.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO H - NCm08/2025-04-15/anexo-i---zap.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO H - NCm08/2025-04-15/anexo-ii---openvas.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO H - NCm08/2025-04-15/hallazgos-pentesting-15-04-2025.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO H - NCm08/hallazgos-pentesting-2025-04-15.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO H - NCm08/hallazgos-pentesting-2025-06-27.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO H - NCm08/protocolo-de-pentesting.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO I - NCm09/cdn-00201---procedimiento-de-copias-de-seguridad-y-pruebas-de-restauracion.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO I - NCm09/pro-01302-copias-de-seguridad.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/ANEXO J - NCm10/estudio-y-plan-de-filtrado-web.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/informe-fase-2-de-certificacion-iso27001-spikatech.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/plan-de-acciones-correctivas-iso-27001-2025-04-25.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/plan-de-acciones-correctivas-iso-27001-2025-11-27.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/plan-de-acciones-correctivas-iso-27001.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-aenor-2025/pac/plan-de-acciones-correctivas-iso27001.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/cv---carlos-castillo---auditor-junior.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/cv---carlos-gomez---auditor-jefe.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/hallazgos-spika-tech-iso-27001.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/informe-auditoria-interna-iso-27001-spika-tech-v1-signed.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/informe-auditoria-interna-iso-27001-spika-tech-v1.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/plan-auditoria-interna-iso-27001-spika-tech-v11-signed.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/plan-auditoria-interna-iso-27001-spika-tech-v11.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/auditoria-interna-cyberxia-2025/plan-de-acciones-correctivas-iso27001.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/control-documentos/controles-iso-27001-evidencias-soa.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/control-documentos/listado-documental-sgsi-spika.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/control-documentos/listado-documentos-para-imprimir.md
+INFO | SKIP (ya tiene FM): docs/seguridad-iso27001/06-evaluacion-desempeno/index.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-1889-4763-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-1995-24292-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-1995-25444-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-1996-8930-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2014-3649-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2015-11430-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2018-16673-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2019-15722.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2020-14046-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2021-11472.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2021-1192.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2022-7191-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/boe-a-2023-4513-consolidado.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/estatuto-de-los-trabajadores.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/iso-22301-2019.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/l00001-00088.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/l00073-00114.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/normativa-aplicable/l00080-00152.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00101-normativa-aplicable.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00202-inventario-de-activos.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00302-indicadores-de-seguridad.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00401-revisiones-periodicas.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00501-whitelist.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00601-plan-de-comunicacion.md
+INFO | FM  docs/seguridad-iso27001/06-evaluacion-desempeno/registros/rgs-00701-borrado.md
+INFO | SKIP (ya tiene FM): docs/seguridad-iso27001/07-mejora/index.md
+INFO | FM  docs/seguridad-iso27001/07-mejora/plan-de-capacidad/plan-de-capacidad-2025.md
+INFO | FM  docs/seguridad-iso27001/07-mejora/plan-de-capacidad/planificacion-del-plan-de-capacidad.md
+INFO | FM  docs/seguridad-iso27001/07-mejora/planificaciones/formacion-y-concienciacion.md
+INFO | FM  docs/seguridad-iso27001/07-mejora/planificaciones/gastos.md
+INFO | FM  docs/seguridad-iso27001/07-mejora/planificaciones/planificacion-recursos.md
+INFO | SKIP (ya tiene FM): docs/seguridad-iso27001/anexos/index.md
+INFO | FM  docs/seguridad-iso27001/anexos/security-assessment-report.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/-all-errors.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/basura/Seguridad del desarrollo/Auditoría de código/spika-tech---code-checkerexe-error.md
+INFO | FM  docs/seguridad-iso27001/transversal/matriz-de-segregacion-de-funciones.md
+INFO | FM  docs/seguridad-iso27001/transversal/medio-ambiente/Huella de carbono/carbon-footprint-assessment-20230824.md
+INFO | FM  docs/seguridad-iso27001/transversal/medio-ambiente/Huella de carbono/enterprise-transition-plan-2024.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/alfons1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/carlos1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/carlos2.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/daniel1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/davidp1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/fernan1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/ioanac1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/ivnpre1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/jaimed1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/javier1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/jorgea1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/josmar1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/julins1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/luisda1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/lvarog1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/martac1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/pablor1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/paloma1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/ralcor1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/roxnic1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/sotiri1.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/norma1-fat32/vicent1.md
+INFO | FM  docs/seguridad-iso27001/transversal/plan-de-revision-de-dispositivos.md
+INFO | FM  docs/seguridad-iso27001/transversal/reporte-de-tareas.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Análisis de riesgos/adr-00101-informe-de-aarr-spika-tech-2024.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Análisis de riesgos/adr-00201-ptr-aarr-spika-tech-2025.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Formación/for-00101-plan-de-formacion-y-concienciacion-en-seguridad-de-la-informacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Normas/nrm-00101-general-de-utilizacion-de-los-recursos-y-sistemas-de-informacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Normas/nrm-00201-servicios-cloud.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Normas/nrm-00301-proteccion-frente-a-sotware-malicioso.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Normas/nrm-00401-registro-de-autorizaciones.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Normas/nrm-00501-gestion-de-vulnerabilidades-tecnicas.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00101-seguridad-de-la-informacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00102-seguridad-de-la-informacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00201-alcance-spika-tech.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00202-alcance-spika-tech.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00301-liderazgo-y-compromiso.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00302-liderazgo-y-compromiso.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00401-continuidad-de-negocio.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00501-desconexion-digital.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Políticas/plt-00601-contrasenas.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00101-gestion-de-requisitos-legales.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00201-roles-y-segregacion-de-funciones.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00203-roles-y-segregacion-de-funciones.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00301-gestion-y-revision-de-la-documentacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00302-gestion-y-revision-de-la-documentacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00401-etiquetado-y-clasificacion-de-la-informacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00501-gestion-y-analisis-de-riesgos.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00601-inventario-de-activos.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00701-adquisicion-de-nuevos-componentes-ti.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00801-proteccion-de-la-infraestructura.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-00901-proteccion-de-equipos.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01001-gestion-soportes-de-informacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01101-control-de-acceso-de-usuarios.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01201-desarrollo-seguro.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01301-copias-de-seguridad.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01302-copias-de-seguridad.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01401-gestion-de-no-conformidades-y-acciones-correctivas.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01501-gestion-y-notificacion-de-incidentes-de-seguridad.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01601-proteccion-del-correo-electronico.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01701-auditoria.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01801-proteccion-de-proyectos-it.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-01901-gestion-de-cambios-tic.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-02001-segregacion-de-redes-y-flujos-de-informacion.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-02101-accesos-remotos-y-conexiones-externas.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-02201-gestion-de-identidades.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Procedimientos/pro-02301-inteligencia-de-amenazas.md
+INFO | EXCLUIDO: docs/seguridad-iso27001/transversal/words-fuentes/Transversales/man-00101-manual-de-definiciones-y-terminologia.md
+INFO | ════════════════════════════════════════════════════════════
+INFO |   FIN — 642 archivos con FM añadido, 68 excluidos
+INFO | ════════════════════════════════════════════════════════════

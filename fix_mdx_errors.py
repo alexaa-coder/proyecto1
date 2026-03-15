@@ -1,57 +1,48 @@
 import re
 from pathlib import Path
 
-DOCS_DIR = Path("docs")
+BASE = Path("docs")
 
-def fix_content(text):
-    
-    # 1. Eliminar URLs corruptas tipo http://rminv>
-    text = re.sub(r'http://[^\s>]*>', '', text)
+files = [
+"ISO-13845/Licencia Previa de Funcionamiento/Notificaciones/notificacion-deficiencia-9170-ps.md",
+"ISO-13845/Licencia Previa de Funcionamiento/Notificaciones/2024-07-09-oficio.md",
+"ISO-13845/Licencia Previa de Funcionamiento/Notificaciones/2024-08-07-oficio.md",
+"ISO-13845/Licencia Previa de Funcionamiento/Notificaciones/2024-08-14-oficio.md",
+"ISO-13845/Licencia Previa de Funcionamiento/Notificaciones/2024-09-19-subsanaciones-oficio.md",
+"ISO-13845/Licencia Previa de Funcionamiento/2024-06-20-oficio.md",
+]
 
-    # 2. Corregir <strong> sin cerrar
-    open_strong = text.count("<strong>")
-    close_strong = text.count("</strong>")
-    if open_strong > close_strong:
-        text += "</strong>" * (open_strong - close_strong)
+def sanitize_mdx(text):
 
-    # 3. Corregir <p> sin cerrar
-    open_p = text.count("<p>")
-    close_p = text.count("</p>")
-    if open_p > close_p:
-        text += "</p>" * (open_p - close_p)
+    # eliminar macros {{...}}
+    text = re.sub(r"\{\{.*?\}\}", "", text)
 
-    # 4. Eliminar etiquetas HTML raras que rompen MDX
-    text = re.sub(r'<[^>\n]*$', '', text)
+    # eliminar atributos pandoc {width=...} etc
+    text = re.sub(r"\{[^{}\n]{1,200}\}", "", text)
 
-    # 5. Eliminar JSX roto tipo <tag
-    text = re.sub(r'<[A-Za-z0-9_-]+\s*$', '', text)
+    # eliminar jsx roto
+    text = re.sub(r"<[A-Za-z][^>\n]*$", "", text, flags=re.M)
+
+    # arreglar urls rotas
+    text = re.sub(r"(https?://[^\s>\)]+)>", r"\1", text)
 
     return text
 
 
-def process_file(path):
+for f in files:
 
-    try:
-        content = path.read_text(encoding="utf-8", errors="ignore")
-        fixed = fix_content(content)
+    path = BASE / f
 
-        if fixed != content:
-            path.write_text(fixed, encoding="utf-8")
-            print("Fixed:", path)
+    if not path.exists():
+        print("❌ no existe:", path)
+        continue
 
-    except Exception as e:
-        print("Error:", path, e)
+    print("🔧 limpiando:", path)
 
+    content = path.read_text(encoding="utf-8")
 
-def main():
+    cleaned = sanitize_mdx(content)
 
-    print("Scanning markdown files...\n")
+    path.write_text(cleaned, encoding="utf-8")
 
-    for md in DOCS_DIR.rglob("*.md"):
-        process_file(md)
-
-    print("\nFinished cleaning MDX errors.")
-
-
-if __name__ == "__main__":
-    main()
+print("\n✅ archivos reparados")

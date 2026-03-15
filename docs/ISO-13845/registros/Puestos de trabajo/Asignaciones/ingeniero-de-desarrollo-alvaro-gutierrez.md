@@ -1,1 +1,0 @@
-![](/img/ingeniero-de-desarrollo-alvaro-gutierrez/Ingeniero_de_desarrollo_Alvaro_Gutierrez.pdf-0-full.png)

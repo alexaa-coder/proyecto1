@@ -1,7 +1,0 @@
-![](/img/pnt-011-02-descripcion-de-los-puestos-d/pnt_011_02_descripcion_de_los_puestos_d.pdf-0-full.png)
-![](/img/pnt-011-02-descripcion-de-los-puestos-d/pnt_011_02_descripcion_de_los_puestos_d.pdf-1-full.png)
-![](/img/pnt-011-02-descripcion-de-los-puestos-d/pnt_011_02_descripcion_de_los_puestos_d.pdf-2-full.png)
-![](/img/pnt-011-02-descripcion-de-los-puestos-d/pnt_011_02_descripcion_de_los_puestos_d.pdf-3-full.png)
-![](/img/pnt-011-02-descripcion-de-los-puestos-d/pnt_011_02_descripcion_de_los_puestos_d.pdf-4-full.png)
-![](/img/pnt-011-02-descripcion-de-los-puestos-d/pnt_011_02_descripcion_de_los_puestos_d.pdf-5-full.png)
-![](/img/pnt-011-02-descripcion-de-los-puestos-d/pnt_011_02_descripcion_de_los_puestos_d.pdf-6-full.png)

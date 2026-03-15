@@ -1,8 +1,0 @@
-![](/img/pnt-015-03-razabilidad-identificacion-productos-procesos/pnt_015_03_razabilidad_identificacion_productos_procesos.PDF-0-full.png)
-![](/img/pnt-015-03-razabilidad-identificacion-productos-procesos/pnt_015_03_razabilidad_identificacion_productos_procesos.PDF-1-full.png)
-![](/img/pnt-015-03-razabilidad-identificacion-productos-procesos/pnt_015_03_razabilidad_identificacion_productos_procesos.PDF-2-full.png)
-![](/img/pnt-015-03-razabilidad-identificacion-productos-procesos/pnt_015_03_razabilidad_identificacion_productos_procesos.PDF-3-full.png)
-![](/img/pnt-015-03-razabilidad-identificacion-productos-procesos/pnt_015_03_razabilidad_identificacion_productos_procesos.PDF-4-full.png)
-![](/img/pnt-015-03-razabilidad-identificacion-productos-procesos/pnt_015_03_razabilidad_identificacion_productos_procesos.PDF-5-full.png)
-![](/img/pnt-015-03-razabilidad-identificacion-productos-procesos/pnt_015_03_razabilidad_identificacion_productos_procesos.PDF-6-full.png)
-![](/img/pnt-015-03-razabilidad-identificacion-productos-procesos/pnt_015_03_razabilidad_identificacion_productos_procesos.PDF-7-full.png)

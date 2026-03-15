@@ -1,1 +1,0 @@
-![](/img/cci-jose-martin/CCI_Jose_Martin.pdf-0-full.png)

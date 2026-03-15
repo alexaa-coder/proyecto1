@@ -1,1 +1,0 @@
-![](/img/coo-fernando-pozo/COO_Fernando_Pozo.pdf-0-full.png)
