@@ -1,28 +1,72 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
+  --ifm-color-primary: #1a6b8a;
+  --ifm-color-primary-dark: #175f7b;
+  --ifm-color-primary-darker: #155974;
+  --ifm-color-primary-darkest: #104860;
+  --ifm-color-primary-light: #1d7799;
+  --ifm-color-primary-lighter: #1f7da1;
+  --ifm-color-primary-lightest: #238eb5;
+  --ifm-font-family-base: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --ifm-code-font-size: 90%;
+  --ifm-navbar-height: 56px;
+  --ifm-toc-border-color: var(--ifm-color-primary-light);
 }
 
-.docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
+[data-theme='dark'] {
+  --ifm-color-primary: #4db8d4;
+  --ifm-color-primary-dark: #30aece;
+  --ifm-color-primary-darker: #22a9cb;
+  --ifm-color-primary-darkest: #1a8aa7;
+  --ifm-color-primary-light: #6ac2da;
+  --ifm-color-primary-lighter: #78c7dd;
+  --ifm-color-primary-lightest: #a0d8e8;
+  --ifm-background-color: #1a1a2e;
+  --ifm-navbar-background-color: #16213e;
+  --ifm-footer-background-color: #0f3460;
 }
 
-html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
+/* Navbar */
+.navbar {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+/* Hero de la página de inicio */
+.hero--primary {
+  background: linear-gradient(135deg, #1a6b8a 0%, #0f3460 100%);
+  padding: 4rem 0;
+}
+
+/* Cards en la home */
+.compliance-card {
+  border: 1px solid var(--ifm-color-primary-light);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.compliance-card:hover {
+  box-shadow: 0 4px 16px rgba(26, 107, 138, 0.2);
+  transform: translateY(-2px);
+}
+
+/* Sidebar */
+.menu__link--active {
+  font-weight: 600;
+}
+
+/* Badges de clasificación en frontmatter */
+.badge--iso13485 {
+  background-color: #1a6b8a;
+  color: white;
+}
+
+.badge--iso27001 {
+  background-color: #0f3460;
+  color: white;
+}
+
+/* Última actualización */
+.theme-last-updated {
+  font-size: 0.8rem;
+  color: var(--ifm-color-secondary-darkest);
 }
