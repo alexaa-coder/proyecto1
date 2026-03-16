@@ -19,7 +19,7 @@ const config = {
     defaultLocale: 'es',
     locales: ['es'],
   },
-
+  plugins: [require.resolve('docusaurus-lunr-search')],
   presets: [
     [
       'classic',
