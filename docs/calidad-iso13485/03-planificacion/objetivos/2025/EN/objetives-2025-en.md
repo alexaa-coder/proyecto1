@@ -1,6 +1,6 @@
 ---
-title: "**QUALITY OBJECTIVES 2025**"
-sidebar_label: "**QUALITY OBJECTIVES 2025**"
+title: "QUALITY OBJECTIVES 2025"
+sidebar_label: "QUALITY OBJECTIVES 2025"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

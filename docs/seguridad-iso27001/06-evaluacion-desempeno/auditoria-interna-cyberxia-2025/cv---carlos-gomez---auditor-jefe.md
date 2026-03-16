@@ -1,6 +1,6 @@
 ---
-title: "**G O M E Z**"
-sidebar_label: "**G O M E Z**"
+title: "G O M E Z"
+sidebar_label: "G O M E Z"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO RESTRINGIDO"
 fecha_revision: "2026-03-15"

@@ -1,6 +1,6 @@
 ---
-title: "**MANUAL DE TERMINOLOGÍA DEL SGSI**"
-sidebar_label: "**MANUAL DE TERMINOLOGÍA DEL SGSI**"
+title: "MANUAL DE TERMINOLOGÍA DEL SGSI"
+sidebar_label: "MANUAL DE TERMINOLOGÍA DEL SGSI"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

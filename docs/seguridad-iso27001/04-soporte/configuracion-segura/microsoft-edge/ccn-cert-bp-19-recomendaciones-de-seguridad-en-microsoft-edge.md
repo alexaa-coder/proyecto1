@@ -1,6 +1,6 @@
 ---
-title: "**BP/26**"
-sidebar_label: "**BP/26**"
+title: "BP/26"
+sidebar_label: "BP/26"
 responsable: "Responsable de RRHH"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

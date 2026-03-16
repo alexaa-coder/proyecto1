@@ -1,6 +1,6 @@
 ---
-title: "**GUÍA ANTI-SPAM OUTLOOK**"
-sidebar_label: "**GUÍA ANTI-SPAM OUTLOOK**"
+title: "GUÍA ANTI-SPAM OUTLOOK"
+sidebar_label: "GUÍA ANTI-SPAM OUTLOOK"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

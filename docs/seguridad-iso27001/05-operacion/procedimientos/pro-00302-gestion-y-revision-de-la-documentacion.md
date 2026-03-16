@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE GESTIÓN Y REVISIÓN DE** **LA DOCUMENTACIÓN**"
-sidebar_label: "**PROCEDIMIENTO DE GESTIÓN Y REVISIÓN DE** **LA DOCUMENTACIÓN**"
+title: "PROCEDIMIENTO DE GESTIÓN Y REVISIÓN DE LA DOCUMENTACIÓN"
+sidebar_label: "PROCEDIMIENTO DE GESTIÓN Y REVISIÓN DE LA DOCUMENTACIÓN"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

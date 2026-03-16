@@ -1,6 +1,6 @@
 ---
-title: "**Guía de Seguridad de las TIC** **CCN-STIC 885D**"
-sidebar_label: "**Guía de Seguridad de las TIC** **CCN-STIC 885D**"
+title: "Guía de Seguridad de las TIC CCN-STIC 885D"
+sidebar_label: "Guía de Seguridad de las TIC CCN-STIC 885D"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

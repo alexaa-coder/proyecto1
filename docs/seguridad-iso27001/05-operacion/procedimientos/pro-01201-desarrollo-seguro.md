@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE DESARROLLO** **SEGURO**"
-sidebar_label: "**PROCEDIMIENTO DE DESARROLLO** **SEGURO**"
+title: "PROCEDIMIENTO DE DESARROLLO SEGURO"
+sidebar_label: "PROCEDIMIENTO DE DESARROLLO SEGURO"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

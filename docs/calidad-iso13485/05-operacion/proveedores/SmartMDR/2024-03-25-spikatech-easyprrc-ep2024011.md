@@ -1,6 +1,6 @@
 ---
-title: "**Commercial** **Proposal**"
-sidebar_label: "**Commercial** **Proposal**"
+title: "Commercial Proposal"
+sidebar_label: "Commercial Proposal"
 responsable: "Responsable Comercial"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

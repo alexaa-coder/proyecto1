@@ -1,6 +1,6 @@
 ---
-title: "**Guía de Seguridad de las TIC** **CCN-STIC 807** **Criptología de empleo en el** **Esquema Nacional de Seguridad**"
-sidebar_label: "**Guía de Seguridad de las TIC** **CCN-STIC 807** **Criptología de empleo en el** **Esquema Nacional de Seguridad**"
+title: "Guía de Seguridad de las TIC CCN-STIC 807 Criptología de empleo en el Esquema Nacional de Seguridad"
+sidebar_label: "Guía de Seguridad de las TIC CCN-STIC 807 Criptología de empleo en el Esquema Nacional de Seguridad"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

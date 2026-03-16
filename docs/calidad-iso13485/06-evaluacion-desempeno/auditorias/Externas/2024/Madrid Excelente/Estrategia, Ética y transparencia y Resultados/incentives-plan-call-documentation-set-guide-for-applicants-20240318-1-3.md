@@ -1,6 +1,6 @@
 ---
-title: "**(GUIDELINES FOR** **APPLICANTS)**"
-sidebar_label: "**(GUIDELINES FOR** **APPLICANTS)**"
+title: "(GUIDELINES FOR APPLICANTS)"
+sidebar_label: "(GUIDELINES FOR APPLICANTS)"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

@@ -1,6 +1,6 @@
 ---
-title: "**PROTECCIÓN DEL CORREO** **ELECTRÓNICO Y LA NAVEGACIÓN WEB**"
-sidebar_label: "**PROTECCIÓN DEL CORREO** **ELECTRÓNICO Y LA NAVEGACIÓN WEB**"
+title: "PROTECCIÓN DEL CORREO ELECTRÓNICO Y LA NAVEGACIÓN WEB"
+sidebar_label: "PROTECCIÓN DEL CORREO ELECTRÓNICO Y LA NAVEGACIÓN WEB"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

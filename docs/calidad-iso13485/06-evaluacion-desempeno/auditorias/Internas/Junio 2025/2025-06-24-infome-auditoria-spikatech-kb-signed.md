@@ -1,6 +1,6 @@
 ---
-title: "**DATOS GENERALES**"
-sidebar_label: "**DATOS GENERALES**"
+title: "DATOS GENERALES"
+sidebar_label: "DATOS GENERALES"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

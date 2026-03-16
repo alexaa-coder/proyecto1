@@ -1,6 +1,6 @@
 ---
-title: "**POLÍTICA DE CONTRASEÑAS**"
-sidebar_label: "**POLÍTICA DE CONTRASEÑAS**"
+title: "POLÍTICA DE CONTRASEÑAS"
+sidebar_label: "POLÍTICA DE CONTRASEÑAS"
 responsable: "Responsable del SGSI"
 clasificacion: "USO PÚBLICO"
 fecha_revision: "2026-03-15"

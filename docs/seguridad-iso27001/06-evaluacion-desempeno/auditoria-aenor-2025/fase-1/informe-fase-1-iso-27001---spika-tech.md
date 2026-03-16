@@ -1,6 +1,6 @@
 ---
-title: "**SPIKA TECH, S.L.** Informe de Auditoría"
-sidebar_label: "**SPIKA TECH, S.L.** Informe de Auditoría"
+title: "SPIKA TECH, S.L. Informe de Auditoría"
+sidebar_label: "SPIKA TECH, S.L. Informe de Auditoría"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE PROTECCIÓN DE** **EQUIPOS**"
-sidebar_label: "**PROCEDIMIENTO DE PROTECCIÓN DE** **EQUIPOS**"
+title: "PROCEDIMIENTO DE PROTECCIÓN DE EQUIPOS"
+sidebar_label: "PROCEDIMIENTO DE PROTECCIÓN DE EQUIPOS"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

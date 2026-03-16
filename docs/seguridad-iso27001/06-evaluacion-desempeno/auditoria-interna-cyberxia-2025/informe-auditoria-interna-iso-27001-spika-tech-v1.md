@@ -1,6 +1,6 @@
 ---
-title: "**ISO 27001** **Informe de Auditoría Interna**"
-sidebar_label: "**ISO 27001** **Informe de Auditoría Interna**"
+title: "ISO 27001 Informe de Auditoría Interna"
+sidebar_label: "ISO 27001 Informe de Auditoría Interna"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO RESTRINGIDO"
 fecha_revision: "2026-03-15"

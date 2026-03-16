@@ -1,6 +1,6 @@
 ---
-title: "**NORMA DE REGISTROS DE** **AUTORIZACIONES**"
-sidebar_label: "**NORMA DE REGISTROS DE** **AUTORIZACIONES**"
+title: "NORMA DE REGISTROS DE AUTORIZACIONES"
+sidebar_label: "NORMA DE REGISTROS DE AUTORIZACIONES"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

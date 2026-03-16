@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE INVENTARIO DE ACTIVOS**"
-sidebar_label: "**PROCEDIMIENTO DE INVENTARIO DE ACTIVOS**"
+title: "PROCEDIMIENTO DE INVENTARIO DE ACTIVOS"
+sidebar_label: "PROCEDIMIENTO DE INVENTARIO DE ACTIVOS"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

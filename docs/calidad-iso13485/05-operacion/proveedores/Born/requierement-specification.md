@@ -1,6 +1,6 @@
 ---
-title: "**REQUIEREMENT SPECIFICATION**"
-sidebar_label: "**REQUIEREMENT SPECIFICATION**"
+title: "REQUIEREMENT SPECIFICATION"
+sidebar_label: "REQUIEREMENT SPECIFICATION"
 responsable: "Responsable Comercial"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

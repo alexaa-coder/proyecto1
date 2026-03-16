@@ -1,6 +1,6 @@
 ---
-title: "**BP/06**"
-sidebar_label: "**BP/06**"
+title: "BP/06"
+sidebar_label: "BP/06"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

@@ -1,6 +1,6 @@
 ---
-title: "**Guía de Seguridad de las TIC** **CCN-STIC 885A** **Guía de configuración segura para Office 365**"
-sidebar_label: "**Guía de Seguridad de las TIC** **CCN-STIC 885A** **Guía de configuración segura para Office 365**"
+title: "Guía de Seguridad de las TIC CCN-STIC 885A Guía de configuración segura para Office 365"
+sidebar_label: "Guía de Seguridad de las TIC CCN-STIC 885A Guía de configuración segura para Office 365"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

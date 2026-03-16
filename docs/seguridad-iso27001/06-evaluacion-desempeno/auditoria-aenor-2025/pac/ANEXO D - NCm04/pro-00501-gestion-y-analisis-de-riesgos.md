@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE ANÁLISIS Y GESTIÓN DE** **RIESGOS**"
-sidebar_label: "**PROCEDIMIENTO DE ANÁLISIS Y GESTIÓN DE** **RIESGOS**"
+title: "PROCEDIMIENTO DE ANÁLISIS Y GESTIÓN DE RIESGOS"
+sidebar_label: "PROCEDIMIENTO DE ANÁLISIS Y GESTIÓN DE RIESGOS"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO RESTRINGIDO"
 fecha_revision: "2026-03-15"

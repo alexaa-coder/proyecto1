@@ -1,6 +1,6 @@
 ---
-title: "**POLÍTICA DE CONTINUIDAD DE NEGOCIO**"
-sidebar_label: "**POLÍTICA DE CONTINUIDAD DE NEGOCIO**"
+title: "POLÍTICA DE CONTINUIDAD DE NEGOCIO"
+sidebar_label: "POLÍTICA DE CONTINUIDAD DE NEGOCIO"
 responsable: "Responsable del SGSI"
 clasificacion: "USO PÚBLICO"
 fecha_revision: "2026-03-15"

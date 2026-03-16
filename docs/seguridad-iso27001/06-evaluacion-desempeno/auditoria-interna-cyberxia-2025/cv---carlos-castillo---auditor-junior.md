@@ -1,6 +1,6 @@
 ---
-title: "**C A S T I L L O**"
-sidebar_label: "**C A S T I L L O**"
+title: "C A S T I L L O"
+sidebar_label: "C A S T I L L O"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO RESTRINGIDO"
 fecha_revision: "2026-03-15"

@@ -1,6 +1,6 @@
 ---
-title: "**GUIA DE INSTALACIÓN Y USO DE TURNOS**"
-sidebar_label: "**GUIA DE INSTALACIÓN Y USO DE TURNOS**"
+title: "GUIA DE INSTALACIÓN Y USO DE TURNOS"
+sidebar_label: "GUIA DE INSTALACIÓN Y USO DE TURNOS"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

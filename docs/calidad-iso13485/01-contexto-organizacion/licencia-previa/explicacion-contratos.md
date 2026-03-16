@@ -1,6 +1,6 @@
 ---
-title: "**DOCUMENTO EXPLICATIVO SOBRE LA AUSENCIA DE CONTRATO** **FORMALIZADO**"
-sidebar_label: "**DOCUMENTO EXPLICATIVO SOBRE LA AUSENCIA DE CONTRATO** **FORMALIZADO**"
+title: "DOCUMENTO EXPLICATIVO SOBRE LA AUSENCIA DE CONTRATO FORMALIZADO"
+sidebar_label: "DOCUMENTO EXPLICATIVO SOBRE LA AUSENCIA DE CONTRATO FORMALIZADO"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"
@@ -25,17 +25,15 @@ proveedores como Firebase (Google) y Azure (Microsoft).
 
 Debido a la naturaleza de estos servicios, las relaciones contractuales no siguen el
 formato tradicional de contratos firmados físicamente, sino que se rigen por la
-aceptación de Términos y Condiciones electrónicamente, al momento de la
+aceptación de Términos y Condiciones electrónicamente, al momento de la 
+contratación de los servicios. A continuación, se detallan los aspectos relevantes de 
+esta subcontratación, su justificación y cómo estos servicios cumplen con los requisitos 
+establecidos por las autoridades para la obtención de la licencia. 
 
-|Col1|Col2|
-|---|---|
-|establecidos por las autoridades para la ob|tención de la licencia.|
-|El uso de servicios en la nube se ha vuelto usoftware debido a su flexibilidad, segurida|n estándar en la industria del desarrollo de   d y escalabilidad. Spika Tech ha optado por|
-|subcontratar servicios específicos de comproveedores líderes en el mercado, a sabe|putación en la nube y bases de datos con   r, Firebase (un servicio ofrecido por Google|
-
-
-
-LLC) y Microsoft Azure (un servicio de Microsoft Corporation). Estos proveedores
+El uso de servicios en la nube se ha vuelto un estándar en la industria del desarrollo de 
+software debido a su flexibilidad, seguridad y escalabilidad. Spika Tech ha optado por 
+subcontratar servicios específicos de computación en la nube y bases de datos con 
+proveedores líderes en el mercado, a saber, Firebase (un servicio ofrecido por Google LLC) y Microsoft Azure (un servicio de Microsoft Corporation). Estos proveedores
 ofrecen infraestructuras robustas, garantizando altos niveles de disponibilidad y
 cumplimiento normativo, lo cual es esencial para nuestra operación.
 
@@ -61,6 +59,7 @@ documento para su correcta comprobación.
 ![](/img/explicacion-contratos/Explicación-contratos.pdf-0-2.png)
 ![](/img/explicacion-contratos/Explicación-contratos.pdf-1-0.png)
 
+      - [https://developers.google.com/terms/](https://developers.google.com/terms/)
 
       - [https://firebase.google.com/terms/data-processing-terms](https://firebase.google.com/terms/data-processing-terms)
 

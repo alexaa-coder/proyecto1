@@ -1,6 +1,6 @@
 ---
-title: "**Guía de Seguridad de las TIC** **CCN-STIC 811** **Interconexión en el ENS**"
-sidebar_label: "**Guía de Seguridad de las TIC** **CCN-STIC 811** **Interconexión en el ENS**"
+title: "Guía de Seguridad de las TIC CCN-STIC 811 Interconexión en el ENS"
+sidebar_label: "Guía de Seguridad de las TIC CCN-STIC 811 Interconexión en el ENS"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

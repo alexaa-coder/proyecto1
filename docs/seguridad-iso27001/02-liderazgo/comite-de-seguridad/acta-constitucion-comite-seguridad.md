@@ -1,6 +1,6 @@
 ---
-title: "**ACTA DEL COMITÉ DE SEGURIDAD DE LA INFORMACIÓN N.º 001-** **2025**"
-sidebar_label: "**ACTA DEL COMITÉ DE SEGURIDAD DE LA INFORMACIÓN N.º 001-** **2025**"
+title: "ACTA DEL COMITÉ DE SEGURIDAD DE LA INFORMACIÓN N.º 001- 2025"
+sidebar_label: "ACTA DEL COMITÉ DE SEGURIDAD DE LA INFORMACIÓN N.º 001- 2025"
 responsable: "Jefe de Seguridad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

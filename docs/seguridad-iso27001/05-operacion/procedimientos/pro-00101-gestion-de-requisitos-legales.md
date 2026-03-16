@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE GESTIÓN DE REQUISITOS** **LEGALES**"
-sidebar_label: "**PROCEDIMIENTO DE GESTIÓN DE REQUISITOS** **LEGALES**"
+title: "PROCEDIMIENTO DE GESTIÓN DE REQUISITOS LEGALES"
+sidebar_label: "PROCEDIMIENTO DE GESTIÓN DE REQUISITOS LEGALES"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

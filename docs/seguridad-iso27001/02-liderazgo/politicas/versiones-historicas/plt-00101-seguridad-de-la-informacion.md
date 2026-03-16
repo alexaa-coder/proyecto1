@@ -1,6 +1,6 @@
 ---
-title: "**POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN**"
-sidebar_label: "**POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN**"
+title: "POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN"
+sidebar_label: "POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN"
 responsable: "Responsable del SGSI"
 clasificacion: "USO PÚBLICO"
 fecha_revision: "2026-03-15"

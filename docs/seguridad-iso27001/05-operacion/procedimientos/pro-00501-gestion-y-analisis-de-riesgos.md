@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE ANÁLISIS Y GESTIÓN DE** **RIESGOS**"
-sidebar_label: "**PROCEDIMIENTO DE ANÁLISIS Y GESTIÓN DE** **RIESGOS**"
+title: "PROCEDIMIENTO DE ANÁLISIS Y GESTIÓN DE RIESGOS"
+sidebar_label: "PROCEDIMIENTO DE ANÁLISIS Y GESTIÓN DE RIESGOS"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

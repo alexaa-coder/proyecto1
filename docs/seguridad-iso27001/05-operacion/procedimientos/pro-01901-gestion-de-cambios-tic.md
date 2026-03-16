@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE GESTIÓN DE** **CAMBIOS TIC**"
-sidebar_label: "**PROCEDIMIENTO DE GESTIÓN DE** **CAMBIOS TIC**"
+title: "PROCEDIMIENTO DE GESTIÓN DE CAMBIOS TIC"
+sidebar_label: "PROCEDIMIENTO DE GESTIÓN DE CAMBIOS TIC"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

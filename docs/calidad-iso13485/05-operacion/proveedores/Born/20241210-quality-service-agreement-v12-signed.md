@@ -1,6 +1,6 @@
 ---
-title: "**1. ANNEX 1: Model Quality Agreement**"
-sidebar_label: "**1. ANNEX 1: Model Quality Agreement**"
+title: "1. ANNEX 1: Model Quality Agreement"
+sidebar_label: "1. ANNEX 1: Model Quality Agreement"
 responsable: "Responsable Comercial"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

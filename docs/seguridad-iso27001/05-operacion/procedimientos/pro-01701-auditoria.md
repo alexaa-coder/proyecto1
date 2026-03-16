@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE AUDITORÍAS**"
-sidebar_label: "**PROCEDIMIENTO DE AUDITORÍAS**"
+title: "PROCEDIMIENTO DE AUDITORÍAS"
+sidebar_label: "PROCEDIMIENTO DE AUDITORÍAS"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

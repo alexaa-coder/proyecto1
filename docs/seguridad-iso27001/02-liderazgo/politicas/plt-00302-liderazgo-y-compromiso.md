@@ -1,6 +1,6 @@
 ---
-title: "**POLÍTICA DE LIDERAZGO Y COMPROMISO**"
-sidebar_label: "**POLÍTICA DE LIDERAZGO Y COMPROMISO**"
+title: "POLÍTICA DE LIDERAZGO Y COMPROMISO"
+sidebar_label: "POLÍTICA DE LIDERAZGO Y COMPROMISO"
 responsable: "Responsable del SGSI"
 clasificacion: "USO PÚBLICO"
 fecha_revision: "2026-03-15"

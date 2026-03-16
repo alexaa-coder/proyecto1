@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE COPIAS DE** **SEGURIDAD Y RESPALDO**"
-sidebar_label: "**PROCEDIMIENTO DE COPIAS DE** **SEGURIDAD Y RESPALDO**"
+title: "PROCEDIMIENTO DE COPIAS DE SEGURIDAD Y RESPALDO"
+sidebar_label: "PROCEDIMIENTO DE COPIAS DE SEGURIDAD Y RESPALDO"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

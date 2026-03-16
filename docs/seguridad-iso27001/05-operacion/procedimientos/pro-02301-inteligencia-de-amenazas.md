@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE INTELIGENCIA DE** **AMENAZAS**"
-sidebar_label: "**PROCEDIMIENTO DE INTELIGENCIA DE** **AMENAZAS**"
+title: "PROCEDIMIENTO DE INTELIGENCIA DE AMENAZAS"
+sidebar_label: "PROCEDIMIENTO DE INTELIGENCIA DE AMENAZAS"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

@@ -1,6 +1,6 @@
 ---
-title: "**POLÍTICA DE ALCANCE DEL SGSI SPIKA TECH**"
-sidebar_label: "**POLÍTICA DE ALCANCE DEL SGSI SPIKA TECH**"
+title: "POLÍTICA DE ALCANCE DEL SGSI SPIKA TECH"
+sidebar_label: "POLÍTICA DE ALCANCE DEL SGSI SPIKA TECH"
 responsable: "Responsable del SGSI"
 clasificacion: "HISTÓRICO"
 fecha_revision: "2026-03-15"

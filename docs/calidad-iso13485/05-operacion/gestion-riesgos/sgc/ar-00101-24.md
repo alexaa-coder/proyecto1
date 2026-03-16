@@ -1,6 +1,6 @@
 ---
-title: "**ÍNDICE**"
-sidebar_label: "**ÍNDICE**"
+title: "ÍNDICE"
+sidebar_label: "ÍNDICE"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

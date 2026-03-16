@@ -1,6 +1,6 @@
 ---
-title: "**DESIGNACION RESPONSABLE** **TÉCNICO**"
-sidebar_label: "**DESIGNACION RESPONSABLE** **TÉCNICO**"
+title: "DESIGNACION RESPONSABLE TÉCNICO"
+sidebar_label: "DESIGNACION RESPONSABLE TÉCNICO"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

@@ -1,6 +1,6 @@
 ---
-title: "**Guía de Seguridad de las TIC** **CCN-STIC 885B** **Guía de configuración segura para SharePoint Online**"
-sidebar_label: "**Guía de Seguridad de las TIC** **CCN-STIC 885B** **Guía de configuración segura para SharePoint Online**"
+title: "Guía de Seguridad de las TIC CCN-STIC 885B Guía de configuración segura para SharePoint Online"
+sidebar_label: "Guía de Seguridad de las TIC CCN-STIC 885B Guía de configuración segura para SharePoint Online"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

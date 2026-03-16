@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE ROLES Y SEGREGACIÓN** **DE FUNCIONES**"
-sidebar_label: "**PROCEDIMIENTO DE ROLES Y SEGREGACIÓN** **DE FUNCIONES**"
+title: "PROCEDIMIENTO DE ROLES Y SEGREGACIÓN DE FUNCIONES"
+sidebar_label: "PROCEDIMIENTO DE ROLES Y SEGREGACIÓN DE FUNCIONES"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

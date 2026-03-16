@@ -1,6 +1,6 @@
 ---
-title: "**INFORME DE ANÁLISIS Y GESTIÓN DE** **RIESGOS**"
-sidebar_label: "**INFORME DE ANÁLISIS Y GESTIÓN DE** **RIESGOS**"
+title: "INFORME DE ANÁLISIS Y GESTIÓN DE RIESGOS"
+sidebar_label: "INFORME DE ANÁLISIS Y GESTIÓN DE RIESGOS"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO RESTRINGIDO"
 fecha_revision: "2026-03-15"

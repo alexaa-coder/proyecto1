@@ -1,6 +1,6 @@
 ---
-title: "**LEGISLACIÓN CONSOLIDADA**"
-sidebar_label: "**LEGISLACIÓN CONSOLIDADA**"
+title: "LEGISLACIÓN CONSOLIDADA"
+sidebar_label: "LEGISLACIÓN CONSOLIDADA"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE CONTROL DE** **ACCESO DE USUARIOS**"
-sidebar_label: "**PROCEDIMIENTO DE CONTROL DE** **ACCESO DE USUARIOS**"
+title: "PROCEDIMIENTO DE CONTROL DE ACCESO DE USUARIOS"
+sidebar_label: "PROCEDIMIENTO DE CONTROL DE ACCESO DE USUARIOS"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

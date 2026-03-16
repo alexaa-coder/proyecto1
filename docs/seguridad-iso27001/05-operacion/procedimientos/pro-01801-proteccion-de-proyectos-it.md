@@ -1,6 +1,6 @@
 ---
-title: "**PROCEDIMIENTO DE PROTECCIÓN DE** **PROYECTOS IT**"
-sidebar_label: "**PROCEDIMIENTO DE PROTECCIÓN DE** **PROYECTOS IT**"
+title: "PROCEDIMIENTO DE PROTECCIÓN DE PROYECTOS IT"
+sidebar_label: "PROCEDIMIENTO DE PROTECCIÓN DE PROYECTOS IT"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

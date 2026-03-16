@@ -1,6 +1,6 @@
 ---
-title: "**APPENDIX C DECLARATION OF HONOUR**"
-sidebar_label: "**APPENDIX C DECLARATION OF HONOUR**"
+title: "APPENDIX C DECLARATION OF HONOUR"
+sidebar_label: "APPENDIX C DECLARATION OF HONOUR"
 responsable: "Director de Calidad"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

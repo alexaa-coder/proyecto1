@@ -1,6 +1,6 @@
 ---
-title: "**BP/19**"
-sidebar_label: "**BP/19**"
+title: "BP/19"
+sidebar_label: "BP/19"
 responsable: "Responsable de RRHH"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"

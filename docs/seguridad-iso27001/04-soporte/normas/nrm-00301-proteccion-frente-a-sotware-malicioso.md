@@ -1,6 +1,6 @@
 ---
-title: "**NORMA DE PROTECCIÓN FRENTE A** **SOFTWARE MALICIOSO**"
-sidebar_label: "**NORMA DE PROTECCIÓN FRENTE A** **SOFTWARE MALICIOSO**"
+title: "NORMA DE PROTECCIÓN FRENTE A SOFTWARE MALICIOSO"
+sidebar_label: "NORMA DE PROTECCIÓN FRENTE A SOFTWARE MALICIOSO"
 responsable: "Responsable del SGSI"
 clasificacion: "USO INTERNO"
 fecha_revision: "2026-03-15"
